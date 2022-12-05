@@ -1,0 +1,902 @@
+tournament_name,match_name,stage_name,group_name,group_stage,knockout_stage,match_date,city_name,country_name,home_team_name,away_team_name,score,home_team_score,away_team_score,home_team_score_margin,away_team_score_margin,result,home_team_win,away_team_win,draw,winning_team,losing_team,year
+1930 FIFA World Cup,France v Mexico,group stage,Group 1,1,0,7/13/1930,Montevideo,Uruguay,France,Mexico,4–1,4,1,3,-3,home team win,1,0,0,France,Mexico,1930
+1930 FIFA World Cup,United States v Belgium,group stage,Group 4,1,0,7/13/1930,Montevideo,Uruguay,United States,Belgium,3–0,3,0,3,-3,home team win,1,0,0,United States,Belgium,1930
+1930 FIFA World Cup,Yugoslavia v Brazil,group stage,Group 2,1,0,7/14/1930,Montevideo,Uruguay,Yugoslavia,Brazil,2–1,2,1,1,-1,home team win,1,0,0,Yugoslavia,Brazil,1930
+1930 FIFA World Cup,Romania v Peru,group stage,Group 3,1,0,7/14/1930,Montevideo,Uruguay,Romania,Peru,3–1,3,1,2,-2,home team win,1,0,0,Romania,Peru,1930
+1930 FIFA World Cup,Argentina v France,group stage,Group 1,1,0,7/15/1930,Montevideo,Uruguay,Argentina,France,1–0,1,0,1,-1,home team win,1,0,0,Argentina,France,1930
+1930 FIFA World Cup,Chile v Mexico,group stage,Group 1,1,0,7/16/1930,Montevideo,Uruguay,Chile,Mexico,3–0,3,0,3,-3,home team win,1,0,0,Chile,Mexico,1930
+1930 FIFA World Cup,Yugoslavia v Bolivia,group stage,Group 2,1,0,7/17/1930,Montevideo,Uruguay,Yugoslavia,Bolivia,4–0,4,0,4,-4,home team win,1,0,0,Yugoslavia,Bolivia,1930
+1930 FIFA World Cup,United States v Paraguay,group stage,Group 4,1,0,7/17/1930,Montevideo,Uruguay,United States,Paraguay,3–0,3,0,3,-3,home team win,1,0,0,United States,Paraguay,1930
+1930 FIFA World Cup,Uruguay v Peru,group stage,Group 3,1,0,7/18/1930,Montevideo,Uruguay,Uruguay,Peru,1–0,1,0,1,-1,home team win,1,0,0,Uruguay,Peru,1930
+1930 FIFA World Cup,Chile v France,group stage,Group 1,1,0,7/19/1930,Montevideo,Uruguay,Chile,France,1–0,1,0,1,-1,home team win,1,0,0,Chile,France,1930
+1930 FIFA World Cup,Argentina v Mexico,group stage,Group 1,1,0,7/19/1930,Montevideo,Uruguay,Argentina,Mexico,6–3,6,3,3,-3,home team win,1,0,0,Argentina,Mexico,1930
+1930 FIFA World Cup,Brazil v Bolivia,group stage,Group 2,1,0,7/20/1930,Montevideo,Uruguay,Brazil,Bolivia,4–0,4,0,4,-4,home team win,1,0,0,Brazil,Bolivia,1930
+1930 FIFA World Cup,Paraguay v Belgium,group stage,Group 4,1,0,7/20/1930,Montevideo,Uruguay,Paraguay,Belgium,1–0,1,0,1,-1,home team win,1,0,0,Paraguay,Belgium,1930
+1930 FIFA World Cup,Uruguay v Romania,group stage,Group 3,1,0,7/21/1930,Montevideo,Uruguay,Uruguay,Romania,4–0,4,0,4,-4,home team win,1,0,0,Uruguay,Romania,1930
+1930 FIFA World Cup,Argentina v Chile,group stage,Group 1,1,0,7/22/1930,Montevideo,Uruguay,Argentina,Chile,3–1,3,1,2,-2,home team win,1,0,0,Argentina,Chile,1930
+1930 FIFA World Cup,Argentina v United States,semi-finals,not applicable,0,1,7/26/1930,Montevideo,Uruguay,Argentina,United States,6–1,6,1,5,-5,home team win,1,0,0,Argentina,United States,1930
+1930 FIFA World Cup,Uruguay v Yugoslavia,semi-finals,not applicable,0,1,7/27/1930,Montevideo,Uruguay,Uruguay,Yugoslavia,6–1,6,1,5,-5,home team win,1,0,0,Uruguay,Yugoslavia,1930
+1930 FIFA World Cup,Uruguay v Argentina,final,not applicable,0,1,7/30/1930,Montevideo,Uruguay,Uruguay,Argentina,4–2,4,2,2,-2,home team win,1,0,0,Uruguay,Argentina,1930
+1934 FIFA World Cup,Austria v France,round of 16,not applicable,0,1,5/27/1934,Turin,Italy,Austria,France,3–2,3,2,1,-1,home team win,1,0,0,Austria,France,1934
+1934 FIFA World Cup,Czechoslovakia v Romania,round of 16,not applicable,0,1,5/27/1934,Trieste,Italy,Czechoslovakia,Romania,2–1,2,1,1,-1,home team win,1,0,0,Czechoslovakia,Romania,1934
+1934 FIFA World Cup,Germany v Belgium,round of 16,not applicable,0,1,5/27/1934,Florence,Italy,Germany,Belgium,5–2,5,2,3,-3,home team win,1,0,0,Germany,Belgium,1934
+1934 FIFA World Cup,Hungary v Egypt,round of 16,not applicable,0,1,5/27/1934,Naples,Italy,Hungary,Egypt,4–2,4,2,2,-2,home team win,1,0,0,Hungary,Egypt,1934
+1934 FIFA World Cup,Italy v United States,round of 16,not applicable,0,1,5/27/1934,Rome,Italy,Italy,United States,7–1,7,1,6,-6,home team win,1,0,0,Italy,United States,1934
+1934 FIFA World Cup,Spain v Brazil,round of 16,not applicable,0,1,5/27/1934,Genoa,Italy,Spain,Brazil,3–1,3,1,2,-2,home team win,1,0,0,Spain,Brazil,1934
+1934 FIFA World Cup,Sweden v Argentina,round of 16,not applicable,0,1,5/27/1934,Bologna,Italy,Sweden,Argentina,3–2,3,2,1,-1,home team win,1,0,0,Sweden,Argentina,1934
+1934 FIFA World Cup,Switzerland v Netherlands,round of 16,not applicable,0,1,5/27/1934,Milan,Italy,Switzerland,Netherlands,3–2,3,2,1,-1,home team win,1,0,0,Switzerland,Netherlands,1934
+1934 FIFA World Cup,Austria v Hungary,quarter-finals,not applicable,0,1,5/31/1934,Bologna,Italy,Austria,Hungary,2–1,2,1,1,-1,home team win,1,0,0,Austria,Hungary,1934
+1934 FIFA World Cup,Czechoslovakia v Switzerland,quarter-finals,not applicable,0,1,5/31/1934,Turin,Italy,Czechoslovakia,Switzerland,3–2,3,2,1,-1,home team win,1,0,0,Czechoslovakia,Switzerland,1934
+1934 FIFA World Cup,Germany v Sweden,quarter-finals,not applicable,0,1,5/31/1934,Milan,Italy,Germany,Sweden,2–1,2,1,1,-1,home team win,1,0,0,Germany,Sweden,1934
+1934 FIFA World Cup,Italy v Spain,quarter-finals,not applicable,0,1,5/31/1934,Florence,Italy,Italy,Spain,1–1,1,1,0,0,draw,0,0,1,Spain,Italy,1934
+1934 FIFA World Cup,Italy v Spain,quarter-finals,not applicable,0,1,6/1/1934,Florence,Italy,Italy,Spain,1–0,1,0,1,-1,home team win,1,0,0,Italy,Spain,1934
+1934 FIFA World Cup,Czechoslovakia v Germany,semi-finals,not applicable,0,1,6/3/1934,Rome,Italy,Czechoslovakia,Germany,3–1,3,1,2,-2,home team win,1,0,0,Czechoslovakia,Germany,1934
+1934 FIFA World Cup,Italy v Austria,semi-finals,not applicable,0,1,6/3/1934,Milan,Italy,Italy,Austria,1–0,1,0,1,-1,home team win,1,0,0,Italy,Austria,1934
+1934 FIFA World Cup,Germany v Austria,third-place match,not applicable,0,1,6/7/1934,Naples,Italy,Germany,Austria,3–2,3,2,1,-1,home team win,1,0,0,Germany,Austria,1934
+1934 FIFA World Cup,Italy v Czechoslovakia,final,not applicable,0,1,6/10/1934,Rome,Italy,Italy,Czechoslovakia,2–1,2,1,1,-1,home team win,1,0,0,Italy,Czechoslovakia,1934
+1938 FIFA World Cup,Switzerland v Germany,round of 16,not applicable,0,1,6/4/1938,Paris,France,Switzerland,Germany,1–1,1,1,0,0,draw,0,0,1,Germany,Switzerland,1938
+1938 FIFA World Cup,Cuba v Romania,round of 16,not applicable,0,1,6/5/1938,Toulouse,France,Cuba,Romania,3–3,3,3,0,0,draw,0,0,1,Romania,Cuba,1938
+1938 FIFA World Cup,France v Belgium,round of 16,not applicable,0,1,6/5/1938,Paris,France,France,Belgium,3–1,3,1,2,-2,home team win,1,0,0,France,Belgium,1938
+1938 FIFA World Cup,Hungary v Dutch East Indies,round of 16,not applicable,0,1,6/5/1938,Reims,France,Hungary,Dutch East Indies,6–0,6,0,6,-6,home team win,1,0,0,Hungary,Dutch East Indies,1938
+1938 FIFA World Cup,Italy v Norway,round of 16,not applicable,0,1,6/5/1938,Marseille,France,Italy,Norway,2–1,2,1,1,-1,home team win,1,0,0,Italy,Norway,1938
+1938 FIFA World Cup,Brazil v Poland,round of 16,not applicable,0,1,6/5/1938,Strasbourg,France,Brazil,Poland,6–5,6,5,1,-1,home team win,1,0,0,Brazil,Poland,1938
+1938 FIFA World Cup,Czechoslovakia v Netherlands,round of 16,not applicable,0,1,6/5/1938,Le Havre,France,Czechoslovakia,Netherlands,3–0,3,0,3,-3,home team win,1,0,0,Czechoslovakia,Netherlands,1938
+1938 FIFA World Cup,Cuba v Romania,round of 16,not applicable,0,1,6/9/1938,Toulouse,France,Cuba,Romania,2–1,2,1,1,-1,home team win,1,0,0,Cuba,Romania,1938
+1938 FIFA World Cup,Switzerland v Germany,round of 16,not applicable,0,1,6/9/1938,Paris,France,Switzerland,Germany,4–2,4,2,2,-2,home team win,1,0,0,Switzerland,Germany,1938
+1938 FIFA World Cup,Brazil v Czechoslovakia,quarter-finals,not applicable,0,1,6/12/1938,Bordeaux,France,Brazil,Czechoslovakia,1–1,1,1,0,0,draw,0,0,1,Czechoslovakia,Brazil,1938
+1938 FIFA World Cup,Hungary v Switzerland,quarter-finals,not applicable,0,1,6/12/1938,Lille,France,Hungary,Switzerland,2–0,2,0,2,-2,home team win,1,0,0,Hungary,Switzerland,1938
+1938 FIFA World Cup,Italy v France,quarter-finals,not applicable,0,1,6/12/1938,Paris,France,Italy,France,3–1,3,1,2,-2,home team win,1,0,0,Italy,France,1938
+1938 FIFA World Cup,Sweden v Cuba,quarter-finals,not applicable,0,1,6/12/1938,Antibes,France,Sweden,Cuba,8–0,8,0,8,-8,home team win,1,0,0,Sweden,Cuba,1938
+1938 FIFA World Cup,Brazil v Czechoslovakia,quarter-finals,not applicable,0,1,6/14/1938,Bordeaux,France,Brazil,Czechoslovakia,2–1,2,1,1,-1,home team win,1,0,0,Brazil,Czechoslovakia,1938
+1938 FIFA World Cup,Hungary v Sweden,semi-finals,not applicable,0,1,6/16/1938,Paris,France,Hungary,Sweden,5–1,5,1,4,-4,home team win,1,0,0,Hungary,Sweden,1938
+1938 FIFA World Cup,Italy v Brazil,semi-finals,not applicable,0,1,6/16/1938,Marseille,France,Italy,Brazil,2–1,2,1,1,-1,home team win,1,0,0,Italy,Brazil,1938
+1938 FIFA World Cup,Brazil v Sweden,third-place match,not applicable,0,1,6/19/1938,Bordeaux,France,Brazil,Sweden,4–2,4,2,2,-2,home team win,1,0,0,Brazil,Sweden,1938
+1938 FIFA World Cup,Italy v Hungary,final,not applicable,0,1,6/19/1938,Paris,France,Italy,Hungary,4–2,4,2,2,-2,home team win,1,0,0,Italy,Hungary,1938
+1950 FIFA World Cup,Brazil v Mexico,group stage,Group 1,1,0,6/24/1950,Rio de Janeiro,Brazil,Brazil,Mexico,4–0,4,0,4,-4,home team win,1,0,0,Brazil,Mexico,1950
+1950 FIFA World Cup,Yugoslavia v Switzerland,group stage,Group 1,1,0,6/25/1950,Belo Horizonte,Brazil,Yugoslavia,Switzerland,3–0,3,0,3,-3,home team win,1,0,0,Yugoslavia,Switzerland,1950
+1950 FIFA World Cup,England v Chile,group stage,Group 2,1,0,6/25/1950,Rio de Janeiro,Brazil,England,Chile,2–0,2,0,2,-2,home team win,1,0,0,England,Chile,1950
+1950 FIFA World Cup,Spain v United States,group stage,Group 2,1,0,6/25/1950,Curitiba,Brazil,Spain,United States,3–1,3,1,2,-2,home team win,1,0,0,Spain,United States,1950
+1950 FIFA World Cup,Sweden v Italy,group stage,Group 3,1,0,6/25/1950,São Paulo,Brazil,Sweden,Italy,3–2,3,2,1,-1,home team win,1,0,0,Sweden,Italy,1950
+1950 FIFA World Cup,Brazil v Switzerland,group stage,Group 1,1,0,6/28/1950,São Paulo,Brazil,Brazil,Switzerland,2–2,2,2,0,0,draw,0,0,1,Switzerland,Brazil,1950
+1950 FIFA World Cup,Yugoslavia v Mexico,group stage,Group 1,1,0,6/28/1950,Porto Alegre,Brazil,Yugoslavia,Mexico,4–1,4,1,3,-3,home team win,1,0,0,Yugoslavia,Mexico,1950
+1950 FIFA World Cup,Spain v Chile,group stage,Group 2,1,0,6/29/1950,Rio de Janeiro,Brazil,Spain,Chile,2–0,2,0,2,-2,home team win,1,0,0,Spain,Chile,1950
+1950 FIFA World Cup,United States v England,group stage,Group 2,1,0,6/29/1950,Belo Horizonte,Brazil,United States,England,1–0,1,0,1,-1,home team win,1,0,0,United States,England,1950
+1950 FIFA World Cup,Sweden v Paraguay,group stage,Group 3,1,0,6/29/1950,Curitiba,Brazil,Sweden,Paraguay,2–2,2,2,0,0,draw,0,0,1,Paraguay,Sweden,1950
+1950 FIFA World Cup,Brazil v Yugoslavia,group stage,Group 1,1,0,7/1/1950,Rio de Janeiro,Brazil,Brazil,Yugoslavia,2–0,2,0,2,-2,home team win,1,0,0,Brazil,Yugoslavia,1950
+1950 FIFA World Cup,Chile v United States,group stage,Group 2,1,0,7/2/1950,Recife,Brazil,Chile,United States,5–2,5,2,3,-3,home team win,1,0,0,Chile,United States,1950
+1950 FIFA World Cup,Spain v England,group stage,Group 2,1,0,7/2/1950,Rio de Janeiro,Brazil,Spain,England,1–0,1,0,1,-1,home team win,1,0,0,Spain,England,1950
+1950 FIFA World Cup,Italy v Paraguay,group stage,Group 3,1,0,7/2/1950,São Paulo,Brazil,Italy,Paraguay,2–0,2,0,2,-2,home team win,1,0,0,Italy,Paraguay,1950
+1950 FIFA World Cup,Uruguay v Bolivia,group stage,Group 4,1,0,7/2/1950,Belo Horizonte,Brazil,Uruguay,Bolivia,8–0,8,0,8,-8,home team win,1,0,0,Uruguay,Bolivia,1950
+1950 FIFA World Cup,Switzerland v Mexico,group stage,Group 1,1,0,7/2/1950,Porto Alegre,Brazil,Switzerland,Mexico,2–1,2,1,1,-1,home team win,1,0,0,Switzerland,Mexico,1950
+1950 FIFA World Cup,Brazil v Sweden,final round,not applicable,1,0,7/9/1950,Rio de Janeiro,Brazil,Brazil,Sweden,7–1,7,1,6,-6,home team win,1,0,0,Brazil,Sweden,1950
+1950 FIFA World Cup,Uruguay v Spain,final round,not applicable,1,0,7/9/1950,São Paulo,Brazil,Uruguay,Spain,2–2,2,2,0,0,draw,0,0,1,Spain,Uruguay,1950
+1950 FIFA World Cup,Brazil v Spain,final round,not applicable,1,0,7/13/1950,Rio de Janeiro,Brazil,Brazil,Spain,6–1,6,1,5,-5,home team win,1,0,0,Brazil,Spain,1950
+1950 FIFA World Cup,Uruguay v Sweden,final round,not applicable,1,0,7/13/1950,São Paulo,Brazil,Uruguay,Sweden,3–2,3,2,1,-1,home team win,1,0,0,Uruguay,Sweden,1950
+1950 FIFA World Cup,Sweden v Spain,final round,not applicable,1,0,7/16/1950,São Paulo,Brazil,Sweden,Spain,3–1,3,1,2,-2,home team win,1,0,0,Sweden,Spain,1950
+1950 FIFA World Cup,Uruguay v Brazil,final round,not applicable,1,0,7/16/1950,Rio de Janeiro,Brazil,Uruguay,Brazil,2–1,2,1,1,-1,home team win,1,0,0,Uruguay,Brazil,1950
+1954 FIFA World Cup,Brazil v Mexico,group stage,Group 1,1,0,6/16/1954,Geneva,Switzerland,Brazil,Mexico,5–0,5,0,5,-5,home team win,1,0,0,Brazil,Mexico,1954
+1954 FIFA World Cup,Yugoslavia v France,group stage,Group 1,1,0,6/16/1954,Lausanne,Switzerland,Yugoslavia,France,1–0,1,0,1,-1,home team win,1,0,0,Yugoslavia,France,1954
+1954 FIFA World Cup,Austria v Scotland,group stage,Group 3,1,0,6/16/1954,Zürich,Switzerland,Austria,Scotland,1–0,1,0,1,-1,home team win,1,0,0,Austria,Scotland,1954
+1954 FIFA World Cup,Uruguay v Czechoslovakia,group stage,Group 3,1,0,6/16/1954,Bern,Switzerland,Uruguay,Czechoslovakia,2–0,2,0,2,-2,home team win,1,0,0,Uruguay,Czechoslovakia,1954
+1954 FIFA World Cup,Switzerland v Italy,group stage,Group 4,1,0,6/17/1954,Lausanne,Switzerland,Switzerland,Italy,2–1,2,1,1,-1,home team win,1,0,0,Switzerland,Italy,1954
+1954 FIFA World Cup,Hungary v South Korea,group stage,Group 2,1,0,6/17/1954,Zürich,Switzerland,Hungary,South Korea,9–0,9,0,9,-9,home team win,1,0,0,Hungary,South Korea,1954
+1954 FIFA World Cup,West Germany v Turkey,group stage,Group 2,1,0,6/17/1954,Bern,Switzerland,West Germany,Turkey,4–1,4,1,3,-3,home team win,1,0,0,West Germany,Turkey,1954
+1954 FIFA World Cup,England v Belgium,group stage,Group 4,1,0,6/17/1954,Basel,Switzerland,England,Belgium,4–4,4,4,0,0,draw,0,0,1,Belgium,England,1954
+1954 FIFA World Cup,Uruguay v Scotland,group stage,Group 3,1,0,6/19/1954,Basel,Switzerland,Uruguay,Scotland,7–0,7,0,7,-7,home team win,1,0,0,Uruguay,Scotland,1954
+1954 FIFA World Cup,Brazil v Yugoslavia,group stage,Group 1,1,0,6/19/1954,Lausanne,Switzerland,Brazil,Yugoslavia,1–1,1,1,0,0,draw,0,0,1,Yugoslavia,Brazil,1954
+1954 FIFA World Cup,Austria v Czechoslovakia,group stage,Group 3,1,0,6/19/1954,Zürich,Switzerland,Austria,Czechoslovakia,5–0,5,0,5,-5,home team win,1,0,0,Austria,Czechoslovakia,1954
+1954 FIFA World Cup,France v Mexico,group stage,Group 1,1,0,6/19/1954,Geneva,Switzerland,France,Mexico,3–2,3,2,1,-1,home team win,1,0,0,France,Mexico,1954
+1954 FIFA World Cup,Hungary v West Germany,group stage,Group 2,1,0,6/20/1954,Basel,Switzerland,Hungary,West Germany,8–3,8,3,5,-5,home team win,1,0,0,Hungary,West Germany,1954
+1954 FIFA World Cup,Turkey v South Korea,group stage,Group 2,1,0,6/20/1954,Geneva,Switzerland,Turkey,South Korea,7–0,7,0,7,-7,home team win,1,0,0,Turkey,South Korea,1954
+1954 FIFA World Cup,Italy v Belgium,group stage,Group 4,1,0,6/20/1954,Lugano,Switzerland,Italy,Belgium,4–1,4,1,3,-3,home team win,1,0,0,Italy,Belgium,1954
+1954 FIFA World Cup,England v Switzerland,group stage,Group 4,1,0,6/20/1954,Bern,Switzerland,England,Switzerland,2–0,2,0,2,-2,home team win,1,0,0,England,Switzerland,1954
+1954 FIFA World Cup,West Germany v Turkey,group stage,Group 2,1,0,6/23/1954,Zürich,Switzerland,West Germany,Turkey,7–2,7,2,5,-5,home team win,1,0,0,West Germany,Turkey,1954
+1954 FIFA World Cup,Switzerland v Italy,group stage,Group 4,1,0,6/23/1954,Basel,Switzerland,Switzerland,Italy,4–1,4,1,3,-3,home team win,1,0,0,Switzerland,Italy,1954
+1954 FIFA World Cup,Austria v Switzerland,quarter-finals,not applicable,0,1,6/26/1954,Lausanne,Switzerland,Austria,Switzerland,7–5,7,5,2,-2,home team win,1,0,0,Austria,Switzerland,1954
+1954 FIFA World Cup,Uruguay v England,quarter-finals,not applicable,0,1,6/26/1954,Basel,Switzerland,Uruguay,England,4–2,4,2,2,-2,home team win,1,0,0,Uruguay,England,1954
+1954 FIFA World Cup,Hungary v Brazil,quarter-finals,not applicable,0,1,6/27/1954,Bern,Switzerland,Hungary,Brazil,4–2,4,2,2,-2,home team win,1,0,0,Hungary,Brazil,1954
+1954 FIFA World Cup,West Germany v Yugoslavia,quarter-finals,not applicable,0,1,6/27/1954,Geneva,Switzerland,West Germany,Yugoslavia,2–0,2,0,2,-2,home team win,1,0,0,West Germany,Yugoslavia,1954
+1954 FIFA World Cup,Hungary v Uruguay,semi-finals,not applicable,0,1,6/30/1954,Lausanne,Switzerland,Hungary,Uruguay,4–2,4,2,2,-2,home team win,1,0,0,Hungary,Uruguay,1954
+1954 FIFA World Cup,West Germany v Austria,semi-finals,not applicable,0,1,6/30/1954,Basel,Switzerland,West Germany,Austria,6–1,6,1,5,-5,home team win,1,0,0,West Germany,Austria,1954
+1954 FIFA World Cup,Austria v Uruguay,third-place match,not applicable,0,1,7/3/1954,Zürich,Switzerland,Austria,Uruguay,3–1,3,1,2,-2,home team win,1,0,0,Austria,Uruguay,1954
+1954 FIFA World Cup,West Germany v Hungary,final,not applicable,0,1,7/4/1954,Bern,Switzerland,West Germany,Hungary,3–2,3,2,1,-1,home team win,1,0,0,West Germany,Hungary,1954
+1958 FIFA World Cup,Sweden v Mexico,group stage,Group 3,1,0,6/8/1958,Solna,Sweden,Sweden,Mexico,3–0,3,0,3,-3,home team win,1,0,0,Sweden,Mexico,1958
+1958 FIFA World Cup,Argentina v West Germany,group stage,Group 1,1,0,6/8/1958,Malmö,Sweden,Argentina,West Germany,1–3,1,3,-2,2,away team win,0,1,0,West Germany,Argentina,1958
+1958 FIFA World Cup,Northern Ireland v Czechoslovakia,group stage,Group 1,1,0,6/8/1958,Halmstad,Sweden,Northern Ireland,Czechoslovakia,1–0,1,0,1,-1,home team win,1,0,0,Northern Ireland,Czechoslovakia,1958
+1958 FIFA World Cup,France v Paraguay,group stage,Group 2,1,0,6/8/1958,Norrköping,Sweden,France,Paraguay,7–3,7,3,4,-4,home team win,1,0,0,France,Paraguay,1958
+1958 FIFA World Cup,Yugoslavia v Scotland,group stage,Group 2,1,0,6/8/1958,Västerås,Sweden,Yugoslavia,Scotland,1–1,1,1,0,0,draw,0,0,1,Scotland,Yugoslavia,1958
+1958 FIFA World Cup,Hungary v Wales,group stage,Group 3,1,0,6/8/1958,Sandviken,Sweden,Hungary,Wales,1–1,1,1,0,0,draw,0,0,1,Wales,Hungary,1958
+1958 FIFA World Cup,Brazil v Austria,group stage,Group 4,1,0,6/8/1958,Uddevalla,Sweden,Brazil,Austria,3–0,3,0,3,-3,home team win,1,0,0,Brazil,Austria,1958
+1958 FIFA World Cup,Soviet Union v England,group stage,Group 4,1,0,6/8/1958,Gothenburg,Sweden,Soviet Union,England,2–2,2,2,0,0,draw,0,0,1,England,Soviet Union,1958
+1958 FIFA World Cup,Argentina v Northern Ireland,group stage,Group 1,1,0,6/11/1958,Halmstad,Sweden,Argentina,Northern Ireland,3–1,3,1,2,-2,home team win,1,0,0,Argentina,Northern Ireland,1958
+1958 FIFA World Cup,West Germany v Czechoslovakia,group stage,Group 1,1,0,6/11/1958,Helsingborg,Sweden,West Germany,Czechoslovakia,2–2,2,2,0,0,draw,0,0,1,Czechoslovakia,West Germany,1958
+1958 FIFA World Cup,Paraguay v Scotland,group stage,Group 2,1,0,6/11/1958,Norrköping,Sweden,Paraguay,Scotland,3–2,3,2,1,-1,home team win,1,0,0,Paraguay,Scotland,1958
+1958 FIFA World Cup,Yugoslavia v France,group stage,Group 2,1,0,6/11/1958,Västerås,Sweden,Yugoslavia,France,3–2,3,2,1,-1,home team win,1,0,0,Yugoslavia,France,1958
+1958 FIFA World Cup,Mexico v Wales,group stage,Group 3,1,0,6/11/1958,Solna,Sweden,Mexico,Wales,1–1,1,1,0,0,draw,0,0,1,Wales,Mexico,1958
+1958 FIFA World Cup,Brazil v England,group stage,Group 4,1,0,6/11/1958,Gothenburg,Sweden,Brazil,England,0–0,0,0,0,0,draw,0,0,1,England,Brazil,1958
+1958 FIFA World Cup,Soviet Union v Austria,group stage,Group 4,1,0,6/11/1958,Borås,Sweden,Soviet Union,Austria,2–0,2,0,2,-2,home team win,1,0,0,Soviet Union,Austria,1958
+1958 FIFA World Cup,Sweden v Hungary,group stage,Group 3,1,0,6/12/1958,Solna,Sweden,Sweden,Hungary,2–1,2,1,1,-1,home team win,1,0,0,Sweden,Hungary,1958
+1958 FIFA World Cup,Sweden v Wales,group stage,Group 3,1,0,6/15/1958,Solna,Sweden,Sweden,Wales,0–0,0,0,0,0,draw,0,0,1,Wales,Sweden,1958
+1958 FIFA World Cup,Czechoslovakia v Argentina,group stage,Group 1,1,0,6/15/1958,Helsingborg,Sweden,Czechoslovakia,Argentina,6–1,6,1,5,-5,home team win,1,0,0,Czechoslovakia,Argentina,1958
+1958 FIFA World Cup,West Germany v Northern Ireland,group stage,Group 1,1,0,6/15/1958,Malmö,Sweden,West Germany,Northern Ireland,2–2,2,2,0,0,draw,0,0,1,Northern Ireland,West Germany,1958
+1958 FIFA World Cup,France v Scotland,group stage,Group 2,1,0,6/15/1958,Örebro,Sweden,France,Scotland,2–1,2,1,1,-1,home team win,1,0,0,France,Scotland,1958
+1958 FIFA World Cup,Paraguay v Yugoslavia,group stage,Group 2,1,0,6/15/1958,Eskilstuna,Sweden,Paraguay,Yugoslavia,3–3,3,3,0,0,draw,0,0,1,Yugoslavia,Paraguay,1958
+1958 FIFA World Cup,Hungary v Mexico,group stage,Group 3,1,0,6/15/1958,Sandviken,Sweden,Hungary,Mexico,4–0,4,0,4,-4,home team win,1,0,0,Hungary,Mexico,1958
+1958 FIFA World Cup,Brazil v Soviet Union,group stage,Group 4,1,0,6/15/1958,Gothenburg,Sweden,Brazil,Soviet Union,2–0,2,0,2,-2,home team win,1,0,0,Brazil,Soviet Union,1958
+1958 FIFA World Cup,England v Austria,group stage,Group 4,1,0,6/15/1958,Borås,Sweden,England,Austria,2–2,2,2,0,0,draw,0,0,1,Austria,England,1958
+1958 FIFA World Cup,Northern Ireland v Czechoslovakia,group stage,Group 1,1,0,6/17/1958,Malmö,Sweden,Northern Ireland,Czechoslovakia,2–1,2,1,1,-1,home team win,1,0,0,Northern Ireland,Czechoslovakia,1958
+1958 FIFA World Cup,Wales v Hungary,group stage,Group 3,1,0,6/17/1958,Solna,Sweden,Wales,Hungary,2–1,2,1,1,-1,home team win,1,0,0,Wales,Hungary,1958
+1958 FIFA World Cup,Soviet Union v England,group stage,Group 4,1,0,6/17/1958,Gothenburg,Sweden,Soviet Union,England,1–0,1,0,1,-1,home team win,1,0,0,Soviet Union,England,1958
+1958 FIFA World Cup,Brazil v Wales,quarter-finals,not applicable,0,1,6/19/1958,Gothenburg,Sweden,Brazil,Wales,1–0,1,0,1,-1,home team win,1,0,0,Brazil,Wales,1958
+1958 FIFA World Cup,France v Northern Ireland,quarter-finals,not applicable,0,1,6/19/1958,Norrköping,Sweden,France,Northern Ireland,4–0,4,0,4,-4,home team win,1,0,0,France,Northern Ireland,1958
+1958 FIFA World Cup,Sweden v Soviet Union,quarter-finals,not applicable,0,1,6/19/1958,Solna,Sweden,Sweden,Soviet Union,2–0,2,0,2,-2,home team win,1,0,0,Sweden,Soviet Union,1958
+1958 FIFA World Cup,West Germany v Yugoslavia,quarter-finals,not applicable,0,1,6/19/1958,Malmö,Sweden,West Germany,Yugoslavia,1–0,1,0,1,-1,home team win,1,0,0,West Germany,Yugoslavia,1958
+1958 FIFA World Cup,Brazil v France,semi-finals,not applicable,0,1,6/24/1958,Solna,Sweden,Brazil,France,5–2,5,2,3,-3,home team win,1,0,0,Brazil,France,1958
+1958 FIFA World Cup,Sweden v West Germany,semi-finals,not applicable,0,1,6/24/1958,Gothenburg,Sweden,Sweden,West Germany,3–1,3,1,2,-2,home team win,1,0,0,Sweden,West Germany,1958
+1958 FIFA World Cup,France v West Germany,third-place match,not applicable,0,1,6/28/1958,Gothenburg,Sweden,France,West Germany,6–3,6,3,3,-3,home team win,1,0,0,France,West Germany,1958
+1958 FIFA World Cup,Brazil v Sweden,final,not applicable,0,1,6/29/1958,Solna,Sweden,Brazil,Sweden,5–2,5,2,3,-3,home team win,1,0,0,Brazil,Sweden,1958
+1962 FIFA World Cup,Uruguay v Colombia,group stage,Group 1,1,0,5/30/1962,Arica,Chile,Uruguay,Colombia,2–1,2,1,1,-1,home team win,1,0,0,Uruguay,Colombia,1962
+1962 FIFA World Cup,Chile v Switzerland,group stage,Group 2,1,0,5/30/1962,Santiago,Chile,Chile,Switzerland,3–1,3,1,2,-2,home team win,1,0,0,Chile,Switzerland,1962
+1962 FIFA World Cup,Brazil v Mexico,group stage,Group 3,1,0,5/30/1962,Viña del Mar,Chile,Brazil,Mexico,2–0,2,0,2,-2,home team win,1,0,0,Brazil,Mexico,1962
+1962 FIFA World Cup,Argentina v Bulgaria,group stage,Group 4,1,0,5/30/1962,Rancagua,Chile,Argentina,Bulgaria,1–0,1,0,1,-1,home team win,1,0,0,Argentina,Bulgaria,1962
+1962 FIFA World Cup,Soviet Union v Yugoslavia,group stage,Group 1,1,0,5/31/1962,Arica,Chile,Soviet Union,Yugoslavia,2–0,2,0,2,-2,home team win,1,0,0,Soviet Union,Yugoslavia,1962
+1962 FIFA World Cup,West Germany v Italy,group stage,Group 2,1,0,5/31/1962,Santiago,Chile,West Germany,Italy,0–0,0,0,0,0,draw,0,0,1,Italy,West Germany,1962
+1962 FIFA World Cup,Czechoslovakia v Spain,group stage,Group 3,1,0,5/31/1962,Viña del Mar,Chile,Czechoslovakia,Spain,1–0,1,0,1,-1,home team win,1,0,0,Czechoslovakia,Spain,1962
+1962 FIFA World Cup,Hungary v England,group stage,Group 4,1,0,5/31/1962,Rancagua,Chile,Hungary,England,2–1,2,1,1,-1,home team win,1,0,0,Hungary,England,1962
+1962 FIFA World Cup,Yugoslavia v Uruguay,group stage,Group 1,1,0,6/2/1962,Arica,Chile,Yugoslavia,Uruguay,3–1,3,1,2,-2,home team win,1,0,0,Yugoslavia,Uruguay,1962
+1962 FIFA World Cup,Chile v Italy,group stage,Group 2,1,0,6/2/1962,Santiago,Chile,Chile,Italy,2–0,2,0,2,-2,home team win,1,0,0,Chile,Italy,1962
+1962 FIFA World Cup,Brazil v Czechoslovakia,group stage,Group 3,1,0,6/2/1962,Viña del Mar,Chile,Brazil,Czechoslovakia,0–0,0,0,0,0,draw,0,0,1,Czechoslovakia,Brazil,1962
+1962 FIFA World Cup,England v Argentina,group stage,Group 4,1,0,6/2/1962,Rancagua,Chile,England,Argentina,3–1,3,1,2,-2,home team win,1,0,0,England,Argentina,1962
+1962 FIFA World Cup,Soviet Union v Colombia,group stage,Group 1,1,0,6/3/1962,Arica,Chile,Soviet Union,Colombia,4–4,4,4,0,0,draw,0,0,1,Colombia,Soviet Union,1962
+1962 FIFA World Cup,West Germany v Switzerland,group stage,Group 2,1,0,6/3/1962,Santiago,Chile,West Germany,Switzerland,2–1,2,1,1,-1,home team win,1,0,0,West Germany,Switzerland,1962
+1962 FIFA World Cup,Spain v Mexico,group stage,Group 3,1,0,6/3/1962,Viña del Mar,Chile,Spain,Mexico,1–0,1,0,1,-1,home team win,1,0,0,Spain,Mexico,1962
+1962 FIFA World Cup,Hungary v Bulgaria,group stage,Group 4,1,0,6/3/1962,Rancagua,Chile,Hungary,Bulgaria,6–1,6,1,5,-5,home team win,1,0,0,Hungary,Bulgaria,1962
+1962 FIFA World Cup,Soviet Union v Uruguay,group stage,Group 1,1,0,6/6/1962,Arica,Chile,Soviet Union,Uruguay,2–1,2,1,1,-1,home team win,1,0,0,Soviet Union,Uruguay,1962
+1962 FIFA World Cup,West Germany v Chile,group stage,Group 2,1,0,6/6/1962,Santiago,Chile,West Germany,Chile,2–0,2,0,2,-2,home team win,1,0,0,West Germany,Chile,1962
+1962 FIFA World Cup,Brazil v Spain,group stage,Group 3,1,0,6/6/1962,Viña del Mar,Chile,Brazil,Spain,2–1,2,1,1,-1,home team win,1,0,0,Brazil,Spain,1962
+1962 FIFA World Cup,Hungary v Argentina,group stage,Group 4,1,0,6/6/1962,Rancagua,Chile,Hungary,Argentina,0–0,0,0,0,0,draw,0,0,1,Argentina,Hungary,1962
+1962 FIFA World Cup,Yugoslavia v Colombia,group stage,Group 1,1,0,6/7/1962,Arica,Chile,Yugoslavia,Colombia,5–0,5,0,5,-5,home team win,1,0,0,Yugoslavia,Colombia,1962
+1962 FIFA World Cup,Italy v Switzerland,group stage,Group 2,1,0,6/7/1962,Santiago,Chile,Italy,Switzerland,3–0,3,0,3,-3,home team win,1,0,0,Italy,Switzerland,1962
+1962 FIFA World Cup,Mexico v Czechoslovakia,group stage,Group 3,1,0,6/7/1962,Viña del Mar,Chile,Mexico,Czechoslovakia,3–1,3,1,2,-2,home team win,1,0,0,Mexico,Czechoslovakia,1962
+1962 FIFA World Cup,England v Bulgaria,group stage,Group 4,1,0,6/7/1962,Rancagua,Chile,England,Bulgaria,0–0,0,0,0,0,draw,0,0,1,Bulgaria,England,1962
+1962 FIFA World Cup,Brazil v England,quarter-finals,not applicable,0,1,6/10/1962,Viña del Mar,Chile,Brazil,England,3–1,3,1,2,-2,home team win,1,0,0,Brazil,England,1962
+1962 FIFA World Cup,Chile v Soviet Union,quarter-finals,not applicable,0,1,6/10/1962,Arica,Chile,Chile,Soviet Union,2–1,2,1,1,-1,home team win,1,0,0,Chile,Soviet Union,1962
+1962 FIFA World Cup,Czechoslovakia v Hungary,quarter-finals,not applicable,0,1,6/10/1962,Rancagua,Chile,Czechoslovakia,Hungary,1–0,1,0,1,-1,home team win,1,0,0,Czechoslovakia,Hungary,1962
+1962 FIFA World Cup,Yugoslavia v West Germany,quarter-finals,not applicable,0,1,6/10/1962,Santiago,Chile,Yugoslavia,West Germany,1–0,1,0,1,-1,home team win,1,0,0,Yugoslavia,West Germany,1962
+1962 FIFA World Cup,Brazil v Chile,semi-finals,not applicable,0,1,6/13/1962,Santiago,Chile,Brazil,Chile,4–2,4,2,2,-2,home team win,1,0,0,Brazil,Chile,1962
+1962 FIFA World Cup,Czechoslovakia v Yugoslavia,semi-finals,not applicable,0,1,6/13/1962,Viña del Mar,Chile,Czechoslovakia,Yugoslavia,3–1,3,1,2,-2,home team win,1,0,0,Czechoslovakia,Yugoslavia,1962
+1962 FIFA World Cup,Chile v Yugoslavia,third-place match,not applicable,0,1,6/16/1962,Santiago,Chile,Chile,Yugoslavia,1–0,1,0,1,-1,home team win,1,0,0,Chile,Yugoslavia,1962
+1962 FIFA World Cup,Brazil v Czechoslovakia,final,not applicable,0,1,6/17/1962,Santiago,Chile,Brazil,Czechoslovakia,3–1,3,1,2,-2,home team win,1,0,0,Brazil,Czechoslovakia,1962
+1966 FIFA World Cup,England v Uruguay,group stage,Group 1,1,0,7/11/1966,London,England,England,Uruguay,0–0,0,0,0,0,draw,0,0,1,Uruguay,England,1966
+1966 FIFA World Cup,West Germany v Switzerland,group stage,Group 2,1,0,7/12/1966,Sheffield,England,West Germany,Switzerland,5–0,5,0,5,-5,home team win,1,0,0,West Germany,Switzerland,1966
+1966 FIFA World Cup,Brazil v Bulgaria,group stage,Group 3,1,0,7/12/1966,Liverpool,England,Brazil,Bulgaria,2–0,2,0,2,-2,home team win,1,0,0,Brazil,Bulgaria,1966
+1966 FIFA World Cup,Soviet Union v North Korea,group stage,Group 4,1,0,7/12/1966,Middlesbrough,England,Soviet Union,North Korea,3–0,3,0,3,-3,home team win,1,0,0,Soviet Union,North Korea,1966
+1966 FIFA World Cup,France v Mexico,group stage,Group 1,1,0,7/13/1966,London,England,France,Mexico,1–1,1,1,0,0,draw,0,0,1,Mexico,France,1966
+1966 FIFA World Cup,Argentina v Spain,group stage,Group 2,1,0,7/13/1966,Birmingham,England,Argentina,Spain,2–1,2,1,1,-1,home team win,1,0,0,Argentina,Spain,1966
+1966 FIFA World Cup,Portugal v Hungary,group stage,Group 3,1,0,7/13/1966,Manchester,England,Portugal,Hungary,3–1,3,1,2,-2,home team win,1,0,0,Portugal,Hungary,1966
+1966 FIFA World Cup,Italy v Chile,group stage,Group 4,1,0,7/13/1966,Sunderland,England,Italy,Chile,2–0,2,0,2,-2,home team win,1,0,0,Italy,Chile,1966
+1966 FIFA World Cup,Uruguay v France,group stage,Group 1,1,0,7/15/1966,London,England,Uruguay,France,2–1,2,1,1,-1,home team win,1,0,0,Uruguay,France,1966
+1966 FIFA World Cup,Spain v Switzerland,group stage,Group 2,1,0,7/15/1966,Sheffield,England,Spain,Switzerland,2–1,2,1,1,-1,home team win,1,0,0,Spain,Switzerland,1966
+1966 FIFA World Cup,Hungary v Brazil,group stage,Group 3,1,0,7/15/1966,Liverpool,England,Hungary,Brazil,3–1,3,1,2,-2,home team win,1,0,0,Hungary,Brazil,1966
+1966 FIFA World Cup,Chile v North Korea,group stage,Group 4,1,0,7/15/1966,Middlesbrough,England,Chile,North Korea,1–1,1,1,0,0,draw,0,0,1,North Korea,Chile,1966
+1966 FIFA World Cup,Argentina v West Germany,group stage,Group 2,1,0,7/16/1966,Birmingham,England,Argentina,West Germany,0–0,0,0,0,0,draw,0,0,1,West Germany,Argentina,1966
+1966 FIFA World Cup,Portugal v Bulgaria,group stage,Group 3,1,0,7/16/1966,Manchester,England,Portugal,Bulgaria,3–0,3,0,3,-3,home team win,1,0,0,Portugal,Bulgaria,1966
+1966 FIFA World Cup,Soviet Union v Italy,group stage,Group 4,1,0,7/16/1966,Sunderland,England,Soviet Union,Italy,1–0,1,0,1,-1,home team win,1,0,0,Soviet Union,Italy,1966
+1966 FIFA World Cup,England v Mexico,group stage,Group 1,1,0,7/16/1966,London,England,England,Mexico,2–0,2,0,2,-2,home team win,1,0,0,England,Mexico,1966
+1966 FIFA World Cup,Mexico v Uruguay,group stage,Group 1,1,0,7/19/1966,London,England,Mexico,Uruguay,0–0,0,0,0,0,draw,0,0,1,Uruguay,Mexico,1966
+1966 FIFA World Cup,Argentina v Switzerland,group stage,Group 2,1,0,7/19/1966,Sheffield,England,Argentina,Switzerland,2–0,2,0,2,-2,home team win,1,0,0,Argentina,Switzerland,1966
+1966 FIFA World Cup,Portugal v Brazil,group stage,Group 3,1,0,7/19/1966,Liverpool,England,Portugal,Brazil,3–1,3,1,2,-2,home team win,1,0,0,Portugal,Brazil,1966
+1966 FIFA World Cup,North Korea v Italy,group stage,Group 4,1,0,7/19/1966,Middlesbrough,England,North Korea,Italy,1–0,1,0,1,-1,home team win,1,0,0,North Korea,Italy,1966
+1966 FIFA World Cup,England v France,group stage,Group 1,1,0,7/20/1966,London,England,England,France,2–0,2,0,2,-2,home team win,1,0,0,England,France,1966
+1966 FIFA World Cup,West Germany v Spain,group stage,Group 2,1,0,7/20/1966,Birmingham,England,West Germany,Spain,2–1,2,1,1,-1,home team win,1,0,0,West Germany,Spain,1966
+1966 FIFA World Cup,Hungary v Bulgaria,group stage,Group 3,1,0,7/20/1966,Manchester,England,Hungary,Bulgaria,3–1,3,1,2,-2,home team win,1,0,0,Hungary,Bulgaria,1966
+1966 FIFA World Cup,Soviet Union v Chile,group stage,Group 4,1,0,7/20/1966,Sunderland,England,Soviet Union,Chile,2–1,2,1,1,-1,home team win,1,0,0,Soviet Union,Chile,1966
+1966 FIFA World Cup,England v Argentina,quarter-finals,not applicable,0,1,7/23/1966,London,England,England,Argentina,1–0,1,0,1,-1,home team win,1,0,0,England,Argentina,1966
+1966 FIFA World Cup,Portugal v North Korea,quarter-finals,not applicable,0,1,7/23/1966,Liverpool,England,Portugal,North Korea,5–3,5,3,2,-2,home team win,1,0,0,Portugal,North Korea,1966
+1966 FIFA World Cup,Soviet Union v Hungary,quarter-finals,not applicable,0,1,7/23/1966,Sunderland,England,Soviet Union,Hungary,2–1,2,1,1,-1,home team win,1,0,0,Soviet Union,Hungary,1966
+1966 FIFA World Cup,West Germany v Uruguay,quarter-finals,not applicable,0,1,7/23/1966,Sheffield,England,West Germany,Uruguay,4–0,4,0,4,-4,home team win,1,0,0,West Germany,Uruguay,1966
+1966 FIFA World Cup,West Germany v Soviet Union,semi-finals,not applicable,0,1,7/25/1966,Liverpool,England,West Germany,Soviet Union,2–1,2,1,1,-1,home team win,1,0,0,West Germany,Soviet Union,1966
+1966 FIFA World Cup,England v Portugal,semi-finals,not applicable,0,1,7/26/1966,London,England,England,Portugal,2–1,2,1,1,-1,home team win,1,0,0,England,Portugal,1966
+1966 FIFA World Cup,Portugal v Soviet Union,third-place match,not applicable,0,1,7/28/1966,London,England,Portugal,Soviet Union,2–1,2,1,1,-1,home team win,1,0,0,Portugal,Soviet Union,1966
+1966 FIFA World Cup,England v West Germany,final,not applicable,0,1,7/30/1966,London,England,England,West Germany,4–2,4,2,2,-2,home team win,1,0,0,England,West Germany,1966
+1970 FIFA World Cup,Mexico v Soviet Union,group stage,Group 1,1,0,5/31/1970,Mexico City,Mexico,Mexico,Soviet Union,0–0,0,0,0,0,draw,0,0,1,Soviet Union,Mexico,1970
+1970 FIFA World Cup,Uruguay v Israel,group stage,Group 2,1,0,6/2/1970,Puebla,Mexico,Uruguay,Israel,2–0,2,0,2,-2,home team win,1,0,0,Uruguay,Israel,1970
+1970 FIFA World Cup,England v Romania,group stage,Group 3,1,0,6/2/1970,Guadalajara,Mexico,England,Romania,1–0,1,0,1,-1,home team win,1,0,0,England,Romania,1970
+1970 FIFA World Cup,Peru v Bulgaria,group stage,Group 4,1,0,6/2/1970,León,Mexico,Peru,Bulgaria,3–2,3,2,1,-1,home team win,1,0,0,Peru,Bulgaria,1970
+1970 FIFA World Cup,Belgium v El Salvador,group stage,Group 1,1,0,6/3/1970,Mexico City,Mexico,Belgium,El Salvador,3–0,3,0,3,-3,home team win,1,0,0,Belgium,El Salvador,1970
+1970 FIFA World Cup,Italy v Sweden,group stage,Group 2,1,0,6/3/1970,Toluca,Mexico,Italy,Sweden,1–0,1,0,1,-1,home team win,1,0,0,Italy,Sweden,1970
+1970 FIFA World Cup,Brazil v Czechoslovakia,group stage,Group 3,1,0,6/3/1970,Guadalajara,Mexico,Brazil,Czechoslovakia,4–1,4,1,3,-3,home team win,1,0,0,Brazil,Czechoslovakia,1970
+1970 FIFA World Cup,West Germany v Morocco,group stage,Group 4,1,0,6/3/1970,León,Mexico,West Germany,Morocco,2–1,2,1,1,-1,home team win,1,0,0,West Germany,Morocco,1970
+1970 FIFA World Cup,Soviet Union v Belgium,group stage,Group 1,1,0,6/6/1970,Mexico City,Mexico,Soviet Union,Belgium,4–1,4,1,3,-3,home team win,1,0,0,Soviet Union,Belgium,1970
+1970 FIFA World Cup,Uruguay v Italy,group stage,Group 2,1,0,6/6/1970,Puebla,Mexico,Uruguay,Italy,0–0,0,0,0,0,draw,0,0,1,Italy,Uruguay,1970
+1970 FIFA World Cup,Romania v Czechoslovakia,group stage,Group 3,1,0,6/6/1970,Guadalajara,Mexico,Romania,Czechoslovakia,2–1,2,1,1,-1,home team win,1,0,0,Romania,Czechoslovakia,1970
+1970 FIFA World Cup,Peru v Morocco,group stage,Group 4,1,0,6/6/1970,León,Mexico,Peru,Morocco,3–0,3,0,3,-3,home team win,1,0,0,Peru,Morocco,1970
+1970 FIFA World Cup,Mexico v El Salvador,group stage,Group 1,1,0,6/7/1970,Mexico City,Mexico,Mexico,El Salvador,4–0,4,0,4,-4,home team win,1,0,0,Mexico,El Salvador,1970
+1970 FIFA World Cup,Sweden v Israel,group stage,Group 2,1,0,6/7/1970,Toluca,Mexico,Sweden,Israel,1–1,1,1,0,0,draw,0,0,1,Israel,Sweden,1970
+1970 FIFA World Cup,Brazil v England,group stage,Group 3,1,0,6/7/1970,Guadalajara,Mexico,Brazil,England,1–0,1,0,1,-1,home team win,1,0,0,Brazil,England,1970
+1970 FIFA World Cup,West Germany v Bulgaria,group stage,Group 4,1,0,6/7/1970,León,Mexico,West Germany,Bulgaria,5–2,5,2,3,-3,home team win,1,0,0,West Germany,Bulgaria,1970
+1970 FIFA World Cup,Soviet Union v El Salvador,group stage,Group 1,1,0,6/10/1970,Mexico City,Mexico,Soviet Union,El Salvador,2–0,2,0,2,-2,home team win,1,0,0,Soviet Union,El Salvador,1970
+1970 FIFA World Cup,Sweden v Uruguay,group stage,Group 2,1,0,6/10/1970,Puebla,Mexico,Sweden,Uruguay,Jan-00,1,0,1,-1,home team win,1,0,0,Sweden,Uruguay,1970
+1970 FIFA World Cup,Brazil v Romania,group stage,Group 3,1,0,6/10/1970,Guadalajara,Mexico,Brazil,Romania,3–2,3,2,1,-1,home team win,1,0,0,Brazil,Romania,1970
+1970 FIFA World Cup,West Germany v Peru,group stage,Group 4,1,0,6/10/1970,León,Mexico,West Germany,Peru,3–1,3,1,2,-2,home team win,1,0,0,West Germany,Peru,1970
+1970 FIFA World Cup,Mexico v Belgium,group stage,Group 1,1,0,6/11/1970,Mexico City,Mexico,Mexico,Belgium,1–0,1,0,1,-1,home team win,1,0,0,Mexico,Belgium,1970
+1970 FIFA World Cup,Italy v Israel,group stage,Group 2,1,0,6/11/1970,Toluca,Mexico,Italy,Israel,0–0,0,0,0,0,draw,0,0,1,Israel,Italy,1970
+1970 FIFA World Cup,England v Czechoslovakia,group stage,Group 3,1,0,6/11/1970,Guadalajara,Mexico,England,Czechoslovakia,1–0,1,0,1,-1,home team win,1,0,0,England,Czechoslovakia,1970
+1970 FIFA World Cup,Bulgaria v Morocco,group stage,Group 4,1,0,6/11/1970,León,Mexico,Bulgaria,Morocco,1–1,1,1,0,0,draw,0,0,1,Morocco,Bulgaria,1970
+1970 FIFA World Cup,Brazil v Peru,quarter-finals,not applicable,0,1,6/14/1970,Guadalajara,Mexico,Brazil,Peru,4–2,4,2,2,-2,home team win,1,0,0,Brazil,Peru,1970
+1970 FIFA World Cup,Italy v Mexico,quarter-finals,not applicable,0,1,6/14/1970,Toluca,Mexico,Italy,Mexico,4–1,4,1,3,-3,home team win,1,0,0,Italy,Mexico,1970
+1970 FIFA World Cup,Soviet Union v Uruguay,quarter-finals,not applicable,0,1,6/14/1970,Mexico City,Mexico,Soviet Union,Uruguay,0–1,0,1,-1,1,away team win,0,1,0,Uruguay,Soviet Union,1970
+1970 FIFA World Cup,West Germany v England,quarter-finals,not applicable,0,1,6/14/1970,León,Mexico,West Germany,England,3–2,3,2,1,-1,home team win,1,0,0,West Germany,England,1970
+1970 FIFA World Cup,Brazil v Uruguay,semi-finals,not applicable,0,1,6/17/1970,Guadalajara,Mexico,Brazil,Uruguay,3–1,3,1,2,-2,home team win,1,0,0,Brazil,Uruguay,1970
+1970 FIFA World Cup,Italy v West Germany,semi-finals,not applicable,0,1,6/17/1970,Mexico City,Mexico,Italy,West Germany,4–3,4,3,1,-1,home team win,1,0,0,Italy,West Germany,1970
+1970 FIFA World Cup,West Germany v Uruguay,third-place match,not applicable,0,1,6/20/1970,Mexico City,Mexico,West Germany,Uruguay,1–0,1,0,1,-1,home team win,1,0,0,West Germany,Uruguay,1970
+1970 FIFA World Cup,Brazil v Italy,final,not applicable,0,1,6/21/1970,Mexico City,Mexico,Brazil,Italy,4–1,4,1,3,-3,home team win,1,0,0,Brazil,Italy,1970
+1974 FIFA World Cup,Brazil v Yugoslavia,group stage,Group 2,1,0,6/13/1974,Frankfurt,Germany,Brazil,Yugoslavia,0–0,0,0,0,0,draw,0,0,1,Yugoslavia,Brazil,1974
+1974 FIFA World Cup,West Germany v Chile,group stage,Group 1,1,0,6/14/1974,Berlin,Germany,West Germany,Chile,1–0,1,0,1,-1,home team win,1,0,0,West Germany,Chile,1974
+1974 FIFA World Cup,East Germany v Australia,group stage,Group 1,1,0,6/14/1974,Hamburg,Germany,East Germany,Australia,2–0,2,0,2,-2,home team win,1,0,0,East Germany,Australia,1974
+1974 FIFA World Cup,Zaire v Scotland,group stage,Group 2,1,0,6/14/1974,Dortmund,Germany,Zaire,Scotland,0–2,0,2,-2,2,away team win,0,1,0,Scotland,Zaire,1974
+1974 FIFA World Cup,Sweden v Bulgaria,group stage,Group 3,1,0,6/15/1974,Düsseldorf,Germany,Sweden,Bulgaria,0–0,0,0,0,0,draw,0,0,1,Bulgaria,Sweden,1974
+1974 FIFA World Cup,Uruguay v Netherlands,group stage,Group 3,1,0,6/15/1974,Hanover,Germany,Uruguay,Netherlands,0–2,0,2,-2,2,away team win,0,1,0,Netherlands,Uruguay,1974
+1974 FIFA World Cup,Italy v Haiti,group stage,Group 4,1,0,6/15/1974,Munich,Germany,Italy,Haiti,3–1,3,1,2,-2,home team win,1,0,0,Italy,Haiti,1974
+1974 FIFA World Cup,Poland v Argentina,group stage,Group 4,1,0,6/15/1974,Stuttgart,Germany,Poland,Argentina,3–2,3,2,1,-1,home team win,1,0,0,Poland,Argentina,1974
+1974 FIFA World Cup,Australia v West Germany,group stage,Group 1,1,0,6/18/1974,Hamburg,Germany,Australia,West Germany,0–3,0,3,-3,3,away team win,0,1,0,West Germany,Australia,1974
+1974 FIFA World Cup,Chile v East Germany,group stage,Group 1,1,0,6/18/1974,Berlin,Germany,Chile,East Germany,1–1,1,1,0,0,draw,0,0,1,East Germany,Chile,1974
+1974 FIFA World Cup,Scotland v Brazil,group stage,Group 2,1,0,6/18/1974,Frankfurt,Germany,Scotland,Brazil,0–0,0,0,0,0,draw,0,0,1,Brazil,Scotland,1974
+1974 FIFA World Cup,Yugoslavia v Zaire,group stage,Group 2,1,0,6/18/1974,Gelsenkirchen,Germany,Yugoslavia,Zaire,9–0,9,0,9,-9,home team win,1,0,0,Yugoslavia,Zaire,1974
+1974 FIFA World Cup,Bulgaria v Uruguay,group stage,Group 3,1,0,6/19/1974,Hanover,Germany,Bulgaria,Uruguay,1–1,1,1,0,0,draw,0,0,1,Uruguay,Bulgaria,1974
+1974 FIFA World Cup,Netherlands v Sweden,group stage,Group 3,1,0,6/19/1974,Dortmund,Germany,Netherlands,Sweden,0–0,0,0,0,0,draw,0,0,1,Sweden,Netherlands,1974
+1974 FIFA World Cup,Argentina v Italy,group stage,Group 4,1,0,6/19/1974,Stuttgart,Germany,Argentina,Italy,1–1,1,1,0,0,draw,0,0,1,Italy,Argentina,1974
+1974 FIFA World Cup,Haiti v Poland,group stage,Group 4,1,0,6/19/1974,Munich,Germany,Haiti,Poland,0–7,0,7,-7,7,away team win,0,1,0,Poland,Haiti,1974
+1974 FIFA World Cup,Australia v Chile,group stage,Group 1,1,0,6/22/1974,Berlin,Germany,Australia,Chile,0–0,0,0,0,0,draw,0,0,1,Chile,Australia,1974
+1974 FIFA World Cup,Scotland v Yugoslavia,group stage,Group 2,1,0,6/22/1974,Frankfurt,Germany,Scotland,Yugoslavia,1–1,1,1,0,0,draw,0,0,1,Yugoslavia,Scotland,1974
+1974 FIFA World Cup,Zaire v Brazil,group stage,Group 2,1,0,6/22/1974,Gelsenkirchen,Germany,Zaire,Brazil,0–3,0,3,-3,3,away team win,0,1,0,Brazil,Zaire,1974
+1974 FIFA World Cup,East Germany v West Germany,group stage,Group 1,1,0,6/22/1974,Hamburg,Germany,East Germany,West Germany,1–0,1,0,1,-1,home team win,1,0,0,East Germany,West Germany,1974
+1974 FIFA World Cup,Bulgaria v Netherlands,group stage,Group 3,1,0,6/23/1974,Dortmund,Germany,Bulgaria,Netherlands,1–4,1,4,-3,3,away team win,0,1,0,Netherlands,Bulgaria,1974
+1974 FIFA World Cup,Sweden v Uruguay,group stage,Group 3,1,0,6/23/1974,Düsseldorf,Germany,Sweden,Uruguay,3–0,3,0,3,-3,home team win,1,0,0,Sweden,Uruguay,1974
+1974 FIFA World Cup,Argentina v Haiti,group stage,Group 4,1,0,6/23/1974,Munich,Germany,Argentina,Haiti,4–1,4,1,3,-3,home team win,1,0,0,Argentina,Haiti,1974
+1974 FIFA World Cup,Poland v Italy,group stage,Group 4,1,0,6/23/1974,Stuttgart,Germany,Poland,Italy,2–1,2,1,1,-1,home team win,1,0,0,Poland,Italy,1974
+1974 FIFA World Cup,Yugoslavia v West Germany,second group stage,Group B,1,0,6/26/1974,Düsseldorf,Germany,Yugoslavia,West Germany,0–2,0,2,-2,2,away team win,0,1,0,West Germany,Yugoslavia,1974
+1974 FIFA World Cup,Brazil v East Germany,second group stage,Group A,1,0,6/26/1974,Hanover,Germany,Brazil,East Germany,1–0,1,0,1,-1,home team win,1,0,0,Brazil,East Germany,1974
+1974 FIFA World Cup,Netherlands v Argentina,second group stage,Group A,1,0,6/26/1974,Gelsenkirchen,Germany,Netherlands,Argentina,4–0,4,0,4,-4,home team win,1,0,0,Netherlands,Argentina,1974
+1974 FIFA World Cup,Sweden v Poland,second group stage,Group B,1,0,6/26/1974,Stuttgart,Germany,Sweden,Poland,0–1,0,1,-1,1,away team win,0,1,0,Poland,Sweden,1974
+1974 FIFA World Cup,Argentina v Brazil,second group stage,Group A,1,0,6/30/1974,Hanover,Germany,Argentina,Brazil,1–2,1,2,-1,1,away team win,0,1,0,Brazil,Argentina,1974
+1974 FIFA World Cup,East Germany v Netherlands,second group stage,Group A,1,0,6/30/1974,Gelsenkirchen,Germany,East Germany,Netherlands,0–2,0,2,-2,2,away team win,0,1,0,Netherlands,East Germany,1974
+1974 FIFA World Cup,Poland v Yugoslavia,second group stage,Group B,1,0,6/30/1974,Frankfurt,Germany,Poland,Yugoslavia,2–1,2,1,1,-1,home team win,1,0,0,Poland,Yugoslavia,1974
+1974 FIFA World Cup,West Germany v Sweden,second group stage,Group B,1,0,6/30/1974,Düsseldorf,Germany,West Germany,Sweden,4–2,4,2,2,-2,home team win,1,0,0,West Germany,Sweden,1974
+1974 FIFA World Cup,Poland v West Germany,second group stage,Group B,1,0,7/3/1974,Frankfurt,Germany,Poland,West Germany,0–1,0,1,-1,1,away team win,0,1,0,West Germany,Poland,1974
+1974 FIFA World Cup,Argentina v East Germany,second group stage,Group A,1,0,7/3/1974,Gelsenkirchen,Germany,Argentina,East Germany,1–1,1,1,0,0,draw,0,0,1,East Germany,Argentina,1974
+1974 FIFA World Cup,Netherlands v Brazil,second group stage,Group A,1,0,7/3/1974,Dortmund,Germany,Netherlands,Brazil,2–0,2,0,2,-2,home team win,1,0,0,Netherlands,Brazil,1974
+1974 FIFA World Cup,Sweden v Yugoslavia,second group stage,Group B,1,0,7/3/1974,Düsseldorf,Germany,Sweden,Yugoslavia,2–1,2,1,1,-1,home team win,1,0,0,Sweden,Yugoslavia,1974
+1974 FIFA World Cup,Brazil v Poland,third-place match,not applicable,0,1,7/6/1974,Munich,Germany,Brazil,Poland,0–1,0,1,-1,1,away team win,0,1,0,Poland,Brazil,1974
+1974 FIFA World Cup,Netherlands v West Germany,final,not applicable,0,1,7/7/1974,Munich,Germany,Netherlands,West Germany,1–2,1,2,-1,1,away team win,0,1,0,West Germany,Netherlands,1974
+1978 FIFA World Cup,West Germany v Poland,group stage,Group 2,1,0,6/1/1978,Buenos Aires,Argentina,West Germany,Poland,0–0,0,0,0,0,draw,0,0,1,Poland,West Germany,1978
+1978 FIFA World Cup,Italy v France,group stage,Group 1,1,0,6/2/1978,Mar del Plata,Argentina,Italy,France,2–1,2,1,1,-1,home team win,1,0,0,Italy,France,1978
+1978 FIFA World Cup,Tunisia v Mexico,group stage,Group 2,1,0,6/2/1978,Rosario,Argentina,Tunisia,Mexico,3–1,3,1,2,-2,home team win,1,0,0,Tunisia,Mexico,1978
+1978 FIFA World Cup,Argentina v Hungary,group stage,Group 1,1,0,6/2/1978,Buenos Aires,Argentina,Argentina,Hungary,2–1,2,1,1,-1,home team win,1,0,0,Argentina,Hungary,1978
+1978 FIFA World Cup,Austria v Spain,group stage,Group 3,1,0,6/3/1978,Buenos Aires,Argentina,Austria,Spain,2–1,2,1,1,-1,home team win,1,0,0,Austria,Spain,1978
+1978 FIFA World Cup,Brazil v Sweden,group stage,Group 3,1,0,6/3/1978,Mar del Plata,Argentina,Brazil,Sweden,1–1,1,1,0,0,draw,0,0,1,Sweden,Brazil,1978
+1978 FIFA World Cup,Netherlands v Iran,group stage,Group 4,1,0,6/3/1978,Mendoza,Argentina,Netherlands,Iran,3–0,3,0,3,-3,home team win,1,0,0,Netherlands,Iran,1978
+1978 FIFA World Cup,Peru v Scotland,group stage,Group 4,1,0,6/3/1978,Córdoba,Argentina,Peru,Scotland,3–1,3,1,2,-2,home team win,1,0,0,Peru,Scotland,1978
+1978 FIFA World Cup,Italy v Hungary,group stage,Group 1,1,0,6/6/1978,Mar del Plata,Argentina,Italy,Hungary,3–1,3,1,2,-2,home team win,1,0,0,Italy,Hungary,1978
+1978 FIFA World Cup,Poland v Tunisia,group stage,Group 2,1,0,6/6/1978,Rosario,Argentina,Poland,Tunisia,1–0,1,0,1,-1,home team win,1,0,0,Poland,Tunisia,1978
+1978 FIFA World Cup,West Germany v Mexico,group stage,Group 2,1,0,6/6/1978,Córdoba,Argentina,West Germany,Mexico,6–0,6,0,6,-6,home team win,1,0,0,West Germany,Mexico,1978
+1978 FIFA World Cup,Argentina v France,group stage,Group 1,1,0,6/6/1978,Buenos Aires,Argentina,Argentina,France,2–1,2,1,1,-1,home team win,1,0,0,Argentina,France,1978
+1978 FIFA World Cup,Austria v Sweden,group stage,Group 3,1,0,6/7/1978,Buenos Aires,Argentina,Austria,Sweden,1–0,1,0,1,-1,home team win,1,0,0,Austria,Sweden,1978
+1978 FIFA World Cup,Brazil v Spain,group stage,Group 3,1,0,6/7/1978,Mar del Plata,Argentina,Brazil,Spain,0–0,0,0,0,0,draw,0,0,1,Spain,Brazil,1978
+1978 FIFA World Cup,Netherlands v Peru,group stage,Group 4,1,0,6/7/1978,Mendoza,Argentina,Netherlands,Peru,0–0,0,0,0,0,draw,0,0,1,Peru,Netherlands,1978
+1978 FIFA World Cup,Scotland v Iran,group stage,Group 4,1,0,6/7/1978,Córdoba,Argentina,Scotland,Iran,1–1,1,1,0,0,draw,0,0,1,Iran,Scotland,1978
+1978 FIFA World Cup,France v Hungary,group stage,Group 1,1,0,6/10/1978,Mar del Plata,Argentina,France,Hungary,3–1,3,1,2,-2,home team win,1,0,0,France,Hungary,1978
+1978 FIFA World Cup,Poland v Mexico,group stage,Group 2,1,0,6/10/1978,Rosario,Argentina,Poland,Mexico,3–1,3,1,2,-2,home team win,1,0,0,Poland,Mexico,1978
+1978 FIFA World Cup,West Germany v Tunisia,group stage,Group 2,1,0,6/10/1978,Córdoba,Argentina,West Germany,Tunisia,0–0,0,0,0,0,draw,0,0,1,Tunisia,West Germany,1978
+1978 FIFA World Cup,Argentina v Italy,group stage,Group 1,1,0,6/10/1978,Buenos Aires,Argentina,Argentina,Italy,0–1,0,1,-1,1,away team win,0,1,0,Italy,Argentina,1978
+1978 FIFA World Cup,Brazil v Austria,group stage,Group 3,1,0,6/11/1978,Mar del Plata,Argentina,Brazil,Austria,1–0,1,0,1,-1,home team win,1,0,0,Brazil,Austria,1978
+1978 FIFA World Cup,Spain v Sweden,group stage,Group 3,1,0,6/11/1978,Buenos Aires,Argentina,Spain,Sweden,1–0,1,0,1,-1,home team win,1,0,0,Spain,Sweden,1978
+1978 FIFA World Cup,Peru v Iran,group stage,Group 4,1,0,6/11/1978,Córdoba,Argentina,Peru,Iran,4–1,4,1,3,-3,home team win,1,0,0,Peru,Iran,1978
+1978 FIFA World Cup,Scotland v Netherlands,group stage,Group 4,1,0,6/11/1978,Mendoza,Argentina,Scotland,Netherlands,3–2,3,2,1,-1,home team win,1,0,0,Scotland,Netherlands,1978
+1978 FIFA World Cup,Austria v Netherlands,second group stage,Group A,1,0,6/14/1978,Córdoba,Argentina,Austria,Netherlands,1–5,1,5,-4,4,away team win,0,1,0,Netherlands,Austria,1978
+1978 FIFA World Cup,Italy v West Germany,second group stage,Group A,1,0,6/14/1978,Buenos Aires,Argentina,Italy,West Germany,0–0,0,0,0,0,draw,0,0,1,West Germany,Italy,1978
+1978 FIFA World Cup,Brazil v Peru,second group stage,Group B,1,0,6/14/1978,Mendoza,Argentina,Brazil,Peru,3–0,3,0,3,-3,home team win,1,0,0,Brazil,Peru,1978
+1978 FIFA World Cup,Argentina v Poland,second group stage,Group B,1,0,6/14/1978,Rosario,Argentina,Argentina,Poland,2–0,2,0,2,-2,home team win,1,0,0,Argentina,Poland,1978
+1978 FIFA World Cup,Peru v Poland,second group stage,Group B,1,0,6/18/1978,Mendoza,Argentina,Peru,Poland,0–1,0,1,-1,1,away team win,0,1,0,Poland,Peru,1978
+1978 FIFA World Cup,Italy v Austria,second group stage,Group A,1,0,6/18/1978,Buenos Aires,Argentina,Italy,Austria,1–0,1,0,1,-1,home team win,1,0,0,Italy,Austria,1978
+1978 FIFA World Cup,Netherlands v West Germany,second group stage,Group A,1,0,6/18/1978,Córdoba,Argentina,Netherlands,West Germany,2–2,2,2,0,0,draw,0,0,1,West Germany,Netherlands,1978
+1978 FIFA World Cup,Argentina v Brazil,second group stage,Group B,1,0,6/18/1978,Rosario,Argentina,Argentina,Brazil,0–0,0,0,0,0,draw,0,0,1,Brazil,Argentina,1978
+1978 FIFA World Cup,Austria v West Germany,second group stage,Group A,1,0,6/21/1978,Córdoba,Argentina,Austria,West Germany,3–2,3,2,1,-1,home team win,1,0,0,Austria,West Germany,1978
+1978 FIFA World Cup,Italy v Netherlands,second group stage,Group A,1,0,6/21/1978,Buenos Aires,Argentina,Italy,Netherlands,1–2,1,2,-1,1,away team win,0,1,0,Netherlands,Italy,1978
+1978 FIFA World Cup,Brazil v Poland,second group stage,Group B,1,0,6/21/1978,Mendoza,Argentina,Brazil,Poland,3–1,3,1,2,-2,home team win,1,0,0,Brazil,Poland,1978
+1978 FIFA World Cup,Argentina v Peru,second group stage,Group B,1,0,6/21/1978,Rosario,Argentina,Argentina,Peru,6–0,6,0,6,-6,home team win,1,0,0,Argentina,Peru,1978
+1978 FIFA World Cup,Brazil v Italy,third-place match,not applicable,0,1,6/24/1978,Buenos Aires,Argentina,Brazil,Italy,2–1,2,1,1,-1,home team win,1,0,0,Brazil,Italy,1978
+1978 FIFA World Cup,Argentina v Netherlands,final,not applicable,0,1,6/25/1978,Buenos Aires,Argentina,Argentina,Netherlands,3–1,3,1,2,-2,home team win,1,0,0,Argentina,Netherlands,1978
+1982 FIFA World Cup,Argentina v Belgium,group stage,Group 3,1,0,6/13/1982,Barcelona,Spain,Argentina,Belgium,0–1,0,1,-1,1,away team win,0,1,0,Belgium,Argentina,1982
+1982 FIFA World Cup,Italy v Poland,group stage,Group 1,1,0,6/14/1982,Vigo,Spain,Italy,Poland,0–0,0,0,0,0,draw,0,0,1,Poland,Italy,1982
+1982 FIFA World Cup,Brazil v Soviet Union,group stage,Group 6,1,0,6/14/1982,Seville,Spain,Brazil,Soviet Union,2–1,2,1,1,-1,home team win,1,0,0,Brazil,Soviet Union,1982
+1982 FIFA World Cup,Peru v Cameroon,group stage,Group 1,1,0,6/15/1982,A Coruña,Spain,Peru,Cameroon,0–0,0,0,0,0,draw,0,0,1,Cameroon,Peru,1982
+1982 FIFA World Cup,Hungary v El Salvador,group stage,Group 3,1,0,6/15/1982,Elche,Spain,Hungary,El Salvador,10–1,10,1,9,-9,home team win,1,0,0,Hungary,El Salvador,1982
+1982 FIFA World Cup,Scotland v New Zealand,group stage,Group 6,1,0,6/15/1982,Málaga,Spain,Scotland,New Zealand,5–2,5,2,3,-3,home team win,1,0,0,Scotland,New Zealand,1982
+1982 FIFA World Cup,West Germany v Algeria,group stage,Group 2,1,0,6/16/1982,Gijón,Spain,West Germany,Algeria,1–2,1,2,-1,1,away team win,0,1,0,Algeria,West Germany,1982
+1982 FIFA World Cup,England v France,group stage,Group 4,1,0,6/16/1982,Bilbao,Spain,England,France,3–1,3,1,2,-2,home team win,1,0,0,England,France,1982
+1982 FIFA World Cup,Spain v Honduras,group stage,Group 5,1,0,6/16/1982,Valencia,Spain,Spain,Honduras,1–1,1,1,0,0,draw,0,0,1,Honduras,Spain,1982
+1982 FIFA World Cup,Chile v Austria,group stage,Group 2,1,0,6/17/1982,Oviedo,Spain,Chile,Austria,0–1,0,1,-1,1,away team win,0,1,0,Austria,Chile,1982
+1982 FIFA World Cup,Czechoslovakia v Kuwait,group stage,Group 4,1,0,6/17/1982,Valladolid,Spain,Czechoslovakia,Kuwait,1–1,1,1,0,0,draw,0,0,1,Kuwait,Czechoslovakia,1982
+1982 FIFA World Cup,Yugoslavia v Northern Ireland,group stage,Group 5,1,0,6/17/1982,Zaragoza,Spain,Yugoslavia,Northern Ireland,0–0,0,0,0,0,draw,0,0,1,Northern Ireland,Yugoslavia,1982
+1982 FIFA World Cup,Italy v Peru,group stage,Group 1,1,0,6/18/1982,Vigo,Spain,Italy,Peru,1–1,1,1,0,0,draw,0,0,1,Peru,Italy,1982
+1982 FIFA World Cup,Argentina v Hungary,group stage,Group 3,1,0,6/18/1982,Alicante,Spain,Argentina,Hungary,4–1,4,1,3,-3,home team win,1,0,0,Argentina,Hungary,1982
+1982 FIFA World Cup,Brazil v Scotland,group stage,Group 6,1,0,6/18/1982,Seville,Spain,Brazil,Scotland,4–1,4,1,3,-3,home team win,1,0,0,Brazil,Scotland,1982
+1982 FIFA World Cup,Poland v Cameroon,group stage,Group 1,1,0,6/19/1982,A Coruña,Spain,Poland,Cameroon,0–0,0,0,0,0,draw,0,0,1,Cameroon,Poland,1982
+1982 FIFA World Cup,Belgium v El Salvador,group stage,Group 3,1,0,6/19/1982,Elche,Spain,Belgium,El Salvador,1–0,1,0,1,-1,home team win,1,0,0,Belgium,El Salvador,1982
+1982 FIFA World Cup,Soviet Union v New Zealand,group stage,Group 6,1,0,6/19/1982,Málaga,Spain,Soviet Union,New Zealand,3–0,3,0,3,-3,home team win,1,0,0,Soviet Union,New Zealand,1982
+1982 FIFA World Cup,West Germany v Chile,group stage,Group 2,1,0,6/20/1982,Gijón,Spain,West Germany,Chile,4–1,4,1,3,-3,home team win,1,0,0,West Germany,Chile,1982
+1982 FIFA World Cup,England v Czechoslovakia,group stage,Group 4,1,0,6/20/1982,Bilbao,Spain,England,Czechoslovakia,2–0,2,0,2,-2,home team win,1,0,0,England,Czechoslovakia,1982
+1982 FIFA World Cup,Spain v Yugoslavia,group stage,Group 5,1,0,6/20/1982,Valencia,Spain,Spain,Yugoslavia,2–1,2,1,1,-1,home team win,1,0,0,Spain,Yugoslavia,1982
+1982 FIFA World Cup,Algeria v Austria,group stage,Group 2,1,0,6/21/1982,Oviedo,Spain,Algeria,Austria,0–2,0,2,-2,2,away team win,0,1,0,Austria,Algeria,1982
+1982 FIFA World Cup,France v Kuwait,group stage,Group 4,1,0,6/21/1982,Valladolid,Spain,France,Kuwait,4–1,4,1,3,-3,home team win,1,0,0,France,Kuwait,1982
+1982 FIFA World Cup,Honduras v Northern Ireland,group stage,Group 5,1,0,6/21/1982,Zaragoza,Spain,Honduras,Northern Ireland,1–1,1,1,0,0,draw,0,0,1,Northern Ireland,Honduras,1982
+1982 FIFA World Cup,Poland v Peru,group stage,Group 1,1,0,6/22/1982,A Coruña,Spain,Poland,Peru,5–1,5,1,4,-4,home team win,1,0,0,Poland,Peru,1982
+1982 FIFA World Cup,Belgium v Hungary,group stage,Group 3,1,0,6/22/1982,Elche,Spain,Belgium,Hungary,1–1,1,1,0,0,draw,0,0,1,Hungary,Belgium,1982
+1982 FIFA World Cup,Soviet Union v Scotland,group stage,Group 6,1,0,6/22/1982,Málaga,Spain,Soviet Union,Scotland,2–2,2,2,0,0,draw,0,0,1,Scotland,Soviet Union,1982
+1982 FIFA World Cup,Italy v Cameroon,group stage,Group 1,1,0,6/23/1982,Vigo,Spain,Italy,Cameroon,1–1,1,1,0,0,draw,0,0,1,Cameroon,Italy,1982
+1982 FIFA World Cup,Argentina v El Salvador,group stage,Group 3,1,0,6/23/1982,Alicante,Spain,Argentina,El Salvador,2–0,2,0,2,-2,home team win,1,0,0,Argentina,El Salvador,1982
+1982 FIFA World Cup,Brazil v New Zealand,group stage,Group 6,1,0,6/23/1982,Seville,Spain,Brazil,New Zealand,4–0,4,0,4,-4,home team win,1,0,0,Brazil,New Zealand,1982
+1982 FIFA World Cup,Algeria v Chile,group stage,Group 2,1,0,6/24/1982,Oviedo,Spain,Algeria,Chile,3–2,3,2,1,-1,home team win,1,0,0,Algeria,Chile,1982
+1982 FIFA World Cup,France v Czechoslovakia,group stage,Group 4,1,0,6/24/1982,Valladolid,Spain,France,Czechoslovakia,1–1,1,1,0,0,draw,0,0,1,Czechoslovakia,France,1982
+1982 FIFA World Cup,Honduras v Yugoslavia,group stage,Group 5,1,0,6/24/1982,Zaragoza,Spain,Honduras,Yugoslavia,0–1,0,1,-1,1,away team win,0,1,0,Yugoslavia,Honduras,1982
+1982 FIFA World Cup,West Germany v Austria,group stage,Group 2,1,0,6/25/1982,Gijón,Spain,West Germany,Austria,1–0,1,0,1,-1,home team win,1,0,0,West Germany,Austria,1982
+1982 FIFA World Cup,England v Kuwait,group stage,Group 4,1,0,6/25/1982,Bilbao,Spain,England,Kuwait,1–0,1,0,1,-1,home team win,1,0,0,England,Kuwait,1982
+1982 FIFA World Cup,Spain v Northern Ireland,group stage,Group 5,1,0,6/25/1982,Valencia,Spain,Spain,Northern Ireland,0–1,0,1,-1,1,away team win,0,1,0,Northern Ireland,Spain,1982
+1982 FIFA World Cup,Austria v France,second group stage,Group 4,1,0,6/28/1982,Madrid,Spain,Austria,France,0–1,0,1,-1,1,away team win,0,1,0,France,Austria,1982
+1982 FIFA World Cup,Poland v Belgium,second group stage,Group 1,1,0,6/28/1982,Barcelona,Spain,Poland,Belgium,3–0,3,0,3,-3,home team win,1,0,0,Poland,Belgium,1982
+1982 FIFA World Cup,Italy v Argentina,second group stage,Group 3,1,0,6/29/1982,Barcelona,Spain,Italy,Argentina,2–1,2,1,1,-1,home team win,1,0,0,Italy,Argentina,1982
+1982 FIFA World Cup,West Germany v England,second group stage,Group 2,1,0,6/29/1982,Madrid,Spain,West Germany,England,0–0,0,0,0,0,draw,0,0,1,England,West Germany,1982
+1982 FIFA World Cup,Austria v Northern Ireland,second group stage,Group 4,1,0,7/1/1982,Madrid,Spain,Austria,Northern Ireland,2–2,2,2,0,0,draw,0,0,1,Northern Ireland,Austria,1982
+1982 FIFA World Cup,Belgium v Soviet Union,second group stage,Group 1,1,0,7/1/1982,Barcelona,Spain,Belgium,Soviet Union,0–1,0,1,-1,1,away team win,0,1,0,Soviet Union,Belgium,1982
+1982 FIFA World Cup,Argentina v Brazil,second group stage,Group 3,1,0,7/2/1982,Barcelona,Spain,Argentina,Brazil,1–3,1,3,-2,2,away team win,0,1,0,Brazil,Argentina,1982
+1982 FIFA World Cup,West Germany v Spain,second group stage,Group 2,1,0,7/2/1982,Madrid,Spain,West Germany,Spain,2–1,2,1,1,-1,home team win,1,0,0,West Germany,Spain,1982
+1982 FIFA World Cup,France v Northern Ireland,second group stage,Group 4,1,0,7/4/1982,Madrid,Spain,France,Northern Ireland,4–1,4,1,3,-3,home team win,1,0,0,France,Northern Ireland,1982
+1982 FIFA World Cup,Soviet Union v Poland,second group stage,Group 1,1,0,7/4/1982,Barcelona,Spain,Soviet Union,Poland,0–0,0,0,0,0,draw,0,0,1,Poland,Soviet Union,1982
+1982 FIFA World Cup,Italy v Brazil,second group stage,Group 3,1,0,7/5/1982,Barcelona,Spain,Italy,Brazil,3–2,3,2,1,-1,home team win,1,0,0,Italy,Brazil,1982
+1982 FIFA World Cup,Spain v England,second group stage,Group 2,1,0,7/5/1982,Madrid,Spain,Spain,England,0–0,0,0,0,0,draw,0,0,1,England,Spain,1982
+1982 FIFA World Cup,Poland v Italy,semi-finals,not applicable,0,1,7/8/1982,Barcelona,Spain,Poland,Italy,0–2,0,2,-2,2,away team win,0,1,0,Italy,Poland,1982
+1982 FIFA World Cup,West Germany v France,semi-finals,not applicable,0,1,7/8/1982,Seville,Spain,West Germany,France,3–3,3,3,0,0,home team win,1,0,0,France,West Germany,1982
+1982 FIFA World Cup,Poland v France,third-place match,not applicable,0,1,7/10/1982,Alicante,Spain,Poland,France,3–2,3,2,1,-1,home team win,1,0,0,Poland,France,1982
+1982 FIFA World Cup,Italy v West Germany,final,not applicable,0,1,7/11/1982,Madrid,Spain,Italy,West Germany,3–1,3,1,2,-2,home team win,1,0,0,Italy,West Germany,1982
+1986 FIFA World Cup,Bulgaria v Italy,group stage,Group A,1,0,5/31/1986,Mexico City,Mexico,Bulgaria,Italy,1–1,1,1,0,0,draw,0,0,1,Italy,Bulgaria,1986
+1986 FIFA World Cup,Spain v Brazil,group stage,Group D,1,0,6/1/1986,Guadalajara,Mexico,Spain,Brazil,0–1,0,1,-1,1,away team win,0,1,0,Brazil,Spain,1986
+1986 FIFA World Cup,Canada v France,group stage,Group C,1,0,6/1/1986,León,Mexico,Canada,France,0–1,0,1,-1,1,away team win,0,1,0,France,Canada,1986
+1986 FIFA World Cup,Argentina v South Korea,group stage,Group A,1,0,6/2/1986,Mexico City,Mexico,Argentina,South Korea,3–1,3,1,2,-2,home team win,1,0,0,Argentina,South Korea,1986
+1986 FIFA World Cup,Soviet Union v Hungary,group stage,Group C,1,0,6/2/1986,Irapuato,Mexico,Soviet Union,Hungary,6–0,6,0,6,-6,home team win,1,0,0,Soviet Union,Hungary,1986
+1986 FIFA World Cup,Morocco v Poland,group stage,Group F,1,0,6/2/1986,Monterrey,Mexico,Morocco,Poland,0–0,0,0,0,0,draw,0,0,1,Poland,Morocco,1986
+1986 FIFA World Cup,Belgium v Mexico,group stage,Group B,1,0,6/3/1986,Mexico City,Mexico,Belgium,Mexico,1–2,1,2,-1,1,away team win,0,1,0,Mexico,Belgium,1986
+1986 FIFA World Cup,Algeria v Northern Ireland,group stage,Group D,1,0,6/3/1986,Guadalajara,Mexico,Algeria,Northern Ireland,1–1,1,1,0,0,draw,0,0,1,Northern Ireland,Algeria,1986
+1986 FIFA World Cup,Portugal v England,group stage,Group F,1,0,6/3/1986,Monterrey,Mexico,Portugal,England,1–0,1,0,1,-1,home team win,1,0,0,Portugal,England,1986
+1986 FIFA World Cup,Paraguay v Iraq,group stage,Group B,1,0,6/4/1986,Toluca,Mexico,Paraguay,Iraq,1–0,1,0,1,-1,home team win,1,0,0,Paraguay,Iraq,1986
+1986 FIFA World Cup,Uruguay v West Germany,group stage,Group E,1,0,6/4/1986,Querétaro,Mexico,Uruguay,West Germany,1–1,1,1,0,0,draw,0,0,1,West Germany,Uruguay,1986
+1986 FIFA World Cup,Scotland v Denmark,group stage,Group E,1,0,6/4/1986,Nezahualcóyotl,Mexico,Scotland,Denmark,0–1,0,1,-1,1,away team win,0,1,0,Denmark,Scotland,1986
+1986 FIFA World Cup,Italy v Argentina,group stage,Group A,1,0,6/5/1986,Puebla,Mexico,Italy,Argentina,1–1,1,1,0,0,draw,0,0,1,Argentina,Italy,1986
+1986 FIFA World Cup,France v Soviet Union,group stage,Group C,1,0,6/5/1986,León,Mexico,France,Soviet Union,1–1,1,1,0,0,draw,0,0,1,Soviet Union,France,1986
+1986 FIFA World Cup,South Korea v Bulgaria,group stage,Group A,1,0,6/5/1986,Mexico City,Mexico,South Korea,Bulgaria,1–1,1,1,0,0,draw,0,0,1,Bulgaria,South Korea,1986
+1986 FIFA World Cup,Hungary v Canada,group stage,Group C,1,0,6/6/1986,Irapuato,Mexico,Hungary,Canada,2–0,2,0,2,-2,home team win,1,0,0,Hungary,Canada,1986
+1986 FIFA World Cup,Brazil v Algeria,group stage,Group D,1,0,6/6/1986,Guadalajara,Mexico,Brazil,Algeria,1–0,1,0,1,-1,home team win,1,0,0,Brazil,Algeria,1986
+1986 FIFA World Cup,England v Morocco,group stage,Group F,1,0,6/6/1986,Monterrey,Mexico,England,Morocco,0–0,0,0,0,0,draw,0,0,1,Morocco,England,1986
+1986 FIFA World Cup,Mexico v Paraguay,group stage,Group B,1,0,6/7/1986,Mexico City,Mexico,Mexico,Paraguay,1–1,1,1,0,0,draw,0,0,1,Paraguay,Mexico,1986
+1986 FIFA World Cup,Northern Ireland v Spain,group stage,Group D,1,0,6/7/1986,Guadalajara,Mexico,Northern Ireland,Spain,1–2,1,2,-1,1,away team win,0,1,0,Spain,Northern Ireland,1986
+1986 FIFA World Cup,Poland v Portugal,group stage,Group F,1,0,6/7/1986,Monterrey,Mexico,Poland,Portugal,1–0,1,0,1,-1,home team win,1,0,0,Poland,Portugal,1986
+1986 FIFA World Cup,Iraq v Belgium,group stage,Group B,1,0,6/8/1986,Toluca,Mexico,Iraq,Belgium,1–2,1,2,-1,1,away team win,0,1,0,Belgium,Iraq,1986
+1986 FIFA World Cup,West Germany v Scotland,group stage,Group E,1,0,6/8/1986,Querétaro,Mexico,West Germany,Scotland,2–1,2,1,1,-1,home team win,1,0,0,West Germany,Scotland,1986
+1986 FIFA World Cup,Denmark v Uruguay,group stage,Group E,1,0,6/8/1986,Nezahualcóyotl,Mexico,Denmark,Uruguay,6–1,6,1,5,-5,home team win,1,0,0,Denmark,Uruguay,1986
+1986 FIFA World Cup,Hungary v France,group stage,Group C,1,0,6/9/1986,León,Mexico,Hungary,France,0–3,0,3,-3,3,away team win,0,1,0,France,Hungary,1986
+1986 FIFA World Cup,Soviet Union v Canada,group stage,Group C,1,0,6/9/1986,Irapuato,Mexico,Soviet Union,Canada,2–0,2,0,2,-2,home team win,1,0,0,Soviet Union,Canada,1986
+1986 FIFA World Cup,Argentina v Bulgaria,group stage,Group A,1,0,6/10/1986,Mexico City,Mexico,Argentina,Bulgaria,2–0,2,0,2,-2,home team win,1,0,0,Argentina,Bulgaria,1986
+1986 FIFA World Cup,South Korea v Italy,group stage,Group A,1,0,6/10/1986,Puebla,Mexico,South Korea,Italy,2–3,2,3,-1,1,away team win,0,1,0,Italy,South Korea,1986
+1986 FIFA World Cup,Iraq v Mexico,group stage,Group B,1,0,6/11/1986,Mexico City,Mexico,Iraq,Mexico,0–1,0,1,-1,1,away team win,0,1,0,Mexico,Iraq,1986
+1986 FIFA World Cup,Paraguay v Belgium,group stage,Group B,1,0,6/11/1986,Toluca,Mexico,Paraguay,Belgium,2–2,2,2,0,0,draw,0,0,1,Belgium,Paraguay,1986
+1986 FIFA World Cup,England v Poland,group stage,Group F,1,0,6/11/1986,Monterrey,Mexico,England,Poland,3–0,3,0,3,-3,home team win,1,0,0,England,Poland,1986
+1986 FIFA World Cup,Portugal v Morocco,group stage,Group F,1,0,6/11/1986,Guadalajara,Mexico,Portugal,Morocco,1–3,1,3,-2,2,away team win,0,1,0,Morocco,Portugal,1986
+1986 FIFA World Cup,Algeria v Spain,group stage,Group D,1,0,6/12/1986,Monterrey,Mexico,Algeria,Spain,0–3,0,3,-3,3,away team win,0,1,0,Spain,Algeria,1986
+1986 FIFA World Cup,Northern Ireland v Brazil,group stage,Group D,1,0,6/12/1986,Guadalajara,Mexico,Northern Ireland,Brazil,0–3,0,3,-3,3,away team win,0,1,0,Brazil,Northern Ireland,1986
+1986 FIFA World Cup,Denmark v West Germany,group stage,Group E,1,0,6/13/1986,Querétaro,Mexico,Denmark,West Germany,2–0,2,0,2,-2,home team win,1,0,0,Denmark,West Germany,1986
+1986 FIFA World Cup,Scotland v Uruguay,group stage,Group E,1,0,6/13/1986,Nezahualcóyotl,Mexico,Scotland,Uruguay,0–0,0,0,0,0,draw,0,0,1,Uruguay,Scotland,1986
+1986 FIFA World Cup,Mexico v Bulgaria,round of 16,not applicable,0,1,6/15/1986,Mexico City,Mexico,Mexico,Bulgaria,2–0,2,0,2,-2,home team win,1,0,0,Mexico,Bulgaria,1986
+1986 FIFA World Cup,Soviet Union v Belgium,round of 16,not applicable,0,1,6/15/1986,León,Mexico,Soviet Union,Belgium,3–4,3,4,-1,1,away team win,0,1,0,Belgium,Soviet Union,1986
+1986 FIFA World Cup,Brazil v Poland,round of 16,not applicable,0,1,6/16/1986,Guadalajara,Mexico,Brazil,Poland,4–0,4,0,4,-4,home team win,1,0,0,Brazil,Poland,1986
+1986 FIFA World Cup,Argentina v Uruguay,round of 16,not applicable,0,1,6/16/1986,Puebla,Mexico,Argentina,Uruguay,1–0,1,0,1,-1,home team win,1,0,0,Argentina,Uruguay,1986
+1986 FIFA World Cup,Italy v France,round of 16,not applicable,0,1,6/17/1986,Mexico City,Mexico,Italy,France,0–2,0,2,-2,2,away team win,0,1,0,France,Italy,1986
+1986 FIFA World Cup,Morocco v West Germany,round of 16,not applicable,0,1,6/17/1986,Monterrey,Mexico,Morocco,West Germany,0–1,0,1,-1,1,away team win,0,1,0,West Germany,Morocco,1986
+1986 FIFA World Cup,England v Paraguay,round of 16,not applicable,0,1,6/18/1986,Mexico City,Mexico,England,Paraguay,3–0,3,0,3,-3,home team win,1,0,0,England,Paraguay,1986
+1986 FIFA World Cup,Denmark v Spain,round of 16,not applicable,0,1,6/18/1986,Querétaro,Mexico,Denmark,Spain,1–5,1,5,-4,4,away team win,0,1,0,Spain,Denmark,1986
+1986 FIFA World Cup,Brazil v France,quarter-finals,not applicable,0,1,6/21/1986,Guadalajara,Mexico,Brazil,France,1–1,1,1,0,0,away team win,0,1,0,France,Brazil,1986
+1986 FIFA World Cup,West Germany v Mexico,quarter-finals,not applicable,0,1,6/21/1986,Monterrey,Mexico,West Germany,Mexico,0–0,0,0,0,0,home team win,1,0,0,Mexico,West Germany,1986
+1986 FIFA World Cup,Argentina v England,quarter-finals,not applicable,0,1,6/22/1986,Mexico City,Mexico,Argentina,England,2–1,2,1,1,-1,home team win,1,0,0,Argentina,England,1986
+1986 FIFA World Cup,Spain v Belgium,quarter-finals,not applicable,0,1,6/22/1986,Puebla,Mexico,Spain,Belgium,1–1,1,1,0,0,away team win,0,1,0,Belgium,Spain,1986
+1986 FIFA World Cup,France v West Germany,semi-finals,not applicable,0,1,6/25/1986,Guadalajara,Mexico,France,West Germany,0–2,0,2,-2,2,away team win,0,1,0,West Germany,France,1986
+1986 FIFA World Cup,Argentina v Belgium,semi-finals,not applicable,0,1,6/25/1986,Mexico City,Mexico,Argentina,Belgium,2–0,2,0,2,-2,home team win,1,0,0,Argentina,Belgium,1986
+1986 FIFA World Cup,Belgium v France,third-place match,not applicable,0,1,6/28/1986,Puebla,Mexico,Belgium,France,2–4,2,4,-2,2,away team win,0,1,0,France,Belgium,1986
+1986 FIFA World Cup,Argentina v West Germany,final,not applicable,0,1,6/29/1986,Mexico City,Mexico,Argentina,West Germany,3–2,3,2,1,-1,home team win,1,0,0,Argentina,West Germany,1986
+1990 FIFA World Cup,Argentina v Cameroon,group stage,Group B,1,0,6/8/1990,Milan,Italy,Argentina,Cameroon,0–1,0,1,-1,1,away team win,0,1,0,Cameroon,Argentina,1990
+1990 FIFA World Cup,Soviet Union v Romania,group stage,Group B,1,0,6/9/1990,Bari,Italy,Soviet Union,Romania,0–2,0,2,-2,2,away team win,0,1,0,Romania,Soviet Union,1990
+1990 FIFA World Cup,United Arab Emirates v Colombia,group stage,Group D,1,0,6/9/1990,Bologna,Italy,United Arab Emirates,Colombia,0–2,0,2,-2,2,away team win,0,1,0,Colombia,United Arab Emirates,1990
+1990 FIFA World Cup,Italy v Austria,group stage,Group A,1,0,6/9/1990,Rome,Italy,Italy,Austria,1–0,1,0,1,-1,home team win,1,0,0,Italy,Austria,1990
+1990 FIFA World Cup,United States v Czechoslovakia,group stage,Group A,1,0,6/10/1990,Florence,Italy,United States,Czechoslovakia,1–5,1,5,-4,4,away team win,0,1,0,Czechoslovakia,United States,1990
+1990 FIFA World Cup,Brazil v Sweden,group stage,Group C,1,0,6/10/1990,Turin,Italy,Brazil,Sweden,2–1,2,1,1,-1,home team win,1,0,0,Brazil,Sweden,1990
+1990 FIFA World Cup,West Germany v Yugoslavia,group stage,Group D,1,0,6/10/1990,Milan,Italy,West Germany,Yugoslavia,4–1,4,1,3,-3,home team win,1,0,0,West Germany,Yugoslavia,1990
+1990 FIFA World Cup,Costa Rica v Scotland,group stage,Group C,1,0,6/11/1990,Genoa,Italy,Costa Rica,Scotland,1–0,1,0,1,-1,home team win,1,0,0,Costa Rica,Scotland,1990
+1990 FIFA World Cup,England v Republic of Ireland,group stage,Group F,1,0,6/11/1990,Cagliari,Italy,England,Republic of Ireland,1–1,1,1,0,0,draw,0,0,1,Republic of Ireland,England,1990
+1990 FIFA World Cup,Belgium v South Korea,group stage,Group E,1,0,6/12/1990,Verona,Italy,Belgium,South Korea,2–0,2,0,2,-2,home team win,1,0,0,Belgium,South Korea,1990
+1990 FIFA World Cup,Netherlands v Egypt,group stage,Group F,1,0,6/12/1990,Palermo,Italy,Netherlands,Egypt,1–1,1,1,0,0,draw,0,0,1,Egypt,Netherlands,1990
+1990 FIFA World Cup,Uruguay v Spain,group stage,Group E,1,0,6/13/1990,Udine,Italy,Uruguay,Spain,0–0,0,0,0,0,draw,0,0,1,Spain,Uruguay,1990
+1990 FIFA World Cup,Argentina v Soviet Union,group stage,Group B,1,0,6/13/1990,Naples,Italy,Argentina,Soviet Union,2–0,2,0,2,-2,home team win,1,0,0,Argentina,Soviet Union,1990
+1990 FIFA World Cup,Cameroon v Romania,group stage,Group B,1,0,6/14/1990,Bari,Italy,Cameroon,Romania,2–1,2,1,1,-1,home team win,1,0,0,Cameroon,Romania,1990
+1990 FIFA World Cup,Yugoslavia v Colombia,group stage,Group D,1,0,6/14/1990,Bologna,Italy,Yugoslavia,Colombia,1–0,1,0,1,-1,home team win,1,0,0,Yugoslavia,Colombia,1990
+1990 FIFA World Cup,Italy v United States,group stage,Group A,1,0,6/14/1990,Rome,Italy,Italy,United States,1–0,1,0,1,-1,home team win,1,0,0,Italy,United States,1990
+1990 FIFA World Cup,Austria v Czechoslovakia,group stage,Group A,1,0,6/15/1990,Florence,Italy,Austria,Czechoslovakia,0–1,0,1,-1,1,away team win,0,1,0,Czechoslovakia,Austria,1990
+1990 FIFA World Cup,West Germany v United Arab Emirates,group stage,Group D,1,0,6/15/1990,Milan,Italy,West Germany,United Arab Emirates,5–1,5,1,4,-4,home team win,1,0,0,West Germany,United Arab Emirates,1990
+1990 FIFA World Cup,Brazil v Costa Rica,group stage,Group C,1,0,6/16/1990,Turin,Italy,Brazil,Costa Rica,1–0,1,0,1,-1,home team win,1,0,0,Brazil,Costa Rica,1990
+1990 FIFA World Cup,Sweden v Scotland,group stage,Group C,1,0,6/16/1990,Genoa,Italy,Sweden,Scotland,1–2,1,2,-1,1,away team win,0,1,0,Scotland,Sweden,1990
+1990 FIFA World Cup,England v Netherlands,group stage,Group F,1,0,6/16/1990,Cagliari,Italy,England,Netherlands,0–0,0,0,0,0,draw,0,0,1,Netherlands,England,1990
+1990 FIFA World Cup,Republic of Ireland v Egypt,group stage,Group F,1,0,6/17/1990,Palermo,Italy,Republic of Ireland,Egypt,0–0,0,0,0,0,draw,0,0,1,Egypt,Republic of Ireland,1990
+1990 FIFA World Cup,Belgium v Uruguay,group stage,Group E,1,0,6/17/1990,Verona,Italy,Belgium,Uruguay,3–1,3,1,2,-2,home team win,1,0,0,Belgium,Uruguay,1990
+1990 FIFA World Cup,South Korea v Spain,group stage,Group E,1,0,6/17/1990,Udine,Italy,South Korea,Spain,1–3,1,3,-2,2,away team win,0,1,0,Spain,South Korea,1990
+1990 FIFA World Cup,Argentina v Romania,group stage,Group B,1,0,6/18/1990,Naples,Italy,Argentina,Romania,1–1,1,1,0,0,draw,0,0,1,Romania,Argentina,1990
+1990 FIFA World Cup,Cameroon v Soviet Union,group stage,Group B,1,0,6/18/1990,Bari,Italy,Cameroon,Soviet Union,0–4,0,4,-4,4,away team win,0,1,0,Soviet Union,Cameroon,1990
+1990 FIFA World Cup,West Germany v Colombia,group stage,Group D,1,0,6/19/1990,Milan,Italy,West Germany,Colombia,1–1,1,1,0,0,draw,0,0,1,Colombia,West Germany,1990
+1990 FIFA World Cup,Yugoslavia v United Arab Emirates,group stage,Group D,1,0,6/19/1990,Bologna,Italy,Yugoslavia,United Arab Emirates,4–1,4,1,3,-3,home team win,1,0,0,Yugoslavia,United Arab Emirates,1990
+1990 FIFA World Cup,Austria v United States,group stage,Group A,1,0,6/19/1990,Florence,Italy,Austria,United States,2–1,2,1,1,-1,home team win,1,0,0,Austria,United States,1990
+1990 FIFA World Cup,Italy v Czechoslovakia,group stage,Group A,1,0,6/19/1990,Rome,Italy,Italy,Czechoslovakia,2–0,2,0,2,-2,home team win,1,0,0,Italy,Czechoslovakia,1990
+1990 FIFA World Cup,Brazil v Scotland,group stage,Group C,1,0,6/20/1990,Turin,Italy,Brazil,Scotland,1–0,1,0,1,-1,home team win,1,0,0,Brazil,Scotland,1990
+1990 FIFA World Cup,Sweden v Costa Rica,group stage,Group C,1,0,6/20/1990,Genoa,Italy,Sweden,Costa Rica,1–2,1,2,-1,1,away team win,0,1,0,Costa Rica,Sweden,1990
+1990 FIFA World Cup,Belgium v Spain,group stage,Group E,1,0,6/21/1990,Verona,Italy,Belgium,Spain,1–2,1,2,-1,1,away team win,0,1,0,Spain,Belgium,1990
+1990 FIFA World Cup,South Korea v Uruguay,group stage,Group E,1,0,6/21/1990,Udine,Italy,South Korea,Uruguay,0–1,0,1,-1,1,away team win,0,1,0,Uruguay,South Korea,1990
+1990 FIFA World Cup,England v Egypt,group stage,Group F,1,0,6/21/1990,Cagliari,Italy,England,Egypt,1–0,1,0,1,-1,home team win,1,0,0,England,Egypt,1990
+1990 FIFA World Cup,Republic of Ireland v Netherlands,group stage,Group F,1,0,6/21/1990,Palermo,Italy,Republic of Ireland,Netherlands,1–1,1,1,0,0,draw,0,0,1,Netherlands,Republic of Ireland,1990
+1990 FIFA World Cup,Cameroon v Colombia,round of 16,not applicable,0,1,6/23/1990,Naples,Italy,Cameroon,Colombia,2–1,2,1,1,-1,home team win,1,0,0,Cameroon,Colombia,1990
+1990 FIFA World Cup,Czechoslovakia v Costa Rica,round of 16,not applicable,0,1,6/23/1990,Bari,Italy,Czechoslovakia,Costa Rica,4–1,4,1,3,-3,home team win,1,0,0,Czechoslovakia,Costa Rica,1990
+1990 FIFA World Cup,Brazil v Argentina,round of 16,not applicable,0,1,6/24/1990,Turin,Italy,Brazil,Argentina,0–1,0,1,-1,1,away team win,0,1,0,Argentina,Brazil,1990
+1990 FIFA World Cup,West Germany v Netherlands,round of 16,not applicable,0,1,6/24/1990,Milan,Italy,West Germany,Netherlands,2–1,2,1,1,-1,home team win,1,0,0,West Germany,Netherlands,1990
+1990 FIFA World Cup,Republic of Ireland v Romania,round of 16,not applicable,0,1,6/25/1990,Genoa,Italy,Republic of Ireland,Romania,0–0,0,0,0,0,home team win,1,0,0,Romania,Republic of Ireland,1990
+1990 FIFA World Cup,Italy v Uruguay,round of 16,not applicable,0,1,6/25/1990,Rome,Italy,Italy,Uruguay,2–0,2,0,2,-2,home team win,1,0,0,Italy,Uruguay,1990
+1990 FIFA World Cup,Spain v Yugoslavia,round of 16,not applicable,0,1,6/26/1990,Verona,Italy,Spain,Yugoslavia,1–2,1,2,-1,1,away team win,0,1,0,Yugoslavia,Spain,1990
+1990 FIFA World Cup,England v Belgium,round of 16,not applicable,0,1,6/26/1990,Bologna,Italy,England,Belgium,1–0,1,0,1,-1,home team win,1,0,0,England,Belgium,1990
+1990 FIFA World Cup,Argentina v Yugoslavia,quarter-finals,not applicable,0,1,6/30/1990,Florence,Italy,Argentina,Yugoslavia,0–0,0,0,0,0,home team win,1,0,0,Yugoslavia,Argentina,1990
+1990 FIFA World Cup,Republic of Ireland v Italy,quarter-finals,not applicable,0,1,6/30/1990,Rome,Italy,Republic of Ireland,Italy,0–1,0,1,-1,1,away team win,0,1,0,Italy,Republic of Ireland,1990
+1990 FIFA World Cup,Czechoslovakia v West Germany,quarter-finals,not applicable,0,1,7/1/1990,Milan,Italy,Czechoslovakia,West Germany,0–1,0,1,-1,1,away team win,0,1,0,West Germany,Czechoslovakia,1990
+1990 FIFA World Cup,Cameroon v England,quarter-finals,not applicable,0,1,7/1/1990,Naples,Italy,Cameroon,England,2–3,2,3,-1,1,away team win,0,1,0,England,Cameroon,1990
+1990 FIFA World Cup,Argentina v Italy,semi-finals,not applicable,0,1,7/3/1990,Naples,Italy,Argentina,Italy,1–1,1,1,0,0,home team win,1,0,0,Italy,Argentina,1990
+1990 FIFA World Cup,West Germany v England,semi-finals,not applicable,0,1,7/4/1990,Turin,Italy,West Germany,England,1–1,1,1,0,0,home team win,1,0,0,England,West Germany,1990
+1990 FIFA World Cup,Italy v England,third-place match,not applicable,0,1,7/7/1990,Bari,Italy,Italy,England,2–1,2,1,1,-1,home team win,1,0,0,Italy,England,1990
+1990 FIFA World Cup,West Germany v Argentina,final,not applicable,0,1,7/8/1990,Rome,Italy,West Germany,Argentina,1–0,1,0,1,-1,home team win,1,0,0,West Germany,Argentina,1990
+1994 FIFA World Cup,Germany v Bolivia,group stage,Group C,1,0,6/17/1994,Chicago,United States,Germany,Bolivia,1–0,1,0,1,-1,home team win,1,0,0,Germany,Bolivia,1994
+1994 FIFA World Cup,Spain v South Korea,group stage,Group C,1,0,6/17/1994,Dallas,United States,Spain,South Korea,2–2,2,2,0,0,draw,0,0,1,South Korea,Spain,1994
+1994 FIFA World Cup,United States v Switzerland,group stage,Group A,1,0,6/18/1994,Pontiac,United States,United States,Switzerland,1–1,1,1,0,0,draw,0,0,1,Switzerland,United States,1994
+1994 FIFA World Cup,Italy v Republic of Ireland,group stage,Group E,1,0,6/18/1994,East Rutherford,United States,Italy,Republic of Ireland,0–1,0,1,-1,1,away team win,0,1,0,Republic of Ireland,Italy,1994
+1994 FIFA World Cup,Colombia v Romania,group stage,Group A,1,0,6/18/1994,Pasadena,United States,Colombia,Romania,1–3,1,3,-2,2,away team win,0,1,0,Romania,Colombia,1994
+1994 FIFA World Cup,Belgium v Morocco,group stage,Group F,1,0,6/19/1994,Orlando,United States,Belgium,Morocco,1–0,1,0,1,-1,home team win,1,0,0,Belgium,Morocco,1994
+1994 FIFA World Cup,Norway v Mexico,group stage,Group E,1,0,6/19/1994,"Washington, D.C.",United States,Norway,Mexico,1–0,1,0,1,-1,home team win,1,0,0,Norway,Mexico,1994
+1994 FIFA World Cup,Cameroon v Sweden,group stage,Group B,1,0,6/19/1994,Pasadena,United States,Cameroon,Sweden,2–2,2,2,0,0,draw,0,0,1,Sweden,Cameroon,1994
+1994 FIFA World Cup,Brazil v Russia,group stage,Group B,1,0,6/20/1994,Stanford,United States,Brazil,Russia,2–0,2,0,2,-2,home team win,1,0,0,Brazil,Russia,1994
+1994 FIFA World Cup,Netherlands v Saudi Arabia,group stage,Group F,1,0,6/20/1994,"Washington, D.C.",United States,Netherlands,Saudi Arabia,2–1,2,1,1,-1,home team win,1,0,0,Netherlands,Saudi Arabia,1994
+1994 FIFA World Cup,Argentina v Greece,group stage,Group D,1,0,6/21/1994,Foxborough,United States,Argentina,Greece,4–0,4,0,4,-4,home team win,1,0,0,Argentina,Greece,1994
+1994 FIFA World Cup,Germany v Spain,group stage,Group C,1,0,6/21/1994,Chicago,United States,Germany,Spain,1–1,1,1,0,0,draw,0,0,1,Spain,Germany,1994
+1994 FIFA World Cup,Nigeria v Bulgaria,group stage,Group D,1,0,6/21/1994,Dallas,United States,Nigeria,Bulgaria,3–0,3,0,3,-3,home team win,1,0,0,Nigeria,Bulgaria,1994
+1994 FIFA World Cup,Romania v Switzerland,group stage,Group A,1,0,6/22/1994,Pontiac,United States,Romania,Switzerland,1–4,1,4,-3,3,away team win,0,1,0,Switzerland,Romania,1994
+1994 FIFA World Cup,United States v Colombia,group stage,Group A,1,0,6/22/1994,Pasadena,United States,United States,Colombia,2–1,2,1,1,-1,home team win,1,0,0,United States,Colombia,1994
+1994 FIFA World Cup,Italy v Norway,group stage,Group E,1,0,6/23/1994,East Rutherford,United States,Italy,Norway,1–0,1,0,1,-1,home team win,1,0,0,Italy,Norway,1994
+1994 FIFA World Cup,South Korea v Bolivia,group stage,Group C,1,0,6/23/1994,Foxborough,United States,South Korea,Bolivia,0–0,0,0,0,0,draw,0,0,1,Bolivia,South Korea,1994
+1994 FIFA World Cup,Mexico v Republic of Ireland,group stage,Group E,1,0,6/24/1994,Orlando,United States,Mexico,Republic of Ireland,2–1,2,1,1,-1,home team win,1,0,0,Mexico,Republic of Ireland,1994
+1994 FIFA World Cup,Brazil v Cameroon,group stage,Group B,1,0,6/24/1994,Stanford,United States,Brazil,Cameroon,3–0,3,0,3,-3,home team win,1,0,0,Brazil,Cameroon,1994
+1994 FIFA World Cup,Sweden v Russia,group stage,Group B,1,0,6/24/1994,Pontiac,United States,Sweden,Russia,3–1,3,1,2,-2,home team win,1,0,0,Sweden,Russia,1994
+1994 FIFA World Cup,Belgium v Netherlands,group stage,Group F,1,0,6/25/1994,Orlando,United States,Belgium,Netherlands,1–0,1,0,1,-1,home team win,1,0,0,Belgium,Netherlands,1994
+1994 FIFA World Cup,Saudi Arabia v Morocco,group stage,Group F,1,0,6/25/1994,East Rutherford,United States,Saudi Arabia,Morocco,2–1,2,1,1,-1,home team win,1,0,0,Saudi Arabia,Morocco,1994
+1994 FIFA World Cup,Argentina v Nigeria,group stage,Group D,1,0,6/25/1994,Foxborough,United States,Argentina,Nigeria,2–1,2,1,1,-1,home team win,1,0,0,Argentina,Nigeria,1994
+1994 FIFA World Cup,Bulgaria v Greece,group stage,Group D,1,0,6/26/1994,Chicago,United States,Bulgaria,Greece,4–0,4,0,4,-4,home team win,1,0,0,Bulgaria,Greece,1994
+1994 FIFA World Cup,Switzerland v Colombia,group stage,Group A,1,0,6/26/1994,Stanford,United States,Switzerland,Colombia,0–2,0,2,-2,2,away team win,0,1,0,Colombia,Switzerland,1994
+1994 FIFA World Cup,United States v Romania,group stage,Group A,1,0,6/26/1994,Pasadena,United States,United States,Romania,0–1,0,1,-1,1,away team win,0,1,0,Romania,United States,1994
+1994 FIFA World Cup,Bolivia v Spain,group stage,Group C,1,0,6/27/1994,Chicago,United States,Bolivia,Spain,1–3,1,3,-2,2,away team win,0,1,0,Spain,Bolivia,1994
+1994 FIFA World Cup,Germany v South Korea,group stage,Group C,1,0,6/27/1994,Dallas,United States,Germany,South Korea,3–2,3,2,1,-1,home team win,1,0,0,Germany,South Korea,1994
+1994 FIFA World Cup,Italy v Mexico,group stage,Group E,1,0,6/28/1994,"Washington, D.C.",United States,Italy,Mexico,1–1,1,1,0,0,draw,0,0,1,Mexico,Italy,1994
+1994 FIFA World Cup,Republic of Ireland v Norway,group stage,Group E,1,0,6/28/1994,East Rutherford,United States,Republic of Ireland,Norway,0–0,0,0,0,0,draw,0,0,1,Norway,Republic of Ireland,1994
+1994 FIFA World Cup,Russia v Cameroon,group stage,Group B,1,0,6/28/1994,Stanford,United States,Russia,Cameroon,6–1,6,1,5,-5,home team win,1,0,0,Russia,Cameroon,1994
+1994 FIFA World Cup,Brazil v Sweden,group stage,Group B,1,0,6/28/1994,Pontiac,United States,Brazil,Sweden,1–1,1,1,0,0,draw,0,0,1,Sweden,Brazil,1994
+1994 FIFA World Cup,Belgium v Saudi Arabia,group stage,Group F,1,0,6/29/1994,"Washington, D.C.",United States,Belgium,Saudi Arabia,0–1,0,1,-1,1,away team win,0,1,0,Saudi Arabia,Belgium,1994
+1994 FIFA World Cup,Morocco v Netherlands,group stage,Group F,1,0,6/29/1994,Orlando,United States,Morocco,Netherlands,1–2,1,2,-1,1,away team win,0,1,0,Netherlands,Morocco,1994
+1994 FIFA World Cup,Argentina v Bulgaria,group stage,Group D,1,0,6/30/1994,Dallas,United States,Argentina,Bulgaria,0–2,0,2,-2,2,away team win,0,1,0,Bulgaria,Argentina,1994
+1994 FIFA World Cup,Greece v Nigeria,group stage,Group D,1,0,6/30/1994,Foxborough,United States,Greece,Nigeria,0–2,0,2,-2,2,away team win,0,1,0,Nigeria,Greece,1994
+1994 FIFA World Cup,Germany v Belgium,round of 16,not applicable,0,1,7/2/1994,Chicago,United States,Germany,Belgium,3–2,3,2,1,-1,home team win,1,0,0,Germany,Belgium,1994
+1994 FIFA World Cup,Spain v Switzerland,round of 16,not applicable,0,1,7/2/1994,"Washington, D.C.",United States,Spain,Switzerland,3–0,3,0,3,-3,home team win,1,0,0,Spain,Switzerland,1994
+1994 FIFA World Cup,Saudi Arabia v Sweden,round of 16,not applicable,0,1,7/3/1994,Dallas,United States,Saudi Arabia,Sweden,1–3,1,3,-2,2,away team win,0,1,0,Sweden,Saudi Arabia,1994
+1994 FIFA World Cup,Romania v Argentina,round of 16,not applicable,0,1,7/3/1994,Pasadena,United States,Romania,Argentina,3–2,3,2,1,-1,home team win,1,0,0,Romania,Argentina,1994
+1994 FIFA World Cup,Netherlands v Republic of Ireland,round of 16,not applicable,0,1,7/4/1994,Orlando,United States,Netherlands,Republic of Ireland,2–0,2,0,2,-2,home team win,1,0,0,Netherlands,Republic of Ireland,1994
+1994 FIFA World Cup,Brazil v United States,round of 16,not applicable,0,1,7/4/1994,Stanford,United States,Brazil,United States,1–0,1,0,1,-1,home team win,1,0,0,Brazil,United States,1994
+1994 FIFA World Cup,Nigeria v Italy,round of 16,not applicable,0,1,7/5/1994,Foxborough,United States,Nigeria,Italy,1–2,1,2,-1,1,away team win,0,1,0,Italy,Nigeria,1994
+1994 FIFA World Cup,Mexico v Bulgaria,round of 16,not applicable,0,1,7/5/1994,East Rutherford,United States,Mexico,Bulgaria,1–1,1,1,0,0,away team win,0,1,0,Bulgaria,Mexico,1994
+1994 FIFA World Cup,Italy v Spain,quarter-finals,not applicable,0,1,7/9/1994,Foxborough,United States,Italy,Spain,2–1,2,1,1,-1,home team win,1,0,0,Italy,Spain,1994
+1994 FIFA World Cup,Netherlands v Brazil,quarter-finals,not applicable,0,1,7/9/1994,Dallas,United States,Netherlands,Brazil,2–3,2,3,-1,1,away team win,0,1,0,Brazil,Netherlands,1994
+1994 FIFA World Cup,Bulgaria v Germany,quarter-finals,not applicable,0,1,7/10/1994,East Rutherford,United States,Bulgaria,Germany,2–1,2,1,1,-1,home team win,1,0,0,Bulgaria,Germany,1994
+1994 FIFA World Cup,Romania v Sweden,quarter-finals,not applicable,0,1,7/10/1994,Stanford,United States,Romania,Sweden,2–2,2,2,0,0,away team win,0,1,0,Sweden,Romania,1994
+1994 FIFA World Cup,Bulgaria v Italy,semi-finals,not applicable,0,1,7/13/1994,East Rutherford,United States,Bulgaria,Italy,1–2,1,2,-1,1,away team win,0,1,0,Italy,Bulgaria,1994
+1994 FIFA World Cup,Sweden v Brazil,semi-finals,not applicable,0,1,7/13/1994,Pasadena,United States,Sweden,Brazil,0–1,0,1,-1,1,away team win,0,1,0,Brazil,Sweden,1994
+1994 FIFA World Cup,Sweden v Bulgaria,third-place match,not applicable,0,1,7/16/1994,Pasadena,United States,Sweden,Bulgaria,4–0,4,0,4,-4,home team win,1,0,0,Sweden,Bulgaria,1994
+1994 FIFA World Cup,Brazil v Italy,final,not applicable,0,1,7/17/1994,Pasadena,United States,Brazil,Italy,0–0,0,0,0,0,home team win,1,0,0,Italy,Brazil,1994
+1998 FIFA World Cup,Brazil v Scotland,group stage,Group A,1,0,6/10/1998,Saint-Denis,France,Brazil,Scotland,2–1,2,1,1,-1,home team win,1,0,0,Brazil,Scotland,1998
+1998 FIFA World Cup,Morocco v Norway,group stage,Group A,1,0,6/10/1998,Montpellier,France,Morocco,Norway,2–2,2,2,0,0,draw,0,0,1,Norway,Morocco,1998
+1998 FIFA World Cup,Italy v Chile,group stage,Group B,1,0,6/11/1998,Bordeaux,France,Italy,Chile,2–2,2,2,0,0,draw,0,0,1,Chile,Italy,1998
+1998 FIFA World Cup,Cameroon v Austria,group stage,Group B,1,0,6/11/1998,Toulouse,France,Cameroon,Austria,1–1,1,1,0,0,draw,0,0,1,Austria,Cameroon,1998
+1998 FIFA World Cup,Paraguay v Bulgaria,group stage,Group D,1,0,6/12/1998,Montpellier,France,Paraguay,Bulgaria,0–0,0,0,0,0,draw,0,0,1,Bulgaria,Paraguay,1998
+1998 FIFA World Cup,Saudi Arabia v Denmark,group stage,Group C,1,0,6/12/1998,Lens,France,Saudi Arabia,Denmark,0–1,0,1,-1,1,away team win,0,1,0,Denmark,Saudi Arabia,1998
+1998 FIFA World Cup,France v South Africa,group stage,Group C,1,0,6/12/1998,Marseille,France,France,South Africa,3–0,3,0,3,-3,home team win,1,0,0,France,South Africa,1998
+1998 FIFA World Cup,Spain v Nigeria,group stage,Group D,1,0,6/13/1998,Nantes,France,Spain,Nigeria,2–3,2,3,-1,1,away team win,0,1,0,Nigeria,Spain,1998
+1998 FIFA World Cup,South Korea v Mexico,group stage,Group E,1,0,6/13/1998,Lyon,France,South Korea,Mexico,1–3,1,3,-2,2,away team win,0,1,0,Mexico,South Korea,1998
+1998 FIFA World Cup,Netherlands v Belgium,group stage,Group E,1,0,6/13/1998,Saint-Denis,France,Netherlands,Belgium,0–0,0,0,0,0,draw,0,0,1,Belgium,Netherlands,1998
+1998 FIFA World Cup,Argentina v Japan,group stage,Group H,1,0,6/14/1998,Toulouse,France,Argentina,Japan,1–0,1,0,1,-1,home team win,1,0,0,Argentina,Japan,1998
+1998 FIFA World Cup,Yugoslavia v Iran,group stage,Group F,1,0,6/14/1998,Saint-Étienne,France,Yugoslavia,Iran,1–0,1,0,1,-1,home team win,1,0,0,Yugoslavia,Iran,1998
+1998 FIFA World Cup,Jamaica v Croatia,group stage,Group H,1,0,6/14/1998,Lens,France,Jamaica,Croatia,1–3,1,3,-2,2,away team win,0,1,0,Croatia,Jamaica,1998
+1998 FIFA World Cup,England v Tunisia,group stage,Group G,1,0,6/15/1998,Marseille,France,England,Tunisia,2–0,2,0,2,-2,home team win,1,0,0,England,Tunisia,1998
+1998 FIFA World Cup,Romania v Colombia,group stage,Group G,1,0,6/15/1998,Lyon,France,Romania,Colombia,1–0,1,0,1,-1,home team win,1,0,0,Romania,Colombia,1998
+1998 FIFA World Cup,Germany v United States,group stage,Group F,1,0,6/15/1998,Paris,France,Germany,United States,2–0,2,0,2,-2,home team win,1,0,0,Germany,United States,1998
+1998 FIFA World Cup,Scotland v Norway,group stage,Group A,1,0,6/16/1998,Bordeaux,France,Scotland,Norway,1–1,1,1,0,0,draw,0,0,1,Norway,Scotland,1998
+1998 FIFA World Cup,Brazil v Morocco,group stage,Group A,1,0,6/16/1998,Nantes,France,Brazil,Morocco,3–0,3,0,3,-3,home team win,1,0,0,Brazil,Morocco,1998
+1998 FIFA World Cup,Chile v Austria,group stage,Group B,1,0,6/17/1998,Saint-Étienne,France,Chile,Austria,1–1,1,1,0,0,draw,0,0,1,Austria,Chile,1998
+1998 FIFA World Cup,Italy v Cameroon,group stage,Group B,1,0,6/17/1998,Montpellier,France,Italy,Cameroon,3–0,3,0,3,-3,home team win,1,0,0,Italy,Cameroon,1998
+1998 FIFA World Cup,South Africa v Denmark,group stage,Group C,1,0,6/18/1998,Toulouse,France,South Africa,Denmark,1–1,1,1,0,0,draw,0,0,1,Denmark,South Africa,1998
+1998 FIFA World Cup,France v Saudi Arabia,group stage,Group C,1,0,6/18/1998,Saint-Denis,France,France,Saudi Arabia,4–0,4,0,4,-4,home team win,1,0,0,France,Saudi Arabia,1998
+1998 FIFA World Cup,Nigeria v Bulgaria,group stage,Group D,1,0,6/19/1998,Paris,France,Nigeria,Bulgaria,1–0,1,0,1,-1,home team win,1,0,0,Nigeria,Bulgaria,1998
+1998 FIFA World Cup,Spain v Paraguay,group stage,Group D,1,0,6/19/1998,Saint-Étienne,France,Spain,Paraguay,0–0,0,0,0,0,draw,0,0,1,Paraguay,Spain,1998
+1998 FIFA World Cup,Japan v Croatia,group stage,Group H,1,0,6/20/1998,Nantes,France,Japan,Croatia,0–1,0,1,-1,1,away team win,0,1,0,Croatia,Japan,1998
+1998 FIFA World Cup,Belgium v Mexico,group stage,Group E,1,0,6/20/1998,Bordeaux,France,Belgium,Mexico,2–2,2,2,0,0,draw,0,0,1,Mexico,Belgium,1998
+1998 FIFA World Cup,Netherlands v South Korea,group stage,Group E,1,0,6/20/1998,Marseille,France,Netherlands,South Korea,5–0,5,0,5,-5,home team win,1,0,0,Netherlands,South Korea,1998
+1998 FIFA World Cup,Germany v Yugoslavia,group stage,Group F,1,0,6/21/1998,Lens,France,Germany,Yugoslavia,2–2,2,2,0,0,draw,0,0,1,Yugoslavia,Germany,1998
+1998 FIFA World Cup,Argentina v Jamaica,group stage,Group H,1,0,6/21/1998,Paris,France,Argentina,Jamaica,5–0,5,0,5,-5,home team win,1,0,0,Argentina,Jamaica,1998
+1998 FIFA World Cup,United States v Iran,group stage,Group F,1,0,6/21/1998,Lyon,France,United States,Iran,1–2,1,2,-1,1,away team win,0,1,0,Iran,United States,1998
+1998 FIFA World Cup,Colombia v Tunisia,group stage,Group G,1,0,6/22/1998,Montpellier,France,Colombia,Tunisia,1–0,1,0,1,-1,home team win,1,0,0,Colombia,Tunisia,1998
+1998 FIFA World Cup,Romania v England,group stage,Group G,1,0,6/22/1998,Toulouse,France,Romania,England,2–1,2,1,1,-1,home team win,1,0,0,Romania,England,1998
+1998 FIFA World Cup,Chile v Cameroon,group stage,Group B,1,0,6/23/1998,Nantes,France,Chile,Cameroon,1–1,1,1,0,0,draw,0,0,1,Cameroon,Chile,1998
+1998 FIFA World Cup,Italy v Austria,group stage,Group B,1,0,6/23/1998,Saint-Denis,France,Italy,Austria,2–1,2,1,1,-1,home team win,1,0,0,Italy,Austria,1998
+1998 FIFA World Cup,Brazil v Norway,group stage,Group A,1,0,6/23/1998,Marseille,France,Brazil,Norway,1–2,1,2,-1,1,away team win,0,1,0,Norway,Brazil,1998
+1998 FIFA World Cup,Scotland v Morocco,group stage,Group A,1,0,6/23/1998,Saint-Étienne,France,Scotland,Morocco,0–3,0,3,-3,3,away team win,0,1,0,Morocco,Scotland,1998
+1998 FIFA World Cup,France v Denmark,group stage,Group C,1,0,6/24/1998,Lyon,France,France,Denmark,2–1,2,1,1,-1,home team win,1,0,0,France,Denmark,1998
+1998 FIFA World Cup,South Africa v Saudi Arabia,group stage,Group C,1,0,6/24/1998,Bordeaux,France,South Africa,Saudi Arabia,2–2,2,2,0,0,draw,0,0,1,Saudi Arabia,South Africa,1998
+1998 FIFA World Cup,Nigeria v Paraguay,group stage,Group D,1,0,6/24/1998,Toulouse,France,Nigeria,Paraguay,1–3,1,3,-2,2,away team win,0,1,0,Paraguay,Nigeria,1998
+1998 FIFA World Cup,Spain v Bulgaria,group stage,Group D,1,0,6/24/1998,Lens,France,Spain,Bulgaria,6–1,6,1,5,-5,home team win,1,0,0,Spain,Bulgaria,1998
+1998 FIFA World Cup,Belgium v South Korea,group stage,Group E,1,0,6/25/1998,Paris,France,Belgium,South Korea,1–1,1,1,0,0,draw,0,0,1,South Korea,Belgium,1998
+1998 FIFA World Cup,Netherlands v Mexico,group stage,Group E,1,0,6/25/1998,Saint-Étienne,France,Netherlands,Mexico,2–2,2,2,0,0,draw,0,0,1,Mexico,Netherlands,1998
+1998 FIFA World Cup,Germany v Iran,group stage,Group F,1,0,6/25/1998,Montpellier,France,Germany,Iran,2–0,2,0,2,-2,home team win,1,0,0,Germany,Iran,1998
+1998 FIFA World Cup,United States v Yugoslavia,group stage,Group F,1,0,6/25/1998,Nantes,France,United States,Yugoslavia,0–1,0,1,-1,1,away team win,0,1,0,Yugoslavia,United States,1998
+1998 FIFA World Cup,Argentina v Croatia,group stage,Group H,1,0,6/26/1998,Bordeaux,France,Argentina,Croatia,1–0,1,0,1,-1,home team win,1,0,0,Argentina,Croatia,1998
+1998 FIFA World Cup,Japan v Jamaica,group stage,Group H,1,0,6/26/1998,Lyon,France,Japan,Jamaica,1–2,1,2,-1,1,away team win,0,1,0,Jamaica,Japan,1998
+1998 FIFA World Cup,Colombia v England,group stage,Group G,1,0,6/26/1998,Lens,France,Colombia,England,0–2,0,2,-2,2,away team win,0,1,0,England,Colombia,1998
+1998 FIFA World Cup,Romania v Tunisia,group stage,Group G,1,0,6/26/1998,Saint-Denis,France,Romania,Tunisia,1–1,1,1,0,0,draw,0,0,1,Tunisia,Romania,1998
+1998 FIFA World Cup,Italy v Norway,round of 16,not applicable,0,1,6/27/1998,Marseille,France,Italy,Norway,1–0,1,0,1,-1,home team win,1,0,0,Italy,Norway,1998
+1998 FIFA World Cup,Brazil v Chile,round of 16,not applicable,0,1,6/27/1998,Paris,France,Brazil,Chile,4–1,4,1,3,-3,home team win,1,0,0,Brazil,Chile,1998
+1998 FIFA World Cup,France v Paraguay,round of 16,not applicable,0,1,6/28/1998,Lens,France,France,Paraguay,1–0,1,0,1,-1,home team win,1,0,0,France,Paraguay,1998
+1998 FIFA World Cup,Nigeria v Denmark,round of 16,not applicable,0,1,6/28/1998,Saint-Denis,France,Nigeria,Denmark,1–4,1,4,-3,3,away team win,0,1,0,Denmark,Nigeria,1998
+1998 FIFA World Cup,Germany v Mexico,round of 16,not applicable,0,1,6/29/1998,Montpellier,France,Germany,Mexico,2–1,2,1,1,-1,home team win,1,0,0,Germany,Mexico,1998
+1998 FIFA World Cup,Netherlands v Yugoslavia,round of 16,not applicable,0,1,6/29/1998,Toulouse,France,Netherlands,Yugoslavia,2–1,2,1,1,-1,home team win,1,0,0,Netherlands,Yugoslavia,1998
+1998 FIFA World Cup,Romania v Croatia,round of 16,not applicable,0,1,6/30/1998,Bordeaux,France,Romania,Croatia,0–1,0,1,-1,1,away team win,0,1,0,Croatia,Romania,1998
+1998 FIFA World Cup,Argentina v England,round of 16,not applicable,0,1,6/30/1998,Saint-Étienne,France,Argentina,England,2–2,2,2,0,0,home team win,1,0,0,England,Argentina,1998
+1998 FIFA World Cup,Italy v France,quarter-finals,not applicable,0,1,7/3/1998,Saint-Denis,France,Italy,France,0–0,0,0,0,0,away team win,0,1,0,France,Italy,1998
+1998 FIFA World Cup,Brazil v Denmark,quarter-finals,not applicable,0,1,7/3/1998,Nantes,France,Brazil,Denmark,3–2,3,2,1,-1,home team win,1,0,0,Brazil,Denmark,1998
+1998 FIFA World Cup,Netherlands v Argentina,quarter-finals,not applicable,0,1,7/4/1998,Marseille,France,Netherlands,Argentina,2–1,2,1,1,-1,home team win,1,0,0,Netherlands,Argentina,1998
+1998 FIFA World Cup,Germany v Croatia,quarter-finals,not applicable,0,1,7/4/1998,Lyon,France,Germany,Croatia,0–3,0,3,-3,3,away team win,0,1,0,Croatia,Germany,1998
+1998 FIFA World Cup,Brazil v Netherlands,semi-finals,not applicable,0,1,7/7/1998,Marseille,France,Brazil,Netherlands,1–1,1,1,0,0,home team win,1,0,0,Netherlands,Brazil,1998
+1998 FIFA World Cup,France v Croatia,semi-finals,not applicable,0,1,7/8/1998,Saint-Denis,France,France,Croatia,2–1,2,1,1,-1,home team win,1,0,0,France,Croatia,1998
+1998 FIFA World Cup,Netherlands v Croatia,third-place match,not applicable,0,1,7/11/1998,Paris,France,Netherlands,Croatia,1–2,1,2,-1,1,away team win,0,1,0,Croatia,Netherlands,1998
+1998 FIFA World Cup,Brazil v France,final,not applicable,0,1,7/12/1998,Saint-Denis,France,Brazil,France,0–3,0,3,-3,3,away team win,0,1,0,France,Brazil,1998
+2002 FIFA World Cup,France v Senegal,group stage,Group A,1,0,5/31/2002,Seoul,South Korea,France,Senegal,0–1,0,1,-1,1,away team win,0,1,0,Senegal,France,2002
+2002 FIFA World Cup,Republic of Ireland v Cameroon,group stage,Group E,1,0,6/1/2002,Niigata,Japan,Republic of Ireland,Cameroon,1–1,1,1,0,0,draw,0,0,1,Cameroon,Republic of Ireland,2002
+2002 FIFA World Cup,Uruguay v Denmark,group stage,Group A,1,0,6/1/2002,Ulsan,South Korea,Uruguay,Denmark,1–2,1,2,-1,1,away team win,0,1,0,Denmark,Uruguay,2002
+2002 FIFA World Cup,Germany v Saudi Arabia,group stage,Group E,1,0,6/1/2002,Sapporo,Japan,Germany,Saudi Arabia,8–0,8,0,8,-8,home team win,1,0,0,Germany,Saudi Arabia,2002
+2002 FIFA World Cup,Argentina v Nigeria,group stage,Group F,1,0,6/2/2002,Ibaraki,Japan,Argentina,Nigeria,1–0,1,0,1,-1,home team win,1,0,0,Argentina,Nigeria,2002
+2002 FIFA World Cup,Paraguay v South Africa,group stage,Group B,1,0,6/2/2002,Busan,South Korea,Paraguay,South Africa,2–2,2,2,0,0,draw,0,0,1,South Africa,Paraguay,2002
+2002 FIFA World Cup,England v Sweden,group stage,Group F,1,0,6/2/2002,Saitama,Japan,England,Sweden,1–1,1,1,0,0,draw,0,0,1,Sweden,England,2002
+2002 FIFA World Cup,Spain v Slovenia,group stage,Group B,1,0,6/2/2002,Gwangju,South Korea,Spain,Slovenia,3–1,3,1,2,-2,home team win,1,0,0,Spain,Slovenia,2002
+2002 FIFA World Cup,Croatia v Mexico,group stage,Group G,1,0,6/3/2002,Niigata,Japan,Croatia,Mexico,0–1,0,1,-1,1,away team win,0,1,0,Mexico,Croatia,2002
+2002 FIFA World Cup,Brazil v Turkey,group stage,Group C,1,0,6/3/2002,Ulsan,South Korea,Brazil,Turkey,2–1,2,1,1,-1,home team win,1,0,0,Brazil,Turkey,2002
+2002 FIFA World Cup,Italy v Ecuador,group stage,Group G,1,0,6/3/2002,Sapporo,Japan,Italy,Ecuador,2–0,2,0,2,-2,home team win,1,0,0,Italy,Ecuador,2002
+2002 FIFA World Cup,China v Costa Rica,group stage,Group C,1,0,6/4/2002,Gwangju,South Korea,China,Costa Rica,0–2,0,2,-2,2,away team win,0,1,0,Costa Rica,China,2002
+2002 FIFA World Cup,Japan v Belgium,group stage,Group H,1,0,6/4/2002,Saitama,Japan,Japan,Belgium,2–2,2,2,0,0,draw,0,0,1,Belgium,Japan,2002
+2002 FIFA World Cup,South Korea v Poland,group stage,Group D,1,0,6/4/2002,Busan,South Korea,South Korea,Poland,2–0,2,0,2,-2,home team win,1,0,0,South Korea,Poland,2002
+2002 FIFA World Cup,Russia v Tunisia,group stage,Group H,1,0,6/5/2002,Kobe,Japan,Russia,Tunisia,2–0,2,0,2,-2,home team win,1,0,0,Russia,Tunisia,2002
+2002 FIFA World Cup,United States v Portugal,group stage,Group D,1,0,6/5/2002,Suwon,South Korea,United States,Portugal,3–2,3,2,1,-1,home team win,1,0,0,United States,Portugal,2002
+2002 FIFA World Cup,Germany v Republic of Ireland,group stage,Group E,1,0,6/5/2002,Ibaraki,Japan,Germany,Republic of Ireland,1–1,1,1,0,0,draw,0,0,1,Republic of Ireland,Germany,2002
+2002 FIFA World Cup,Denmark v Senegal,group stage,Group A,1,0,6/6/2002,Daegu,South Korea,Denmark,Senegal,1–1,1,1,0,0,draw,0,0,1,Senegal,Denmark,2002
+2002 FIFA World Cup,Cameroon v Saudi Arabia,group stage,Group E,1,0,6/6/2002,Saitama,Japan,Cameroon,Saudi Arabia,1–0,1,0,1,-1,home team win,1,0,0,Cameroon,Saudi Arabia,2002
+2002 FIFA World Cup,France v Uruguay,group stage,Group A,1,0,6/6/2002,Busan,South Korea,France,Uruguay,0–0,0,0,0,0,draw,0,0,1,Uruguay,France,2002
+2002 FIFA World Cup,Sweden v Nigeria,group stage,Group F,1,0,6/7/2002,Kobe,Japan,Sweden,Nigeria,2–1,2,1,1,-1,home team win,1,0,0,Sweden,Nigeria,2002
+2002 FIFA World Cup,Spain v Paraguay,group stage,Group B,1,0,6/7/2002,Jeonju,South Korea,Spain,Paraguay,3–1,3,1,2,-2,home team win,1,0,0,Spain,Paraguay,2002
+2002 FIFA World Cup,Argentina v England,group stage,Group F,1,0,6/7/2002,Sapporo,Japan,Argentina,England,0–1,0,1,-1,1,away team win,0,1,0,England,Argentina,2002
+2002 FIFA World Cup,South Africa v Slovenia,group stage,Group B,1,0,6/8/2002,Daegu,South Korea,South Africa,Slovenia,1–0,1,0,1,-1,home team win,1,0,0,South Africa,Slovenia,2002
+2002 FIFA World Cup,Italy v Croatia,group stage,Group G,1,0,6/8/2002,Ibaraki,Japan,Italy,Croatia,1–2,1,2,-1,1,away team win,0,1,0,Croatia,Italy,2002
+2002 FIFA World Cup,Brazil v China,group stage,Group C,1,0,6/8/2002,Seogwipo,South Korea,Brazil,China,4–0,4,0,4,-4,home team win,1,0,0,Brazil,China,2002
+2002 FIFA World Cup,Mexico v Ecuador,group stage,Group G,1,0,6/9/2002,Miyagi,Japan,Mexico,Ecuador,2–1,2,1,1,-1,home team win,1,0,0,Mexico,Ecuador,2002
+2002 FIFA World Cup,Costa Rica v Turkey,group stage,Group C,1,0,6/9/2002,Incheon,South Korea,Costa Rica,Turkey,1–1,1,1,0,0,draw,0,0,1,Turkey,Costa Rica,2002
+2002 FIFA World Cup,Japan v Russia,group stage,Group H,1,0,6/9/2002,Yokohama,Japan,Japan,Russia,1–0,1,0,1,-1,home team win,1,0,0,Japan,Russia,2002
+2002 FIFA World Cup,South Korea v United States,group stage,Group D,1,0,6/10/2002,Daegu,South Korea,South Korea,United States,1–1,1,1,0,0,draw,0,0,1,United States,South Korea,2002
+2002 FIFA World Cup,Tunisia v Belgium,group stage,Group H,1,0,6/10/2002,Ōita,Japan,Tunisia,Belgium,1–1,1,1,0,0,draw,0,0,1,Belgium,Tunisia,2002
+2002 FIFA World Cup,Portugal v Poland,group stage,Group D,1,0,6/10/2002,Jeonju,South Korea,Portugal,Poland,4–0,4,0,4,-4,home team win,1,0,0,Portugal,Poland,2002
+2002 FIFA World Cup,Denmark v France,group stage,Group A,1,0,6/11/2002,Incheon,South Korea,Denmark,France,2–0,2,0,2,-2,home team win,1,0,0,Denmark,France,2002
+2002 FIFA World Cup,Senegal v Uruguay,group stage,Group A,1,0,6/11/2002,Suwon,South Korea,Senegal,Uruguay,3–3,3,3,0,0,draw,0,0,1,Uruguay,Senegal,2002
+2002 FIFA World Cup,Cameroon v Germany,group stage,Group E,1,0,6/11/2002,Shizuoka,Japan,Cameroon,Germany,0–2,0,2,-2,2,away team win,0,1,0,Germany,Cameroon,2002
+2002 FIFA World Cup,Saudi Arabia v Republic of Ireland,group stage,Group E,1,0,6/11/2002,Yokohama,Japan,Saudi Arabia,Republic of Ireland,0–3,0,3,-3,3,away team win,0,1,0,Republic of Ireland,Saudi Arabia,2002
+2002 FIFA World Cup,Nigeria v England,group stage,Group F,1,0,6/12/2002,Osaka,Japan,Nigeria,England,0–0,0,0,0,0,draw,0,0,1,England,Nigeria,2002
+2002 FIFA World Cup,Sweden v Argentina,group stage,Group F,1,0,6/12/2002,Miyagi,Japan,Sweden,Argentina,1–1,1,1,0,0,draw,0,0,1,Argentina,Sweden,2002
+2002 FIFA World Cup,Slovenia v Paraguay,group stage,Group B,1,0,6/12/2002,Seogwipo,South Korea,Slovenia,Paraguay,1–3,1,3,-2,2,away team win,0,1,0,Paraguay,Slovenia,2002
+2002 FIFA World Cup,South Africa v Spain,group stage,Group B,1,0,6/12/2002,Daejeon,South Korea,South Africa,Spain,2–3,2,3,-1,1,away team win,0,1,0,Spain,South Africa,2002
+2002 FIFA World Cup,Costa Rica v Brazil,group stage,Group C,1,0,6/13/2002,Suwon,South Korea,Costa Rica,Brazil,2–5,2,5,-3,3,away team win,0,1,0,Brazil,Costa Rica,2002
+2002 FIFA World Cup,Turkey v China,group stage,Group C,1,0,6/13/2002,Seoul,South Korea,Turkey,China,3–0,3,0,3,-3,home team win,1,0,0,Turkey,China,2002
+2002 FIFA World Cup,Ecuador v Croatia,group stage,Group G,1,0,6/13/2002,Yokohama,Japan,Ecuador,Croatia,1–0,1,0,1,-1,home team win,1,0,0,Ecuador,Croatia,2002
+2002 FIFA World Cup,Mexico v Italy,group stage,Group G,1,0,6/13/2002,Ōita,Japan,Mexico,Italy,1–1,1,1,0,0,draw,0,0,1,Italy,Mexico,2002
+2002 FIFA World Cup,Belgium v Russia,group stage,Group H,1,0,6/14/2002,Shizuoka,Japan,Belgium,Russia,3–2,3,2,1,-1,home team win,1,0,0,Belgium,Russia,2002
+2002 FIFA World Cup,Tunisia v Japan,group stage,Group H,1,0,6/14/2002,Osaka,Japan,Tunisia,Japan,0–2,0,2,-2,2,away team win,0,1,0,Japan,Tunisia,2002
+2002 FIFA World Cup,Poland v United States,group stage,Group D,1,0,6/14/2002,Daejeon,South Korea,Poland,United States,3–1,3,1,2,-2,home team win,1,0,0,Poland,United States,2002
+2002 FIFA World Cup,Portugal v South Korea,group stage,Group D,1,0,6/14/2002,Incheon,South Korea,Portugal,South Korea,0–1,0,1,-1,1,away team win,0,1,0,South Korea,Portugal,2002
+2002 FIFA World Cup,Germany v Paraguay,round of 16,not applicable,0,1,6/15/2002,Seogwipo,South Korea,Germany,Paraguay,1–0,1,0,1,-1,home team win,1,0,0,Germany,Paraguay,2002
+2002 FIFA World Cup,Denmark v England,round of 16,not applicable,0,1,6/15/2002,Niigata,Japan,Denmark,England,0–3,0,3,-3,3,away team win,0,1,0,England,Denmark,2002
+2002 FIFA World Cup,Sweden v Senegal,round of 16,not applicable,0,1,6/16/2002,Ōita,Japan,Sweden,Senegal,1–2,1,2,-1,1,away team win,0,1,0,Senegal,Sweden,2002
+2002 FIFA World Cup,Spain v Republic of Ireland,round of 16,not applicable,0,1,6/16/2002,Suwon,South Korea,Spain,Republic of Ireland,1–1,1,1,0,0,home team win,1,0,0,Republic of Ireland,Spain,2002
+2002 FIFA World Cup,Mexico v United States,round of 16,not applicable,0,1,6/17/2002,Jeonju,South Korea,Mexico,United States,0–2,0,2,-2,2,away team win,0,1,0,United States,Mexico,2002
+2002 FIFA World Cup,Brazil v Belgium,round of 16,not applicable,0,1,6/17/2002,Kobe,Japan,Brazil,Belgium,2–0,2,0,2,-2,home team win,1,0,0,Brazil,Belgium,2002
+2002 FIFA World Cup,Japan v Turkey,round of 16,not applicable,0,1,6/18/2002,Miyagi,Japan,Japan,Turkey,0–1,0,1,-1,1,away team win,0,1,0,Turkey,Japan,2002
+2002 FIFA World Cup,South Korea v Italy,round of 16,not applicable,0,1,6/18/2002,Daejeon,South Korea,South Korea,Italy,2–1,2,1,1,-1,home team win,1,0,0,South Korea,Italy,2002
+2002 FIFA World Cup,England v Brazil,quarter-finals,not applicable,0,1,6/21/2002,Shizuoka,Japan,England,Brazil,1–2,1,2,-1,1,away team win,0,1,0,Brazil,England,2002
+2002 FIFA World Cup,Germany v United States,quarter-finals,not applicable,0,1,6/21/2002,Ulsan,South Korea,Germany,United States,1–0,1,0,1,-1,home team win,1,0,0,Germany,United States,2002
+2002 FIFA World Cup,Spain v South Korea,quarter-finals,not applicable,0,1,6/22/2002,Gwangju,South Korea,Spain,South Korea,0–0,0,0,0,0,away team win,0,1,0,South Korea,Spain,2002
+2002 FIFA World Cup,Senegal v Turkey,quarter-finals,not applicable,0,1,6/22/2002,Osaka,Japan,Senegal,Turkey,0–1,0,1,-1,1,away team win,0,1,0,Turkey,Senegal,2002
+2002 FIFA World Cup,Germany v South Korea,semi-finals,not applicable,0,1,6/25/2002,Seoul,South Korea,Germany,South Korea,1–0,1,0,1,-1,home team win,1,0,0,Germany,South Korea,2002
+2002 FIFA World Cup,Brazil v Turkey,semi-finals,not applicable,0,1,6/26/2002,Saitama,Japan,Brazil,Turkey,1–0,1,0,1,-1,home team win,1,0,0,Brazil,Turkey,2002
+2002 FIFA World Cup,South Korea v Turkey,third-place match,not applicable,0,1,6/29/2002,Daegu,South Korea,South Korea,Turkey,2–3,2,3,-1,1,away team win,0,1,0,Turkey,South Korea,2002
+2002 FIFA World Cup,Germany v Brazil,final,not applicable,0,1,6/30/2002,Yokohama,Japan,Germany,Brazil,0–2,0,2,-2,2,away team win,0,1,0,Brazil,Germany,2002
+2006 FIFA World Cup,Germany v Costa Rica,group stage,Group A,1,0,6/9/2006,Munich,Germany,Germany,Costa Rica,4–2,4,2,2,-2,home team win,1,0,0,Germany,Costa Rica,2006
+2006 FIFA World Cup,Poland v Ecuador,group stage,Group A,1,0,6/9/2006,Gelsenkirchen,Germany,Poland,Ecuador,0–2,0,2,-2,2,away team win,0,1,0,Ecuador,Poland,2006
+2006 FIFA World Cup,England v Paraguay,group stage,Group B,1,0,6/10/2006,Frankfurt,Germany,England,Paraguay,1–0,1,0,1,-1,home team win,1,0,0,England,Paraguay,2006
+2006 FIFA World Cup,Trinidad and Tobago v Sweden,group stage,Group B,1,0,6/10/2006,Dortmund,Germany,Trinidad and Tobago,Sweden,0–0,0,0,0,0,draw,0,0,1,Sweden,Trinidad and Tobago,2006
+2006 FIFA World Cup,Argentina v Ivory Coast,group stage,Group C,1,0,6/10/2006,Hamburg,Germany,Argentina,Ivory Coast,2–1,2,1,1,-1,home team win,1,0,0,Argentina,Ivory Coast,2006
+2006 FIFA World Cup,Serbia and Montenegro v Netherlands,group stage,Group C,1,0,6/11/2006,Leipzig,Germany,Serbia and Montenegro,Netherlands,0–1,0,1,-1,1,away team win,0,1,0,Netherlands,Serbia and Montenegro,2006
+2006 FIFA World Cup,Mexico v Iran,group stage,Group D,1,0,6/11/2006,Nuremberg,Germany,Mexico,Iran,3–1,3,1,2,-2,home team win,1,0,0,Mexico,Iran,2006
+2006 FIFA World Cup,Angola v Portugal,group stage,Group D,1,0,6/11/2006,Cologne,Germany,Angola,Portugal,0–1,0,1,-1,1,away team win,0,1,0,Portugal,Angola,2006
+2006 FIFA World Cup,Australia v Japan,group stage,Group F,1,0,6/12/2006,Kaiserslautern,Germany,Australia,Japan,3–1,3,1,2,-2,home team win,1,0,0,Australia,Japan,2006
+2006 FIFA World Cup,United States v Czech Republic,group stage,Group E,1,0,6/12/2006,Gelsenkirchen,Germany,United States,Czech Republic,0–3,0,3,-3,3,away team win,0,1,0,Czech Republic,United States,2006
+2006 FIFA World Cup,Italy v Ghana,group stage,Group E,1,0,6/12/2006,Hanover,Germany,Italy,Ghana,2–0,2,0,2,-2,home team win,1,0,0,Italy,Ghana,2006
+2006 FIFA World Cup,South Korea v Togo,group stage,Group G,1,0,6/13/2006,Frankfurt,Germany,South Korea,Togo,2–1,2,1,1,-1,home team win,1,0,0,South Korea,Togo,2006
+2006 FIFA World Cup,France v Switzerland,group stage,Group G,1,0,6/13/2006,Stuttgart,Germany,France,Switzerland,0–0,0,0,0,0,draw,0,0,1,Switzerland,France,2006
+2006 FIFA World Cup,Brazil v Croatia,group stage,Group F,1,0,6/13/2006,Berlin,Germany,Brazil,Croatia,1–0,1,0,1,-1,home team win,1,0,0,Brazil,Croatia,2006
+2006 FIFA World Cup,Spain v Ukraine,group stage,Group H,1,0,6/14/2006,Leipzig,Germany,Spain,Ukraine,4–0,4,0,4,-4,home team win,1,0,0,Spain,Ukraine,2006
+2006 FIFA World Cup,Tunisia v Saudi Arabia,group stage,Group H,1,0,6/14/2006,Munich,Germany,Tunisia,Saudi Arabia,2–2,2,2,0,0,draw,0,0,1,Saudi Arabia,Tunisia,2006
+2006 FIFA World Cup,Germany v Poland,group stage,Group A,1,0,6/14/2006,Dortmund,Germany,Germany,Poland,1–0,1,0,1,-1,home team win,1,0,0,Germany,Poland,2006
+2006 FIFA World Cup,Ecuador v Costa Rica,group stage,Group A,1,0,6/15/2006,Hamburg,Germany,Ecuador,Costa Rica,3–0,3,0,3,-3,home team win,1,0,0,Ecuador,Costa Rica,2006
+2006 FIFA World Cup,England v Trinidad and Tobago,group stage,Group B,1,0,6/15/2006,Nuremberg,Germany,England,Trinidad and Tobago,2–0,2,0,2,-2,home team win,1,0,0,England,Trinidad and Tobago,2006
+2006 FIFA World Cup,Sweden v Paraguay,group stage,Group B,1,0,6/15/2006,Berlin,Germany,Sweden,Paraguay,1–0,1,0,1,-1,home team win,1,0,0,Sweden,Paraguay,2006
+2006 FIFA World Cup,Argentina v Serbia and Montenegro,group stage,Group C,1,0,6/16/2006,Gelsenkirchen,Germany,Argentina,Serbia and Montenegro,6–0,6,0,6,-6,home team win,1,0,0,Argentina,Serbia and Montenegro,2006
+2006 FIFA World Cup,Netherlands v Ivory Coast,group stage,Group C,1,0,6/16/2006,Stuttgart,Germany,Netherlands,Ivory Coast,2–1,2,1,1,-1,home team win,1,0,0,Netherlands,Ivory Coast,2006
+2006 FIFA World Cup,Mexico v Angola,group stage,Group D,1,0,6/16/2006,Hanover,Germany,Mexico,Angola,0–0,0,0,0,0,draw,0,0,1,Angola,Mexico,2006
+2006 FIFA World Cup,Portugal v Iran,group stage,Group D,1,0,6/17/2006,Frankfurt,Germany,Portugal,Iran,2–0,2,0,2,-2,home team win,1,0,0,Portugal,Iran,2006
+2006 FIFA World Cup,Czech Republic v Ghana,group stage,Group E,1,0,6/17/2006,Cologne,Germany,Czech Republic,Ghana,0–2,0,2,-2,2,away team win,0,1,0,Ghana,Czech Republic,2006
+2006 FIFA World Cup,Italy v United States,group stage,Group E,1,0,6/17/2006,Kaiserslautern,Germany,Italy,United States,1–1,1,1,0,0,draw,0,0,1,United States,Italy,2006
+2006 FIFA World Cup,Japan v Croatia,group stage,Group F,1,0,6/18/2006,Nuremberg,Germany,Japan,Croatia,0–0,0,0,0,0,draw,0,0,1,Croatia,Japan,2006
+2006 FIFA World Cup,Brazil v Australia,group stage,Group F,1,0,6/18/2006,Munich,Germany,Brazil,Australia,2–0,2,0,2,-2,home team win,1,0,0,Brazil,Australia,2006
+2006 FIFA World Cup,France v South Korea,group stage,Group G,1,0,6/18/2006,Leipzig,Germany,France,South Korea,1–1,1,1,0,0,draw,0,0,1,South Korea,France,2006
+2006 FIFA World Cup,Togo v Switzerland,group stage,Group G,1,0,6/19/2006,Dortmund,Germany,Togo,Switzerland,0–2,0,2,-2,2,away team win,0,1,0,Switzerland,Togo,2006
+2006 FIFA World Cup,Saudi Arabia v Ukraine,group stage,Group H,1,0,6/19/2006,Hamburg,Germany,Saudi Arabia,Ukraine,0–4,0,4,-4,4,away team win,0,1,0,Ukraine,Saudi Arabia,2006
+2006 FIFA World Cup,Spain v Tunisia,group stage,Group H,1,0,6/19/2006,Stuttgart,Germany,Spain,Tunisia,3–1,3,1,2,-2,home team win,1,0,0,Spain,Tunisia,2006
+2006 FIFA World Cup,Costa Rica v Poland,group stage,Group A,1,0,6/20/2006,Hanover,Germany,Costa Rica,Poland,1–2,1,2,-1,1,away team win,0,1,0,Poland,Costa Rica,2006
+2006 FIFA World Cup,Ecuador v Germany,group stage,Group A,1,0,6/20/2006,Berlin,Germany,Ecuador,Germany,0–3,0,3,-3,3,away team win,0,1,0,Germany,Ecuador,2006
+2006 FIFA World Cup,Paraguay v Trinidad and Tobago,group stage,Group B,1,0,6/20/2006,Kaiserslautern,Germany,Paraguay,Trinidad and Tobago,2–0,2,0,2,-2,home team win,1,0,0,Paraguay,Trinidad and Tobago,2006
+2006 FIFA World Cup,Sweden v England,group stage,Group B,1,0,6/20/2006,Cologne,Germany,Sweden,England,2–2,2,2,0,0,draw,0,0,1,England,Sweden,2006
+2006 FIFA World Cup,Iran v Angola,group stage,Group D,1,0,6/21/2006,Leipzig,Germany,Iran,Angola,1–1,1,1,0,0,draw,0,0,1,Angola,Iran,2006
+2006 FIFA World Cup,Portugal v Mexico,group stage,Group D,1,0,6/21/2006,Gelsenkirchen,Germany,Portugal,Mexico,2–1,2,1,1,-1,home team win,1,0,0,Portugal,Mexico,2006
+2006 FIFA World Cup,Ivory Coast v Serbia and Montenegro,group stage,Group C,1,0,6/21/2006,Munich,Germany,Ivory Coast,Serbia and Montenegro,3–2,3,2,1,-1,home team win,1,0,0,Ivory Coast,Serbia and Montenegro,2006
+2006 FIFA World Cup,Netherlands v Argentina,group stage,Group C,1,0,6/21/2006,Frankfurt,Germany,Netherlands,Argentina,0–0,0,0,0,0,draw,0,0,1,Argentina,Netherlands,2006
+2006 FIFA World Cup,Czech Republic v Italy,group stage,Group E,1,0,6/22/2006,Hamburg,Germany,Czech Republic,Italy,0–2,0,2,-2,2,away team win,0,1,0,Italy,Czech Republic,2006
+2006 FIFA World Cup,Ghana v United States,group stage,Group E,1,0,6/22/2006,Nuremberg,Germany,Ghana,United States,2–1,2,1,1,-1,home team win,1,0,0,Ghana,United States,2006
+2006 FIFA World Cup,Croatia v Australia,group stage,Group F,1,0,6/22/2006,Stuttgart,Germany,Croatia,Australia,2–2,2,2,0,0,draw,0,0,1,Australia,Croatia,2006
+2006 FIFA World Cup,Japan v Brazil,group stage,Group F,1,0,6/22/2006,Dortmund,Germany,Japan,Brazil,1–4,1,4,-3,3,away team win,0,1,0,Brazil,Japan,2006
+2006 FIFA World Cup,Saudi Arabia v Spain,group stage,Group H,1,0,6/23/2006,Kaiserslautern,Germany,Saudi Arabia,Spain,0–1,0,1,-1,1,away team win,0,1,0,Spain,Saudi Arabia,2006
+2006 FIFA World Cup,Ukraine v Tunisia,group stage,Group H,1,0,6/23/2006,Berlin,Germany,Ukraine,Tunisia,1–0,1,0,1,-1,home team win,1,0,0,Ukraine,Tunisia,2006
+2006 FIFA World Cup,Switzerland v South Korea,group stage,Group G,1,0,6/23/2006,Hanover,Germany,Switzerland,South Korea,2–0,2,0,2,-2,home team win,1,0,0,Switzerland,South Korea,2006
+2006 FIFA World Cup,Togo v France,group stage,Group G,1,0,6/23/2006,Cologne,Germany,Togo,France,0–2,0,2,-2,2,away team win,0,1,0,France,Togo,2006
+2006 FIFA World Cup,Germany v Sweden,round of 16,not applicable,0,1,6/24/2006,Munich,Germany,Germany,Sweden,2–0,2,0,2,-2,home team win,1,0,0,Germany,Sweden,2006
+2006 FIFA World Cup,Argentina v Mexico,round of 16,not applicable,0,1,6/24/2006,Leipzig,Germany,Argentina,Mexico,2–1,2,1,1,-1,home team win,1,0,0,Argentina,Mexico,2006
+2006 FIFA World Cup,England v Ecuador,round of 16,not applicable,0,1,6/25/2006,Stuttgart,Germany,England,Ecuador,1–0,1,0,1,-1,home team win,1,0,0,England,Ecuador,2006
+2006 FIFA World Cup,Portugal v Netherlands,round of 16,not applicable,0,1,6/25/2006,Nuremberg,Germany,Portugal,Netherlands,1–0,1,0,1,-1,home team win,1,0,0,Portugal,Netherlands,2006
+2006 FIFA World Cup,Italy v Australia,round of 16,not applicable,0,1,6/26/2006,Kaiserslautern,Germany,Italy,Australia,1–0,1,0,1,-1,home team win,1,0,0,Italy,Australia,2006
+2006 FIFA World Cup,Switzerland v Ukraine,round of 16,not applicable,0,1,6/26/2006,Cologne,Germany,Switzerland,Ukraine,0–0,0,0,0,0,away team win,0,1,0,Ukraine,Switzerland,2006
+2006 FIFA World Cup,Brazil v Ghana,round of 16,not applicable,0,1,6/27/2006,Dortmund,Germany,Brazil,Ghana,3–0,3,0,3,-3,home team win,1,0,0,Brazil,Ghana,2006
+2006 FIFA World Cup,Spain v France,round of 16,not applicable,0,1,6/27/2006,Hanover,Germany,Spain,France,1–3,1,3,-2,2,away team win,0,1,0,France,Spain,2006
+2006 FIFA World Cup,Germany v Argentina,quarter-finals,not applicable,0,1,6/30/2006,Berlin,Germany,Germany,Argentina,1–1,1,1,0,0,home team win,1,0,0,Argentina,Germany,2006
+2006 FIFA World Cup,Italy v Ukraine,quarter-finals,not applicable,0,1,6/30/2006,Hamburg,Germany,Italy,Ukraine,3–0,3,0,3,-3,home team win,1,0,0,Italy,Ukraine,2006
+2006 FIFA World Cup,England v Portugal,quarter-finals,not applicable,0,1,7/1/2006,Gelsenkirchen,Germany,England,Portugal,0–0,0,0,0,0,away team win,0,1,0,Portugal,England,2006
+2006 FIFA World Cup,Brazil v France,quarter-finals,not applicable,0,1,7/1/2006,Frankfurt,Germany,Brazil,France,0–1,0,1,-1,1,away team win,0,1,0,France,Brazil,2006
+2006 FIFA World Cup,Germany v Italy,semi-finals,not applicable,0,1,7/4/2006,Dortmund,Germany,Germany,Italy,0–2,0,2,-2,2,away team win,0,1,0,Italy,Germany,2006
+2006 FIFA World Cup,Portugal v France,semi-finals,not applicable,0,1,7/5/2006,Munich,Germany,Portugal,France,0–1,0,1,-1,1,away team win,0,1,0,France,Portugal,2006
+2006 FIFA World Cup,Germany v Portugal,third-place match,not applicable,0,1,7/8/2006,Stuttgart,Germany,Germany,Portugal,3–1,3,1,2,-2,home team win,1,0,0,Germany,Portugal,2006
+2006 FIFA World Cup,Italy v France,final,not applicable,0,1,7/9/2006,Berlin,Germany,Italy,France,1–1,1,1,0,0,home team win,1,0,0,France,Italy,2006
+2010 FIFA World Cup,South Africa v Mexico,group stage,Group A,1,0,6/11/2010,Johannesburg,South Africa,South Africa,Mexico,1–1,1,1,0,0,draw,0,0,1,Mexico,South Africa,2010
+2010 FIFA World Cup,Uruguay v France,group stage,Group A,1,0,6/11/2010,Cape Town,South Africa,Uruguay,France,0–0,0,0,0,0,draw,0,0,1,France,Uruguay,2010
+2010 FIFA World Cup,South Korea v Greece,group stage,Group B,1,0,6/12/2010,Port Elizabeth,South Africa,South Korea,Greece,2–0,2,0,2,-2,home team win,1,0,0,South Korea,Greece,2010
+2010 FIFA World Cup,Argentina v Nigeria,group stage,Group B,1,0,6/12/2010,Johannesburg,South Africa,Argentina,Nigeria,1–0,1,0,1,-1,home team win,1,0,0,Argentina,Nigeria,2010
+2010 FIFA World Cup,England v United States,group stage,Group C,1,0,6/12/2010,Rustenburg,South Africa,England,United States,1–1,1,1,0,0,draw,0,0,1,United States,England,2010
+2010 FIFA World Cup,Algeria v Slovenia,group stage,Group C,1,0,6/13/2010,Polokwane,South Africa,Algeria,Slovenia,0–1,0,1,-1,1,away team win,0,1,0,Slovenia,Algeria,2010
+2010 FIFA World Cup,Serbia v Ghana,group stage,Group D,1,0,6/13/2010,Pretoria,South Africa,Serbia,Ghana,0–1,0,1,-1,1,away team win,0,1,0,Ghana,Serbia,2010
+2010 FIFA World Cup,Germany v Australia,group stage,Group D,1,0,6/13/2010,Durban,South Africa,Germany,Australia,4–0,4,0,4,-4,home team win,1,0,0,Germany,Australia,2010
+2010 FIFA World Cup,Netherlands v Denmark,group stage,Group E,1,0,6/14/2010,Johannesburg,South Africa,Netherlands,Denmark,2–0,2,0,2,-2,home team win,1,0,0,Netherlands,Denmark,2010
+2010 FIFA World Cup,Japan v Cameroon,group stage,Group E,1,0,6/14/2010,Bloemfontein,South Africa,Japan,Cameroon,1–0,1,0,1,-1,home team win,1,0,0,Japan,Cameroon,2010
+2010 FIFA World Cup,Italy v Paraguay,group stage,Group F,1,0,6/14/2010,Cape Town,South Africa,Italy,Paraguay,1–1,1,1,0,0,draw,0,0,1,Paraguay,Italy,2010
+2010 FIFA World Cup,New Zealand v Slovakia,group stage,Group F,1,0,6/15/2010,Rustenburg,South Africa,New Zealand,Slovakia,1–1,1,1,0,0,draw,0,0,1,Slovakia,New Zealand,2010
+2010 FIFA World Cup,Ivory Coast v Portugal,group stage,Group G,1,0,6/15/2010,Port Elizabeth,South Africa,Ivory Coast,Portugal,0–0,0,0,0,0,draw,0,0,1,Portugal,Ivory Coast,2010
+2010 FIFA World Cup,Brazil v North Korea,group stage,Group G,1,0,6/15/2010,Johannesburg,South Africa,Brazil,North Korea,2–1,2,1,1,-1,home team win,1,0,0,Brazil,North Korea,2010
+2010 FIFA World Cup,Honduras v Chile,group stage,Group H,1,0,6/16/2010,Nelspruit,South Africa,Honduras,Chile,0–1,0,1,-1,1,away team win,0,1,0,Chile,Honduras,2010
+2010 FIFA World Cup,Spain v Switzerland,group stage,Group H,1,0,6/16/2010,Durban,South Africa,Spain,Switzerland,0–1,0,1,-1,1,away team win,0,1,0,Switzerland,Spain,2010
+2010 FIFA World Cup,South Africa v Uruguay,group stage,Group A,1,0,6/16/2010,Pretoria,South Africa,South Africa,Uruguay,0–3,0,3,-3,3,away team win,0,1,0,Uruguay,South Africa,2010
+2010 FIFA World Cup,Argentina v South Korea,group stage,Group B,1,0,6/17/2010,Johannesburg,South Africa,Argentina,South Korea,4–1,4,1,3,-3,home team win,1,0,0,Argentina,South Korea,2010
+2010 FIFA World Cup,Greece v Nigeria,group stage,Group B,1,0,6/17/2010,Bloemfontein,South Africa,Greece,Nigeria,2–1,2,1,1,-1,home team win,1,0,0,Greece,Nigeria,2010
+2010 FIFA World Cup,France v Mexico,group stage,Group A,1,0,6/17/2010,Polokwane,South Africa,France,Mexico,0–2,0,2,-2,2,away team win,0,1,0,Mexico,France,2010
+2010 FIFA World Cup,Germany v Serbia,group stage,Group D,1,0,6/18/2010,Port Elizabeth,South Africa,Germany,Serbia,0–1,0,1,-1,1,away team win,0,1,0,Serbia,Germany,2010
+2010 FIFA World Cup,Slovenia v United States,group stage,Group C,1,0,6/18/2010,Johannesburg,South Africa,Slovenia,United States,2–2,2,2,0,0,draw,0,0,1,United States,Slovenia,2010
+2010 FIFA World Cup,England v Algeria,group stage,Group C,1,0,6/18/2010,Cape Town,South Africa,England,Algeria,0–0,0,0,0,0,draw,0,0,1,Algeria,England,2010
+2010 FIFA World Cup,Netherlands v Japan,group stage,Group E,1,0,6/19/2010,Durban,South Africa,Netherlands,Japan,1–0,1,0,1,-1,home team win,1,0,0,Netherlands,Japan,2010
+2010 FIFA World Cup,Ghana v Australia,group stage,Group D,1,0,6/19/2010,Rustenburg,South Africa,Ghana,Australia,1–1,1,1,0,0,draw,0,0,1,Australia,Ghana,2010
+2010 FIFA World Cup,Cameroon v Denmark,group stage,Group E,1,0,6/19/2010,Pretoria,South Africa,Cameroon,Denmark,1–2,1,2,-1,1,away team win,0,1,0,Denmark,Cameroon,2010
+2010 FIFA World Cup,Slovakia v Paraguay,group stage,Group F,1,0,6/20/2010,Bloemfontein,South Africa,Slovakia,Paraguay,0–2,0,2,-2,2,away team win,0,1,0,Paraguay,Slovakia,2010
+2010 FIFA World Cup,Italy v New Zealand,group stage,Group F,1,0,6/20/2010,Nelspruit,South Africa,Italy,New Zealand,1–1,1,1,0,0,draw,0,0,1,New Zealand,Italy,2010
+2010 FIFA World Cup,Brazil v Ivory Coast,group stage,Group G,1,0,6/20/2010,Johannesburg,South Africa,Brazil,Ivory Coast,3–1,3,1,2,-2,home team win,1,0,0,Brazil,Ivory Coast,2010
+2010 FIFA World Cup,Portugal v North Korea,group stage,Group G,1,0,6/21/2010,Cape Town,South Africa,Portugal,North Korea,7–0,7,0,7,-7,home team win,1,0,0,Portugal,North Korea,2010
+2010 FIFA World Cup,Chile v Switzerland,group stage,Group H,1,0,6/21/2010,Port Elizabeth,South Africa,Chile,Switzerland,1–0,1,0,1,-1,home team win,1,0,0,Chile,Switzerland,2010
+2010 FIFA World Cup,Spain v Honduras,group stage,Group H,1,0,6/21/2010,Johannesburg,South Africa,Spain,Honduras,2–0,2,0,2,-2,home team win,1,0,0,Spain,Honduras,2010
+2010 FIFA World Cup,France v South Africa,group stage,Group A,1,0,6/22/2010,Bloemfontein,South Africa,France,South Africa,1–2,1,2,-1,1,away team win,0,1,0,South Africa,France,2010
+2010 FIFA World Cup,Mexico v Uruguay,group stage,Group A,1,0,6/22/2010,Rustenburg,South Africa,Mexico,Uruguay,0–1,0,1,-1,1,away team win,0,1,0,Uruguay,Mexico,2010
+2010 FIFA World Cup,Greece v Argentina,group stage,Group B,1,0,6/22/2010,Polokwane,South Africa,Greece,Argentina,0–2,0,2,-2,2,away team win,0,1,0,Argentina,Greece,2010
+2010 FIFA World Cup,Nigeria v South Korea,group stage,Group B,1,0,6/22/2010,Durban,South Africa,Nigeria,South Korea,2–2,2,2,0,0,draw,0,0,1,South Korea,Nigeria,2010
+2010 FIFA World Cup,Slovenia v England,group stage,Group C,1,0,6/23/2010,Port Elizabeth,South Africa,Slovenia,England,0–1,0,1,-1,1,away team win,0,1,0,England,Slovenia,2010
+2010 FIFA World Cup,United States v Algeria,group stage,Group C,1,0,6/23/2010,Pretoria,South Africa,United States,Algeria,1–0,1,0,1,-1,home team win,1,0,0,United States,Algeria,2010
+2010 FIFA World Cup,Australia v Serbia,group stage,Group D,1,0,6/23/2010,Nelspruit,South Africa,Australia,Serbia,2–1,2,1,1,-1,home team win,1,0,0,Australia,Serbia,2010
+2010 FIFA World Cup,Ghana v Germany,group stage,Group D,1,0,6/23/2010,Johannesburg,South Africa,Ghana,Germany,0–1,0,1,-1,1,away team win,0,1,0,Germany,Ghana,2010
+2010 FIFA World Cup,Paraguay v New Zealand,group stage,Group F,1,0,6/24/2010,Polokwane,South Africa,Paraguay,New Zealand,0–0,0,0,0,0,draw,0,0,1,New Zealand,Paraguay,2010
+2010 FIFA World Cup,Slovakia v Italy,group stage,Group F,1,0,6/24/2010,Johannesburg,South Africa,Slovakia,Italy,3–2,3,2,1,-1,home team win,1,0,0,Slovakia,Italy,2010
+2010 FIFA World Cup,Cameroon v Netherlands,group stage,Group E,1,0,6/24/2010,Cape Town,South Africa,Cameroon,Netherlands,1–2,1,2,-1,1,away team win,0,1,0,Netherlands,Cameroon,2010
+2010 FIFA World Cup,Denmark v Japan,group stage,Group E,1,0,6/24/2010,Rustenburg,South Africa,Denmark,Japan,1–3,1,3,-2,2,away team win,0,1,0,Japan,Denmark,2010
+2010 FIFA World Cup,North Korea v Ivory Coast,group stage,Group G,1,0,6/25/2010,Nelspruit,South Africa,North Korea,Ivory Coast,0–3,0,3,-3,3,away team win,0,1,0,Ivory Coast,North Korea,2010
+2010 FIFA World Cup,Portugal v Brazil,group stage,Group G,1,0,6/25/2010,Durban,South Africa,Portugal,Brazil,0–0,0,0,0,0,draw,0,0,1,Brazil,Portugal,2010
+2010 FIFA World Cup,Chile v Spain,group stage,Group H,1,0,6/25/2010,Pretoria,South Africa,Chile,Spain,1–2,1,2,-1,1,away team win,0,1,0,Spain,Chile,2010
+2010 FIFA World Cup,Switzerland v Honduras,group stage,Group H,1,0,6/25/2010,Bloemfontein,South Africa,Switzerland,Honduras,0–0,0,0,0,0,draw,0,0,1,Honduras,Switzerland,2010
+2010 FIFA World Cup,Uruguay v South Korea,round of 16,not applicable,0,1,6/26/2010,Port Elizabeth,South Africa,Uruguay,South Korea,2–1,2,1,1,-1,home team win,1,0,0,Uruguay,South Korea,2010
+2010 FIFA World Cup,United States v Ghana,round of 16,not applicable,0,1,6/26/2010,Rustenburg,South Africa,United States,Ghana,1–2,1,2,-1,1,away team win,0,1,0,Ghana,United States,2010
+2010 FIFA World Cup,Germany v England,round of 16,not applicable,0,1,6/27/2010,Bloemfontein,South Africa,Germany,England,4–1,4,1,3,-3,home team win,1,0,0,Germany,England,2010
+2010 FIFA World Cup,Argentina v Mexico,round of 16,not applicable,0,1,6/27/2010,Johannesburg,South Africa,Argentina,Mexico,3–1,3,1,2,-2,home team win,1,0,0,Argentina,Mexico,2010
+2010 FIFA World Cup,Netherlands v Slovakia,round of 16,not applicable,0,1,6/28/2010,Durban,South Africa,Netherlands,Slovakia,2–1,2,1,1,-1,home team win,1,0,0,Netherlands,Slovakia,2010
+2010 FIFA World Cup,Brazil v Chile,round of 16,not applicable,0,1,6/28/2010,Johannesburg,South Africa,Brazil,Chile,3–0,3,0,3,-3,home team win,1,0,0,Brazil,Chile,2010
+2010 FIFA World Cup,Paraguay v Japan,round of 16,not applicable,0,1,6/29/2010,Pretoria,South Africa,Paraguay,Japan,0–0,0,0,0,0,home team win,1,0,0,Japan,Paraguay,2010
+2010 FIFA World Cup,Spain v Portugal,round of 16,not applicable,0,1,6/29/2010,Cape Town,South Africa,Spain,Portugal,1–0,1,0,1,-1,home team win,1,0,0,Spain,Portugal,2010
+2010 FIFA World Cup,Netherlands v Brazil,quarter-finals,not applicable,0,1,7/2/2010,Port Elizabeth,South Africa,Netherlands,Brazil,2–1,2,1,1,-1,home team win,1,0,0,Netherlands,Brazil,2010
+2010 FIFA World Cup,Uruguay v Ghana,quarter-finals,not applicable,0,1,7/2/2010,Johannesburg,South Africa,Uruguay,Ghana,1–1,1,1,0,0,home team win,1,0,0,Ghana,Uruguay,2010
+2010 FIFA World Cup,Argentina v Germany,quarter-finals,not applicable,0,1,7/3/2010,Cape Town,South Africa,Argentina,Germany,0–4,0,4,-4,4,away team win,0,1,0,Germany,Argentina,2010
+2010 FIFA World Cup,Paraguay v Spain,quarter-finals,not applicable,0,1,7/3/2010,Johannesburg,South Africa,Paraguay,Spain,0–1,0,1,-1,1,away team win,0,1,0,Spain,Paraguay,2010
+2010 FIFA World Cup,Uruguay v Netherlands,semi-finals,not applicable,0,1,7/6/2010,Cape Town,South Africa,Uruguay,Netherlands,2–3,2,3,-1,1,away team win,0,1,0,Netherlands,Uruguay,2010
+2010 FIFA World Cup,Germany v Spain,semi-finals,not applicable,0,1,7/7/2010,Durban,South Africa,Germany,Spain,0–1,0,1,-1,1,away team win,0,1,0,Spain,Germany,2010
+2010 FIFA World Cup,Uruguay v Germany,third-place match,not applicable,0,1,7/10/2010,Port Elizabeth,South Africa,Uruguay,Germany,2–3,2,3,-1,1,away team win,0,1,0,Germany,Uruguay,2010
+2010 FIFA World Cup,Netherlands v Spain,final,not applicable,0,1,7/11/2010,Johannesburg,South Africa,Netherlands,Spain,0–1,0,1,-1,1,away team win,0,1,0,Spain,Netherlands,2010
+2014 FIFA World Cup,Brazil v Croatia,group stage,Group A,1,0,6/12/2014,São Paulo,Brazil,Brazil,Croatia,3–1,3,1,2,-2,home team win,1,0,0,Brazil,Croatia,2014
+2014 FIFA World Cup,Mexico v Cameroon,group stage,Group A,1,0,6/13/2014,Natal,Brazil,Mexico,Cameroon,1–0,1,0,1,-1,home team win,1,0,0,Mexico,Cameroon,2014
+2014 FIFA World Cup,Spain v Netherlands,group stage,Group B,1,0,6/13/2014,Salvador,Brazil,Spain,Netherlands,1–5,1,5,-4,4,away team win,0,1,0,Netherlands,Spain,2014
+2014 FIFA World Cup,Chile v Australia,group stage,Group B,1,0,6/13/2014,Cuiabá,Brazil,Chile,Australia,3–1,3,1,2,-2,home team win,1,0,0,Chile,Australia,2014
+2014 FIFA World Cup,Colombia v Greece,group stage,Group C,1,0,6/14/2014,Belo Horizonte,Brazil,Colombia,Greece,3–0,3,0,3,-3,home team win,1,0,0,Colombia,Greece,2014
+2014 FIFA World Cup,Uruguay v Costa Rica,group stage,Group D,1,0,6/14/2014,Fortaleza,Brazil,Uruguay,Costa Rica,1–3,1,3,-2,2,away team win,0,1,0,Costa Rica,Uruguay,2014
+2014 FIFA World Cup,England v Italy,group stage,Group D,1,0,6/14/2014,Manaus,Brazil,England,Italy,1–2,1,2,-1,1,away team win,0,1,0,Italy,England,2014
+2014 FIFA World Cup,Ivory Coast v Japan,group stage,Group C,1,0,6/14/2014,Recife,Brazil,Ivory Coast,Japan,2–1,2,1,1,-1,home team win,1,0,0,Ivory Coast,Japan,2014
+2014 FIFA World Cup,Switzerland v Ecuador,group stage,Group E,1,0,6/15/2014,Brasília,Brazil,Switzerland,Ecuador,2–1,2,1,1,-1,home team win,1,0,0,Switzerland,Ecuador,2014
+2014 FIFA World Cup,France v Honduras,group stage,Group E,1,0,6/15/2014,Porto Alegre,Brazil,France,Honduras,3–0,3,0,3,-3,home team win,1,0,0,France,Honduras,2014
+2014 FIFA World Cup,Argentina v Bosnia and Herzegovina,group stage,Group F,1,0,6/15/2014,Rio de Janeiro,Brazil,Argentina,Bosnia and Herzegovina,2–1,2,1,1,-1,home team win,1,0,0,Argentina,Bosnia and Herzegovina,2014
+2014 FIFA World Cup,Germany v Portugal,group stage,Group G,1,0,6/16/2014,Salvador,Brazil,Germany,Portugal,4–0,4,0,4,-4,home team win,1,0,0,Germany,Portugal,2014
+2014 FIFA World Cup,Iran v Nigeria,group stage,Group F,1,0,6/16/2014,Curitiba,Brazil,Iran,Nigeria,0–0,0,0,0,0,draw,0,0,1,Nigeria,Iran,2014
+2014 FIFA World Cup,Ghana v United States,group stage,Group G,1,0,6/16/2014,Natal,Brazil,Ghana,United States,1–2,1,2,-1,1,away team win,0,1,0,United States,Ghana,2014
+2014 FIFA World Cup,Belgium v Algeria,group stage,Group H,1,0,6/17/2014,Belo Horizonte,Brazil,Belgium,Algeria,2–1,2,1,1,-1,home team win,1,0,0,Belgium,Algeria,2014
+2014 FIFA World Cup,Brazil v Mexico,group stage,Group A,1,0,6/17/2014,Fortaleza,Brazil,Brazil,Mexico,0–0,0,0,0,0,draw,0,0,1,Mexico,Brazil,2014
+2014 FIFA World Cup,Russia v South Korea,group stage,Group H,1,0,6/17/2014,Cuiabá,Brazil,Russia,South Korea,1–1,1,1,0,0,draw,0,0,1,South Korea,Russia,2014
+2014 FIFA World Cup,Australia v Netherlands,group stage,Group B,1,0,6/18/2014,Porto Alegre,Brazil,Australia,Netherlands,2–3,2,3,-1,1,away team win,0,1,0,Netherlands,Australia,2014
+2014 FIFA World Cup,Spain v Chile,group stage,Group B,1,0,6/18/2014,Rio de Janeiro,Brazil,Spain,Chile,0–2,0,2,-2,2,away team win,0,1,0,Chile,Spain,2014
+2014 FIFA World Cup,Cameroon v Croatia,group stage,Group A,1,0,6/18/2014,Manaus,Brazil,Cameroon,Croatia,0–4,0,4,-4,4,away team win,0,1,0,Croatia,Cameroon,2014
+2014 FIFA World Cup,Colombia v Ivory Coast,group stage,Group C,1,0,6/19/2014,Brasília,Brazil,Colombia,Ivory Coast,2–1,2,1,1,-1,home team win,1,0,0,Colombia,Ivory Coast,2014
+2014 FIFA World Cup,Uruguay v England,group stage,Group D,1,0,6/19/2014,São Paulo,Brazil,Uruguay,England,2–1,2,1,1,-1,home team win,1,0,0,Uruguay,England,2014
+2014 FIFA World Cup,Japan v Greece,group stage,Group C,1,0,6/19/2014,Natal,Brazil,Japan,Greece,0–0,0,0,0,0,draw,0,0,1,Greece,Japan,2014
+2014 FIFA World Cup,Italy v Costa Rica,group stage,Group D,1,0,6/20/2014,Recife,Brazil,Italy,Costa Rica,0–1,0,1,-1,1,away team win,0,1,0,Costa Rica,Italy,2014
+2014 FIFA World Cup,Switzerland v France,group stage,Group E,1,0,6/20/2014,Salvador,Brazil,Switzerland,France,2–5,2,5,-3,3,away team win,0,1,0,France,Switzerland,2014
+2014 FIFA World Cup,Honduras v Ecuador,group stage,Group E,1,0,6/20/2014,Curitiba,Brazil,Honduras,Ecuador,1–2,1,2,-1,1,away team win,0,1,0,Ecuador,Honduras,2014
+2014 FIFA World Cup,Argentina v Iran,group stage,Group F,1,0,6/21/2014,Belo Horizonte,Brazil,Argentina,Iran,1–0,1,0,1,-1,home team win,1,0,0,Argentina,Iran,2014
+2014 FIFA World Cup,Germany v Ghana,group stage,Group G,1,0,6/21/2014,Fortaleza,Brazil,Germany,Ghana,2–2,2,2,0,0,draw,0,0,1,Ghana,Germany,2014
+2014 FIFA World Cup,Nigeria v Bosnia and Herzegovina,group stage,Group F,1,0,6/21/2014,Cuiabá,Brazil,Nigeria,Bosnia and Herzegovina,1–0,1,0,1,-1,home team win,1,0,0,Nigeria,Bosnia and Herzegovina,2014
+2014 FIFA World Cup,Belgium v Russia,group stage,Group H,1,0,6/22/2014,Rio de Janeiro,Brazil,Belgium,Russia,1–0,1,0,1,-1,home team win,1,0,0,Belgium,Russia,2014
+2014 FIFA World Cup,South Korea v Algeria,group stage,Group H,1,0,6/22/2014,Porto Alegre,Brazil,South Korea,Algeria,2–4,2,4,-2,2,away team win,0,1,0,Algeria,South Korea,2014
+2014 FIFA World Cup,United States v Portugal,group stage,Group G,1,0,6/22/2014,Manaus,Brazil,United States,Portugal,2–2,2,2,0,0,draw,0,0,1,Portugal,United States,2014
+2014 FIFA World Cup,Australia v Spain,group stage,Group B,1,0,6/23/2014,Curitiba,Brazil,Australia,Spain,0–3,0,3,-3,3,away team win,0,1,0,Spain,Australia,2014
+2014 FIFA World Cup,Netherlands v Chile,group stage,Group B,1,0,6/23/2014,São Paulo,Brazil,Netherlands,Chile,2–0,2,0,2,-2,home team win,1,0,0,Netherlands,Chile,2014
+2014 FIFA World Cup,Cameroon v Brazil,group stage,Group A,1,0,6/23/2014,Brasília,Brazil,Cameroon,Brazil,1–4,1,4,-3,3,away team win,0,1,0,Brazil,Cameroon,2014
+2014 FIFA World Cup,Croatia v Mexico,group stage,Group A,1,0,6/23/2014,Recife,Brazil,Croatia,Mexico,1–3,1,3,-2,2,away team win,0,1,0,Mexico,Croatia,2014
+2014 FIFA World Cup,Costa Rica v England,group stage,Group D,1,0,6/24/2014,Belo Horizonte,Brazil,Costa Rica,England,0–0,0,0,0,0,draw,0,0,1,England,Costa Rica,2014
+2014 FIFA World Cup,Italy v Uruguay,group stage,Group D,1,0,6/24/2014,Natal,Brazil,Italy,Uruguay,0–1,0,1,-1,1,away team win,0,1,0,Uruguay,Italy,2014
+2014 FIFA World Cup,Japan v Colombia,group stage,Group C,1,0,6/24/2014,Cuiabá,Brazil,Japan,Colombia,1–4,1,4,-3,3,away team win,0,1,0,Colombia,Japan,2014
+2014 FIFA World Cup,Greece v Ivory Coast,group stage,Group C,1,0,6/24/2014,Fortaleza,Brazil,Greece,Ivory Coast,2–1,2,1,1,-1,home team win,1,0,0,Greece,Ivory Coast,2014
+2014 FIFA World Cup,Bosnia and Herzegovina v Iran,group stage,Group F,1,0,6/25/2014,Salvador,Brazil,Bosnia and Herzegovina,Iran,3–1,3,1,2,-2,home team win,1,0,0,Bosnia and Herzegovina,Iran,2014
+2014 FIFA World Cup,Nigeria v Argentina,group stage,Group F,1,0,6/25/2014,Porto Alegre,Brazil,Nigeria,Argentina,2–3,2,3,-1,1,away team win,0,1,0,Argentina,Nigeria,2014
+2014 FIFA World Cup,Honduras v Switzerland,group stage,Group E,1,0,6/25/2014,Manaus,Brazil,Honduras,Switzerland,0–3,0,3,-3,3,away team win,0,1,0,Switzerland,Honduras,2014
+2014 FIFA World Cup,Ecuador v France,group stage,Group E,1,0,6/25/2014,Rio de Janeiro,Brazil,Ecuador,France,0–0,0,0,0,0,draw,0,0,1,France,Ecuador,2014
+2014 FIFA World Cup,Portugal v Ghana,group stage,Group G,1,0,6/26/2014,Brasília,Brazil,Portugal,Ghana,2–1,2,1,1,-1,home team win,1,0,0,Portugal,Ghana,2014
+2014 FIFA World Cup,United States v Germany,group stage,Group G,1,0,6/26/2014,Recife,Brazil,United States,Germany,0–1,0,1,-1,1,away team win,0,1,0,Germany,United States,2014
+2014 FIFA World Cup,Algeria v Russia,group stage,Group H,1,0,6/26/2014,Curitiba,Brazil,Algeria,Russia,1–1,1,1,0,0,draw,0,0,1,Russia,Algeria,2014
+2014 FIFA World Cup,South Korea v Belgium,group stage,Group H,1,0,6/26/2014,São Paulo,Brazil,South Korea,Belgium,0–1,0,1,-1,1,away team win,0,1,0,Belgium,South Korea,2014
+2014 FIFA World Cup,Brazil v Chile,round of 16,not applicable,0,1,6/28/2014,Belo Horizonte,Brazil,Brazil,Chile,1–1,1,1,0,0,home team win,1,0,0,Chile,Brazil,2014
+2014 FIFA World Cup,Colombia v Uruguay,round of 16,not applicable,0,1,6/28/2014,Rio de Janeiro,Brazil,Colombia,Uruguay,2–0,2,0,2,-2,home team win,1,0,0,Colombia,Uruguay,2014
+2014 FIFA World Cup,Netherlands v Mexico,round of 16,not applicable,0,1,6/29/2014,Fortaleza,Brazil,Netherlands,Mexico,2–1,2,1,1,-1,home team win,1,0,0,Netherlands,Mexico,2014
+2014 FIFA World Cup,Costa Rica v Greece,round of 16,not applicable,0,1,6/29/2014,Recife,Brazil,Costa Rica,Greece,1–1,1,1,0,0,home team win,1,0,0,Greece,Costa Rica,2014
+2014 FIFA World Cup,France v Nigeria,round of 16,not applicable,0,1,6/30/2014,Brasília,Brazil,France,Nigeria,2–0,2,0,2,-2,home team win,1,0,0,France,Nigeria,2014
+2014 FIFA World Cup,Germany v Algeria,round of 16,not applicable,0,1,6/30/2014,Porto Alegre,Brazil,Germany,Algeria,2–1,2,1,1,-1,home team win,1,0,0,Germany,Algeria,2014
+2014 FIFA World Cup,Argentina v Switzerland,round of 16,not applicable,0,1,7/1/2014,São Paulo,Brazil,Argentina,Switzerland,1–0,1,0,1,-1,home team win,1,0,0,Argentina,Switzerland,2014
+2014 FIFA World Cup,Belgium v United States,round of 16,not applicable,0,1,7/1/2014,Salvador,Brazil,Belgium,United States,2–1,2,1,1,-1,home team win,1,0,0,Belgium,United States,2014
+2014 FIFA World Cup,France v Germany,quarter-finals,not applicable,0,1,7/4/2014,Rio de Janeiro,Brazil,France,Germany,0–1,0,1,-1,1,away team win,0,1,0,Germany,France,2014
+2014 FIFA World Cup,Brazil v Colombia,quarter-finals,not applicable,0,1,7/4/2014,Fortaleza,Brazil,Brazil,Colombia,2–1,2,1,1,-1,home team win,1,0,0,Brazil,Colombia,2014
+2014 FIFA World Cup,Argentina v Belgium,quarter-finals,not applicable,0,1,7/5/2014,Brasília,Brazil,Argentina,Belgium,1–0,1,0,1,-1,home team win,1,0,0,Argentina,Belgium,2014
+2014 FIFA World Cup,Netherlands v Costa Rica,quarter-finals,not applicable,0,1,7/5/2014,Salvador,Brazil,Netherlands,Costa Rica,0–0,0,0,0,0,home team win,1,0,0,Costa Rica,Netherlands,2014
+2014 FIFA World Cup,Brazil v Germany,semi-finals,not applicable,0,1,7/8/2014,Belo Horizonte,Brazil,Brazil,Germany,1–7,1,7,-6,6,away team win,0,1,0,Germany,Brazil,2014
+2014 FIFA World Cup,Netherlands v Argentina,semi-finals,not applicable,0,1,7/9/2014,São Paulo,Brazil,Netherlands,Argentina,0–0,0,0,0,0,away team win,0,1,0,Argentina,Netherlands,2014
+2014 FIFA World Cup,Brazil v Netherlands,third-place match,not applicable,0,1,7/12/2014,Brasília,Brazil,Brazil,Netherlands,0–3,0,3,-3,3,away team win,0,1,0,Netherlands,Brazil,2014
+2014 FIFA World Cup,Germany v Argentina,final,not applicable,0,1,7/13/2014,Rio de Janeiro,Brazil,Germany,Argentina,1–0,1,0,1,-1,home team win,1,0,0,Germany,Argentina,2014
+2018 FIFA World Cup,Russia v Saudi Arabia,group stage,Group A,1,0,6/14/2018,Moscow,Russia,Russia,Saudi Arabia,5–0,5,0,5,-5,home team win,1,0,0,Russia,Saudi Arabia,2018
+2018 FIFA World Cup,Egypt v Uruguay,group stage,Group A,1,0,6/15/2018,Yekaterinburg,Russia,Egypt,Uruguay,0–1,0,1,-1,1,away team win,0,1,0,Uruguay,Egypt,2018
+2018 FIFA World Cup,Morocco v Iran,group stage,Group B,1,0,6/15/2018,Saint Petersburg,Russia,Morocco,Iran,0–1,0,1,-1,1,away team win,0,1,0,Iran,Morocco,2018
+2018 FIFA World Cup,Portugal v Spain,group stage,Group B,1,0,6/15/2018,Sochi,Russia,Portugal,Spain,3–3,3,3,0,0,draw,0,0,1,Spain,Portugal,2018
+2018 FIFA World Cup,France v Australia,group stage,Group C,1,0,6/16/2018,Kazan,Russia,France,Australia,2–1,2,1,1,-1,home team win,1,0,0,France,Australia,2018
+2018 FIFA World Cup,Argentina v Iceland,group stage,Group D,1,0,6/16/2018,Moscow,Russia,Argentina,Iceland,1–1,1,1,0,0,draw,0,0,1,Iceland,Argentina,2018
+2018 FIFA World Cup,Peru v Denmark,group stage,Group C,1,0,6/16/2018,Saransk,Russia,Peru,Denmark,0–1,0,1,-1,1,away team win,0,1,0,Denmark,Peru,2018
+2018 FIFA World Cup,Croatia v Nigeria,group stage,Group D,1,0,6/16/2018,Kaliningrad,Russia,Croatia,Nigeria,2–0,2,0,2,-2,home team win,1,0,0,Croatia,Nigeria,2018
+2018 FIFA World Cup,Costa Rica v Serbia,group stage,Group E,1,0,6/17/2018,Samara,Russia,Costa Rica,Serbia,0–1,0,1,-1,1,away team win,0,1,0,Serbia,Costa Rica,2018
+2018 FIFA World Cup,Germany v Mexico,group stage,Group F,1,0,6/17/2018,Moscow,Russia,Germany,Mexico,0–1,0,1,-1,1,away team win,0,1,0,Mexico,Germany,2018
+2018 FIFA World Cup,Brazil v Switzerland,group stage,Group E,1,0,6/17/2018,Rostov-on-Don,Russia,Brazil,Switzerland,1–1,1,1,0,0,draw,0,0,1,Switzerland,Brazil,2018
+2018 FIFA World Cup,Sweden v South Korea,group stage,Group F,1,0,6/18/2018,Nizhny Novgorod,Russia,Sweden,South Korea,1–0,1,0,1,-1,home team win,1,0,0,Sweden,South Korea,2018
+2018 FIFA World Cup,Belgium v Panama,group stage,Group G,1,0,6/18/2018,Sochi,Russia,Belgium,Panama,3–0,3,0,3,-3,home team win,1,0,0,Belgium,Panama,2018
+2018 FIFA World Cup,Tunisia v England,group stage,Group G,1,0,6/18/2018,Volgograd,Russia,Tunisia,England,1–2,1,2,-1,1,away team win,0,1,0,England,Tunisia,2018
+2018 FIFA World Cup,Colombia v Japan,group stage,Group H,1,0,6/19/2018,Saransk,Russia,Colombia,Japan,1–2,1,2,-1,1,away team win,0,1,0,Japan,Colombia,2018
+2018 FIFA World Cup,Poland v Senegal,group stage,Group H,1,0,6/19/2018,Moscow,Russia,Poland,Senegal,1–2,1,2,-1,1,away team win,0,1,0,Senegal,Poland,2018
+2018 FIFA World Cup,Russia v Egypt,group stage,Group A,1,0,6/19/2018,Saint Petersburg,Russia,Russia,Egypt,3–1,3,1,2,-2,home team win,1,0,0,Russia,Egypt,2018
+2018 FIFA World Cup,Portugal v Morocco,group stage,Group B,1,0,6/20/2018,Moscow,Russia,Portugal,Morocco,1–0,1,0,1,-1,home team win,1,0,0,Portugal,Morocco,2018
+2018 FIFA World Cup,Uruguay v Saudi Arabia,group stage,Group A,1,0,6/20/2018,Rostov-on-Don,Russia,Uruguay,Saudi Arabia,1–0,1,0,1,-1,home team win,1,0,0,Uruguay,Saudi Arabia,2018
+2018 FIFA World Cup,Iran v Spain,group stage,Group B,1,0,6/20/2018,Kazan,Russia,Iran,Spain,0–1,0,1,-1,1,away team win,0,1,0,Spain,Iran,2018
+2018 FIFA World Cup,Denmark v Australia,group stage,Group C,1,0,6/21/2018,Samara,Russia,Denmark,Australia,1–1,1,1,0,0,draw,0,0,1,Australia,Denmark,2018
+2018 FIFA World Cup,France v Peru,group stage,Group C,1,0,6/21/2018,Yekaterinburg,Russia,France,Peru,1–0,1,0,1,-1,home team win,1,0,0,France,Peru,2018
+2018 FIFA World Cup,Argentina v Croatia,group stage,Group D,1,0,6/21/2018,Nizhny Novgorod,Russia,Argentina,Croatia,0–3,0,3,-3,3,away team win,0,1,0,Croatia,Argentina,2018
+2018 FIFA World Cup,Brazil v Costa Rica,group stage,Group E,1,0,6/22/2018,Saint Petersburg,Russia,Brazil,Costa Rica,2–0,2,0,2,-2,home team win,1,0,0,Brazil,Costa Rica,2018
+2018 FIFA World Cup,Nigeria v Iceland,group stage,Group D,1,0,6/22/2018,Volgograd,Russia,Nigeria,Iceland,2–0,2,0,2,-2,home team win,1,0,0,Nigeria,Iceland,2018
+2018 FIFA World Cup,Serbia v Switzerland,group stage,Group E,1,0,6/22/2018,Kaliningrad,Russia,Serbia,Switzerland,1–2,1,2,-1,1,away team win,0,1,0,Switzerland,Serbia,2018
+2018 FIFA World Cup,Belgium v Tunisia,group stage,Group G,1,0,6/23/2018,Moscow,Russia,Belgium,Tunisia,5–2,5,2,3,-3,home team win,1,0,0,Belgium,Tunisia,2018
+2018 FIFA World Cup,South Korea v Mexico,group stage,Group F,1,0,6/23/2018,Rostov-on-Don,Russia,South Korea,Mexico,1–2,1,2,-1,1,away team win,0,1,0,Mexico,South Korea,2018
+2018 FIFA World Cup,Germany v Sweden,group stage,Group F,1,0,6/23/2018,Sochi,Russia,Germany,Sweden,2–1,2,1,1,-1,home team win,1,0,0,Germany,Sweden,2018
+2018 FIFA World Cup,England v Panama,group stage,Group G,1,0,6/24/2018,Nizhny Novgorod,Russia,England,Panama,6–1,6,1,5,-5,home team win,1,0,0,England,Panama,2018
+2018 FIFA World Cup,Japan v Senegal,group stage,Group H,1,0,6/24/2018,Yekaterinburg,Russia,Japan,Senegal,2–2,2,2,0,0,draw,0,0,1,Senegal,Japan,2018
+2018 FIFA World Cup,Poland v Colombia,group stage,Group H,1,0,6/24/2018,Kazan,Russia,Poland,Colombia,0–3,0,3,-3,3,away team win,0,1,0,Colombia,Poland,2018
+2018 FIFA World Cup,Saudi Arabia v Egypt,group stage,Group A,1,0,6/25/2018,Volgograd,Russia,Saudi Arabia,Egypt,2–1,2,1,1,-1,home team win,1,0,0,Saudi Arabia,Egypt,2018
+2018 FIFA World Cup,Uruguay v Russia,group stage,Group A,1,0,6/25/2018,Samara,Russia,Uruguay,Russia,3–0,3,0,3,-3,home team win,1,0,0,Uruguay,Russia,2018
+2018 FIFA World Cup,Spain v Morocco,group stage,Group B,1,0,6/25/2018,Kaliningrad,Russia,Spain,Morocco,2–2,2,2,0,0,draw,0,0,1,Morocco,Spain,2018
+2018 FIFA World Cup,Iran v Portugal,group stage,Group B,1,0,6/25/2018,Saransk,Russia,Iran,Portugal,1–1,1,1,0,0,draw,0,0,1,Portugal,Iran,2018
+2018 FIFA World Cup,Australia v Peru,group stage,Group C,1,0,6/26/2018,Sochi,Russia,Australia,Peru,0–2,0,2,-2,2,away team win,0,1,0,Peru,Australia,2018
+2018 FIFA World Cup,Denmark v France,group stage,Group C,1,0,6/26/2018,Moscow,Russia,Denmark,France,0–0,0,0,0,0,draw,0,0,1,France,Denmark,2018
+2018 FIFA World Cup,Iceland v Croatia,group stage,Group D,1,0,6/26/2018,Rostov-on-Don,Russia,Iceland,Croatia,1–2,1,2,-1,1,away team win,0,1,0,Croatia,Iceland,2018
+2018 FIFA World Cup,Nigeria v Argentina,group stage,Group D,1,0,6/26/2018,Saint Petersburg,Russia,Nigeria,Argentina,1–2,1,2,-1,1,away team win,0,1,0,Argentina,Nigeria,2018
+2018 FIFA World Cup,South Korea v Germany,group stage,Group F,1,0,6/27/2018,Kazan,Russia,South Korea,Germany,2–0,2,0,2,-2,home team win,1,0,0,South Korea,Germany,2018
+2018 FIFA World Cup,Mexico v Sweden,group stage,Group F,1,0,6/27/2018,Yekaterinburg,Russia,Mexico,Sweden,0–3,0,3,-3,3,away team win,0,1,0,Sweden,Mexico,2018
+2018 FIFA World Cup,Serbia v Brazil,group stage,Group E,1,0,6/27/2018,Moscow,Russia,Serbia,Brazil,0–2,0,2,-2,2,away team win,0,1,0,Brazil,Serbia,2018
+2018 FIFA World Cup,Switzerland v Costa Rica,group stage,Group E,1,0,6/27/2018,Nizhny Novgorod,Russia,Switzerland,Costa Rica,2–2,2,2,0,0,draw,0,0,1,Costa Rica,Switzerland,2018
+2018 FIFA World Cup,Japan v Poland,group stage,Group H,1,0,6/28/2018,Volgograd,Russia,Japan,Poland,0–1,0,1,-1,1,away team win,0,1,0,Poland,Japan,2018
+2018 FIFA World Cup,Senegal v Colombia,group stage,Group H,1,0,6/28/2018,Samara,Russia,Senegal,Colombia,0–1,0,1,-1,1,away team win,0,1,0,Colombia,Senegal,2018
+2018 FIFA World Cup,England v Belgium,group stage,Group G,1,0,6/28/2018,Kaliningrad,Russia,England,Belgium,0–1,0,1,-1,1,away team win,0,1,0,Belgium,England,2018
+2018 FIFA World Cup,Panama v Tunisia,group stage,Group G,1,0,6/28/2018,Saransk,Russia,Panama,Tunisia,1–2,1,2,-1,1,away team win,0,1,0,Tunisia,Panama,2018
+2018 FIFA World Cup,France v Argentina,round of 16,not applicable,0,1,6/30/2018,Kazan,Russia,France,Argentina,4–3,4,3,1,-1,home team win,1,0,0,France,Argentina,2018
+2018 FIFA World Cup,Uruguay v Portugal,round of 16,not applicable,0,1,6/30/2018,Sochi,Russia,Uruguay,Portugal,2–1,2,1,1,-1,home team win,1,0,0,Uruguay,Portugal,2018
+2018 FIFA World Cup,Spain v Russia,round of 16,not applicable,0,1,7/1/2018,Moscow,Russia,Spain,Russia,1–1,1,1,0,0,away team win,0,1,0,Russia,Spain,2018
+2018 FIFA World Cup,Croatia v Denmark,round of 16,not applicable,0,1,7/1/2018,Nizhny Novgorod,Russia,Croatia,Denmark,1–1,1,1,0,0,home team win,1,0,0,Denmark,Croatia,2018
+2018 FIFA World Cup,Brazil v Mexico,round of 16,not applicable,0,1,7/2/2018,Samara,Russia,Brazil,Mexico,2–0,2,0,2,-2,home team win,1,0,0,Brazil,Mexico,2018
+2018 FIFA World Cup,Belgium v Japan,round of 16,not applicable,0,1,7/2/2018,Rostov-on-Don,Russia,Belgium,Japan,3–2,3,2,1,-1,home team win,1,0,0,Belgium,Japan,2018
+2018 FIFA World Cup,Sweden v Switzerland,round of 16,not applicable,0,1,7/3/2018,Saint Petersburg,Russia,Sweden,Switzerland,1–0,1,0,1,-1,home team win,1,0,0,Sweden,Switzerland,2018
+2018 FIFA World Cup,Colombia v England,round of 16,not applicable,0,1,7/3/2018,Moscow,Russia,Colombia,England,1–1,1,1,0,0,away team win,0,1,0,England,Colombia,2018
+2018 FIFA World Cup,Uruguay v France,quarter-finals,not applicable,0,1,7/6/2018,Nizhny Novgorod,Russia,Uruguay,France,0–2,0,2,-2,2,away team win,0,1,0,France,Uruguay,2018
+2018 FIFA World Cup,Brazil v Belgium,quarter-finals,not applicable,0,1,7/6/2018,Kazan,Russia,Brazil,Belgium,1–2,1,2,-1,1,away team win,0,1,0,Belgium,Brazil,2018
+2018 FIFA World Cup,Sweden v England,quarter-finals,not applicable,0,1,7/7/2018,Samara,Russia,Sweden,England,0–2,0,2,-2,2,away team win,0,1,0,England,Sweden,2018
+2018 FIFA World Cup,Russia v Croatia,quarter-finals,not applicable,0,1,7/7/2018,Sochi,Russia,Russia,Croatia,2–2,2,2,0,0,away team win,0,1,0,Croatia,Russia,2018
+2018 FIFA World Cup,France v Belgium,semi-finals,not applicable,0,1,7/10/2018,Saint Petersburg,Russia,France,Belgium,1–0,1,0,1,-1,home team win,1,0,0,France,Belgium,2018
+2018 FIFA World Cup,Croatia v England,semi-finals,not applicable,0,1,7/11/2018,Moscow,Russia,Croatia,England,2–1,2,1,1,-1,home team win,1,0,0,Croatia,England,2018
+2018 FIFA World Cup,Belgium v England,third-place match,not applicable,0,1,7/14/2018,Saint Petersburg,Russia,Belgium,England,2–0,2,0,2,-2,home team win,1,0,0,Belgium,England,2018
+2018 FIFA World Cup,France v Croatia,final,not applicable,0,1,7/15/2018,Moscow,Russia,France,Croatia,4–2,4,2,2,-2,home team win,1,0,0,France,Croatia,2018
+,,,,NA,NA,,,,,,,NA,NA,NA,NA,,NA,NA,NA,,0,
